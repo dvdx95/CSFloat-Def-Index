@@ -1,0 +1,9977 @@
+[
+  {
+    "paintIndex": 17,
+    "defIndex": 1,
+    "name": "Desert Eagle | Urban DDPAT"
+  },
+  {
+    "paintIndex": 37,
+    "defIndex": 1,
+    "name": "Desert Eagle | Blaze"
+  },
+  {
+    "paintIndex": 40,
+    "defIndex": 1,
+    "name": "Desert Eagle | Night"
+  },
+  {
+    "paintIndex": 61,
+    "defIndex": 1,
+    "name": "Desert Eagle | Hypnotic"
+  },
+  {
+    "paintIndex": 90,
+    "defIndex": 1,
+    "name": "Desert Eagle | Mudder"
+  },
+  {
+    "paintIndex": 114,
+    "defIndex": 1,
+    "name": "Desert Eagle | Calligraffiti"
+  },
+  {
+    "paintIndex": 138,
+    "defIndex": 1,
+    "name": "Desert Eagle | Tilted"
+  },
+  {
+    "paintIndex": 185,
+    "defIndex": 1,
+    "name": "Desert Eagle | Golden Koi"
+  },
+  {
+    "paintIndex": 231,
+    "defIndex": 1,
+    "name": "Desert Eagle | Cobalt Disruption"
+  },
+  {
+    "paintIndex": 232,
+    "defIndex": 1,
+    "name": "Desert Eagle | Crimson Web"
+  },
+  {
+    "paintIndex": 237,
+    "defIndex": 1,
+    "name": "Desert Eagle | Urban Rubble"
+  },
+  {
+    "paintIndex": 273,
+    "defIndex": 1,
+    "name": "Desert Eagle | Heirloom"
+  },
+  {
+    "paintIndex": 296,
+    "defIndex": 1,
+    "name": "Desert Eagle | Meteorite"
+  },
+  {
+    "paintIndex": 328,
+    "defIndex": 1,
+    "name": "Desert Eagle | Hand Cannon"
+  },
+  {
+    "paintIndex": 347,
+    "defIndex": 1,
+    "name": "Desert Eagle | Pilot"
+  },
+  {
+    "paintIndex": 351,
+    "defIndex": 1,
+    "name": "Desert Eagle | Conspiracy"
+  },
+  {
+    "paintIndex": 397,
+    "defIndex": 1,
+    "name": "Desert Eagle | Naga"
+  },
+  {
+    "paintIndex": 425,
+    "defIndex": 1,
+    "name": "Desert Eagle | Bronze Deco"
+  },
+  {
+    "paintIndex": 468,
+    "defIndex": 1,
+    "name": "Desert Eagle | Midnight Storm"
+  },
+  {
+    "paintIndex": 469,
+    "defIndex": 1,
+    "name": "Desert Eagle | Sunset Storm 壱"
+  },
+  {
+    "paintIndex": 470,
+    "defIndex": 1,
+    "name": "Desert Eagle | Sunset Storm 弐"
+  },
+  {
+    "paintIndex": 509,
+    "defIndex": 1,
+    "name": "Desert Eagle | Corinthian"
+  },
+  {
+    "paintIndex": 527,
+    "defIndex": 1,
+    "name": "Desert Eagle | Kumicho Dragon"
+  },
+  {
+    "paintIndex": 603,
+    "defIndex": 1,
+    "name": "Desert Eagle | Directive"
+  },
+  {
+    "paintIndex": 645,
+    "defIndex": 1,
+    "name": "Desert Eagle | Oxide Blaze"
+  },
+  {
+    "paintIndex": 711,
+    "defIndex": 1,
+    "name": "Desert Eagle | Code Red"
+  },
+  {
+    "paintIndex": 757,
+    "defIndex": 1,
+    "name": "Desert Eagle | Emerald Jörmungandr"
+  },
+  {
+    "paintIndex": 764,
+    "defIndex": 1,
+    "name": "Desert Eagle | Fennec Fox"
+  },
+  {
+    "paintIndex": 805,
+    "defIndex": 1,
+    "name": "Desert Eagle | Mecha Industries"
+  },
+  {
+    "paintIndex": 841,
+    "defIndex": 1,
+    "name": "Desert Eagle | Light Rail"
+  },
+  {
+    "paintIndex": 938,
+    "defIndex": 1,
+    "name": "Desert Eagle | Starcade"
+  },
+  {
+    "paintIndex": 945,
+    "defIndex": 1,
+    "name": "Desert Eagle | Blue Ply"
+  },
+  {
+    "paintIndex": 962,
+    "defIndex": 1,
+    "name": "Desert Eagle | Printstream"
+  },
+  {
+    "paintIndex": 992,
+    "defIndex": 1,
+    "name": "Desert Eagle | The Bronze"
+  },
+  {
+    "paintIndex": 1006,
+    "defIndex": 1,
+    "name": "Desert Eagle | Night Heist"
+  },
+  {
+    "paintIndex": 1050,
+    "defIndex": 1,
+    "name": "Desert Eagle | Trigger Discipline"
+  },
+  {
+    "paintIndex": 1054,
+    "defIndex": 1,
+    "name": "Desert Eagle | Heat Treated"
+  },
+  {
+    "paintIndex": 1056,
+    "defIndex": 1,
+    "name": "Desert Eagle | Sputnik"
+  },
+  {
+    "paintIndex": 1090,
+    "defIndex": 1,
+    "name": "Desert Eagle | Ocean Drive"
+  },
+  {
+    "paintIndex": 1189,
+    "defIndex": 1,
+    "name": "Desert Eagle | Serpent Strike"
+  },
+  {
+    "paintIndex": 1257,
+    "defIndex": 1,
+    "name": "Desert Eagle | Mint Fan"
+  },
+  {
+    "paintIndex": 1318,
+    "defIndex": 1,
+    "name": "Desert Eagle | Mulberry"
+  },
+  {
+    "paintIndex": 28,
+    "defIndex": 2,
+    "name": "Dual Berettas | Anodized Navy"
+  },
+  {
+    "paintIndex": 43,
+    "defIndex": 2,
+    "name": "Dual Berettas | Stained"
+  },
+  {
+    "paintIndex": 46,
+    "defIndex": 2,
+    "name": "Dual Berettas | Contractor"
+  },
+  {
+    "paintIndex": 47,
+    "defIndex": 2,
+    "name": "Dual Berettas | Colony"
+  },
+  {
+    "paintIndex": 112,
+    "defIndex": 2,
+    "name": "Dual Berettas | Hydro Strike"
+  },
+  {
+    "paintIndex": 139,
+    "defIndex": 2,
+    "name": "Dual Berettas | Sweet Little Angels"
+  },
+  {
+    "paintIndex": 153,
+    "defIndex": 2,
+    "name": "Dual Berettas | Demolition"
+  },
+  {
+    "paintIndex": 190,
+    "defIndex": 2,
+    "name": "Dual Berettas | Black Limba"
+  },
+  {
+    "paintIndex": 220,
+    "defIndex": 2,
+    "name": "Dual Berettas | Hemoglobin"
+  },
+  {
+    "paintIndex": 249,
+    "defIndex": 2,
+    "name": "Dual Berettas | Cobalt Quartz"
+  },
+  {
+    "paintIndex": 261,
+    "defIndex": 2,
+    "name": "Dual Berettas | Marina"
+  },
+  {
+    "paintIndex": 276,
+    "defIndex": 2,
+    "name": "Dual Berettas | Panther"
+  },
+  {
+    "paintIndex": 307,
+    "defIndex": 2,
+    "name": "Dual Berettas | Retribution"
+  },
+  {
+    "paintIndex": 330,
+    "defIndex": 2,
+    "name": "Dual Berettas | Briar"
+  },
+  {
+    "paintIndex": 396,
+    "defIndex": 2,
+    "name": "Dual Berettas | Urban Shock"
+  },
+  {
+    "paintIndex": 447,
+    "defIndex": 2,
+    "name": "Dual Berettas | Duelist"
+  },
+  {
+    "paintIndex": 450,
+    "defIndex": 2,
+    "name": "Dual Berettas | Moon in Libra"
+  },
+  {
+    "paintIndex": 453,
+    "defIndex": 2,
+    "name": "Dual Berettas | Emerald"
+  },
+  {
+    "paintIndex": 491,
+    "defIndex": 2,
+    "name": "Dual Berettas | Dualing Dragons"
+  },
+  {
+    "paintIndex": 528,
+    "defIndex": 2,
+    "name": "Dual Berettas | Cartel"
+  },
+  {
+    "paintIndex": 544,
+    "defIndex": 2,
+    "name": "Dual Berettas | Ventilators"
+  },
+  {
+    "paintIndex": 625,
+    "defIndex": 2,
+    "name": "Dual Berettas | Royal Consorts"
+  },
+  {
+    "paintIndex": 658,
+    "defIndex": 2,
+    "name": "Dual Berettas | Cobra Strike"
+  },
+  {
+    "paintIndex": 710,
+    "defIndex": 2,
+    "name": "Dual Berettas | Shred"
+  },
+  {
+    "paintIndex": 747,
+    "defIndex": 2,
+    "name": "Dual Berettas | Twin Turbo"
+  },
+  {
+    "paintIndex": 824,
+    "defIndex": 2,
+    "name": "Dual Berettas | Drift Wood"
+  },
+  {
+    "paintIndex": 860,
+    "defIndex": 2,
+    "name": "Dual Berettas | Pyre"
+  },
+  {
+    "paintIndex": 895,
+    "defIndex": 2,
+    "name": "Dual Berettas | Balance"
+  },
+  {
+    "paintIndex": 903,
+    "defIndex": 2,
+    "name": "Dual Berettas | Elite 1.6"
+  },
+  {
+    "paintIndex": 978,
+    "defIndex": 2,
+    "name": "Dual Berettas | Dezastre"
+  },
+  {
+    "paintIndex": 998,
+    "defIndex": 2,
+    "name": "Dual Berettas | Switch Board"
+  },
+  {
+    "paintIndex": 1005,
+    "defIndex": 2,
+    "name": "Dual Berettas | Heist"
+  },
+  {
+    "paintIndex": 1086,
+    "defIndex": 2,
+    "name": "Dual Berettas | Oil Change"
+  },
+  {
+    "paintIndex": 1091,
+    "defIndex": 2,
+    "name": "Dual Berettas | Tread"
+  },
+  {
+    "paintIndex": 1126,
+    "defIndex": 2,
+    "name": "Dual Berettas | Melondrama"
+  },
+  {
+    "paintIndex": 1156,
+    "defIndex": 2,
+    "name": "Dual Berettas | Flora Carnivora"
+  },
+  {
+    "paintIndex": 1169,
+    "defIndex": 2,
+    "name": "Dual Berettas | Hideout"
+  },
+  {
+    "paintIndex": 1263,
+    "defIndex": 2,
+    "name": "Dual Berettas | Rose Nacre"
+  },
+  {
+    "paintIndex": 1290,
+    "defIndex": 2,
+    "name": "Dual Berettas | Polished Malachite"
+  },
+  {
+    "paintIndex": 1335,
+    "defIndex": 2,
+    "name": "Dual Berettas | BorDeux"
+  },
+  {
+    "paintIndex": 3,
+    "defIndex": 3,
+    "name": "Five-SeveN | Candy Apple"
+  },
+  {
+    "paintIndex": 44,
+    "defIndex": 3,
+    "name": "Five-SeveN | Case Hardened"
+  },
+  {
+    "paintIndex": 46,
+    "defIndex": 3,
+    "name": "Five-SeveN | Contractor"
+  },
+  {
+    "paintIndex": 78,
+    "defIndex": 3,
+    "name": "Five-SeveN | Forest Night"
+  },
+  {
+    "paintIndex": 141,
+    "defIndex": 3,
+    "name": "Five-SeveN | Orange Peel"
+  },
+  {
+    "paintIndex": 151,
+    "defIndex": 3,
+    "name": "Five-SeveN | Jungle"
+  },
+  {
+    "paintIndex": 210,
+    "defIndex": 3,
+    "name": "Five-SeveN | Anodized Gunmetal"
+  },
+  {
+    "paintIndex": 223,
+    "defIndex": 3,
+    "name": "Five-SeveN | Nightshade"
+  },
+  {
+    "paintIndex": 252,
+    "defIndex": 3,
+    "name": "Five-SeveN | Silver Quartz"
+  },
+  {
+    "paintIndex": 254,
+    "defIndex": 3,
+    "name": "Five-SeveN | Nitro"
+  },
+  {
+    "paintIndex": 265,
+    "defIndex": 3,
+    "name": "Five-SeveN | Kami"
+  },
+  {
+    "paintIndex": 274,
+    "defIndex": 3,
+    "name": "Five-SeveN | Copper Galaxy"
+  },
+  {
+    "paintIndex": 352,
+    "defIndex": 3,
+    "name": "Five-SeveN | Fowl Play"
+  },
+  {
+    "paintIndex": 377,
+    "defIndex": 3,
+    "name": "Five-SeveN | Hot Shot"
+  },
+  {
+    "paintIndex": 387,
+    "defIndex": 3,
+    "name": "Five-SeveN | Urban Hazard"
+  },
+  {
+    "paintIndex": 427,
+    "defIndex": 3,
+    "name": "Five-SeveN | Monkey Business"
+  },
+  {
+    "paintIndex": 464,
+    "defIndex": 3,
+    "name": "Five-SeveN | Neon Kimono"
+  },
+  {
+    "paintIndex": 510,
+    "defIndex": 3,
+    "name": "Five-SeveN | Retrobution"
+  },
+  {
+    "paintIndex": 530,
+    "defIndex": 3,
+    "name": "Five-SeveN | Triumvirate"
+  },
+  {
+    "paintIndex": 585,
+    "defIndex": 3,
+    "name": "Five-SeveN | Violent Daimyo"
+  },
+  {
+    "paintIndex": 605,
+    "defIndex": 3,
+    "name": "Five-SeveN | Scumbria"
+  },
+  {
+    "paintIndex": 646,
+    "defIndex": 3,
+    "name": "Five-SeveN | Capillary"
+  },
+  {
+    "paintIndex": 660,
+    "defIndex": 3,
+    "name": "Five-SeveN | Hyper Beast"
+  },
+  {
+    "paintIndex": 693,
+    "defIndex": 3,
+    "name": "Five-SeveN | Flame Test"
+  },
+  {
+    "paintIndex": 729,
+    "defIndex": 3,
+    "name": "Five-SeveN | Crimson Blossom"
+  },
+  {
+    "paintIndex": 784,
+    "defIndex": 3,
+    "name": "Five-SeveN | Coolant"
+  },
+  {
+    "paintIndex": 831,
+    "defIndex": 3,
+    "name": "Five-SeveN | Heat Treated"
+  },
+  {
+    "paintIndex": 837,
+    "defIndex": 3,
+    "name": "Five-SeveN | Angry Mob"
+  },
+  {
+    "paintIndex": 906,
+    "defIndex": 3,
+    "name": "Five-SeveN | Buddy"
+  },
+  {
+    "paintIndex": 932,
+    "defIndex": 3,
+    "name": "Five-SeveN | Withered Vine"
+  },
+  {
+    "paintIndex": 979,
+    "defIndex": 3,
+    "name": "Five-SeveN | Fairy Tale"
+  },
+  {
+    "paintIndex": 1002,
+    "defIndex": 3,
+    "name": "Five-SeveN | Berries And Cherries"
+  },
+  {
+    "paintIndex": 1062,
+    "defIndex": 3,
+    "name": "Five-SeveN | Midnight Paintover"
+  },
+  {
+    "paintIndex": 1082,
+    "defIndex": 3,
+    "name": "Five-SeveN | Fall Hazard"
+  },
+  {
+    "paintIndex": 1093,
+    "defIndex": 3,
+    "name": "Five-SeveN | Boost Protocol"
+  },
+  {
+    "paintIndex": 1128,
+    "defIndex": 3,
+    "name": "Five-SeveN | Scrawl"
+  },
+  {
+    "paintIndex": 1168,
+    "defIndex": 3,
+    "name": "Five-SeveN | Hybrid"
+  },
+  {
+    "paintIndex": 1262,
+    "defIndex": 3,
+    "name": "Five-SeveN | Sky Blue"
+  },
+  {
+    "paintIndex": 1336,
+    "defIndex": 3,
+    "name": "Five-SeveN | Autumn Thicket"
+  },
+  {
+    "paintIndex": 2,
+    "defIndex": 4,
+    "name": "Glock-18 | Groundwater"
+  },
+  {
+    "paintIndex": 3,
+    "defIndex": 4,
+    "name": "Glock-18 | Candy Apple"
+  },
+  {
+    "paintIndex": 38,
+    "defIndex": 4,
+    "name": "Glock-18 | Fade"
+  },
+  {
+    "paintIndex": 40,
+    "defIndex": 4,
+    "name": "Glock-18 | Night"
+  },
+  {
+    "paintIndex": 48,
+    "defIndex": 4,
+    "name": "Glock-18 | Dragon Tattoo"
+  },
+  {
+    "paintIndex": 84,
+    "defIndex": 4,
+    "name": "Glock-18 | Pink DDPAT"
+  },
+  {
+    "paintIndex": 129,
+    "defIndex": 4,
+    "name": "Glock-18 | Gold Toof"
+  },
+  {
+    "paintIndex": 152,
+    "defIndex": 4,
+    "name": "Glock-18 | Teal Graf"
+  },
+  {
+    "paintIndex": 159,
+    "defIndex": 4,
+    "name": "Glock-18 | Brass"
+  },
+  {
+    "paintIndex": 208,
+    "defIndex": 4,
+    "name": "Glock-18 | Sand Dune"
+  },
+  {
+    "paintIndex": 230,
+    "defIndex": 4,
+    "name": "Glock-18 | Steel Disruption"
+  },
+  {
+    "paintIndex": 278,
+    "defIndex": 4,
+    "name": "Glock-18 | Blue Fissure"
+  },
+  {
+    "paintIndex": 293,
+    "defIndex": 4,
+    "name": "Glock-18 | Death Rattle"
+  },
+  {
+    "paintIndex": 353,
+    "defIndex": 4,
+    "name": "Glock-18 | Water Elemental"
+  },
+  {
+    "paintIndex": 367,
+    "defIndex": 4,
+    "name": "Glock-18 | Reactor"
+  },
+  {
+    "paintIndex": 381,
+    "defIndex": 4,
+    "name": "Glock-18 | Grinder"
+  },
+  {
+    "paintIndex": 399,
+    "defIndex": 4,
+    "name": "Glock-18 | Catacombs"
+  },
+  {
+    "paintIndex": 437,
+    "defIndex": 4,
+    "name": "Glock-18 | Twilight Galaxy"
+  },
+  {
+    "paintIndex": 479,
+    "defIndex": 4,
+    "name": "Glock-18 | Bunsen Burner"
+  },
+  {
+    "paintIndex": 495,
+    "defIndex": 4,
+    "name": "Glock-18 | Wraiths"
+  },
+  {
+    "paintIndex": 532,
+    "defIndex": 4,
+    "name": "Glock-18 | Royal Legion"
+  },
+  {
+    "paintIndex": 586,
+    "defIndex": 4,
+    "name": "Glock-18 | Wasteland Rebel"
+  },
+  {
+    "paintIndex": 607,
+    "defIndex": 4,
+    "name": "Glock-18 | Weasel"
+  },
+  {
+    "paintIndex": 623,
+    "defIndex": 4,
+    "name": "Glock-18 | Ironwork"
+  },
+  {
+    "paintIndex": 680,
+    "defIndex": 4,
+    "name": "Glock-18 | Off World"
+  },
+  {
+    "paintIndex": 694,
+    "defIndex": 4,
+    "name": "Glock-18 | Moonrise"
+  },
+  {
+    "paintIndex": 713,
+    "defIndex": 4,
+    "name": "Glock-18 | Warhawk"
+  },
+  {
+    "paintIndex": 732,
+    "defIndex": 4,
+    "name": "Glock-18 | Synth Leaf"
+  },
+  {
+    "paintIndex": 789,
+    "defIndex": 4,
+    "name": "Glock-18 | Nuclear Garden"
+  },
+  {
+    "paintIndex": 799,
+    "defIndex": 4,
+    "name": "Glock-18 | High Beam"
+  },
+  {
+    "paintIndex": 808,
+    "defIndex": 4,
+    "name": "Glock-18 | Oxide Blaze"
+  },
+  {
+    "paintIndex": 832,
+    "defIndex": 4,
+    "name": "Glock-18 | AXIA"
+  },
+  {
+    "paintIndex": 918,
+    "defIndex": 4,
+    "name": "Glock-18 | Sacrifice"
+  },
+  {
+    "paintIndex": 957,
+    "defIndex": 4,
+    "name": "Glock-18 | Bullet Queen"
+  },
+  {
+    "paintIndex": 963,
+    "defIndex": 4,
+    "name": "Glock-18 | Vogue"
+  },
+  {
+    "paintIndex": 988,
+    "defIndex": 4,
+    "name": "Glock-18 | Neo-Noir"
+  },
+  {
+    "paintIndex": 1016,
+    "defIndex": 4,
+    "name": "Glock-18 | Franklin"
+  },
+  {
+    "paintIndex": 1039,
+    "defIndex": 4,
+    "name": "Glock-18 | Clear Polymer"
+  },
+  {
+    "paintIndex": 1079,
+    "defIndex": 4,
+    "name": "Glock-18 | Red Tire"
+  },
+  {
+    "paintIndex": 1100,
+    "defIndex": 4,
+    "name": "Glock-18 | Snack Attack"
+  },
+  {
+    "paintIndex": 1119,
+    "defIndex": 4,
+    "name": "Glock-18 | Gamma Doppler (Emerald)"
+  },
+  {
+    "paintIndex": 1120,
+    "defIndex": 4,
+    "name": "Glock-18 | Gamma Doppler (Phase 1)"
+  },
+  {
+    "paintIndex": 1121,
+    "defIndex": 4,
+    "name": "Glock-18 | Gamma Doppler (Phase 2)"
+  },
+  {
+    "paintIndex": 1122,
+    "defIndex": 4,
+    "name": "Glock-18 | Gamma Doppler (Phase 3)"
+  },
+  {
+    "paintIndex": 1123,
+    "defIndex": 4,
+    "name": "Glock-18 | Gamma Doppler (Phase 4)"
+  },
+  {
+    "paintIndex": 1158,
+    "defIndex": 4,
+    "name": "Glock-18 | Winterized"
+  },
+  {
+    "paintIndex": 1167,
+    "defIndex": 4,
+    "name": "Glock-18 | Block-18"
+  },
+  {
+    "paintIndex": 1200,
+    "defIndex": 4,
+    "name": "Glock-18 | Green Line"
+  },
+  {
+    "paintIndex": 1208,
+    "defIndex": 4,
+    "name": "Glock-18 | Shinobu"
+  },
+  {
+    "paintIndex": 1227,
+    "defIndex": 4,
+    "name": "Glock-18 | Umbral Rabbit"
+  },
+  {
+    "paintIndex": 1240,
+    "defIndex": 4,
+    "name": "Glock-18 | Ramese's Reach"
+  },
+  {
+    "paintIndex": 1265,
+    "defIndex": 4,
+    "name": "Glock-18 | Ocean Topo"
+  },
+  {
+    "paintIndex": 1282,
+    "defIndex": 4,
+    "name": "Glock-18 | Glockingbird"
+  },
+  {
+    "paintIndex": 1312,
+    "defIndex": 4,
+    "name": "Glock-18 | Coral Bloom"
+  },
+  {
+    "paintIndex": 14,
+    "defIndex": 7,
+    "name": "AK-47 | Red Laminate"
+  },
+  {
+    "paintIndex": 44,
+    "defIndex": 7,
+    "name": "AK-47 | Case Hardened"
+  },
+  {
+    "paintIndex": 72,
+    "defIndex": 7,
+    "name": "AK-47 | Safari Mesh"
+  },
+  {
+    "paintIndex": 113,
+    "defIndex": 7,
+    "name": "AK-47 | The Outsiders"
+  },
+  {
+    "paintIndex": 122,
+    "defIndex": 7,
+    "name": "AK-47 | Jungle Spray"
+  },
+  {
+    "paintIndex": 142,
+    "defIndex": 7,
+    "name": "AK-47 | B the Monster"
+  },
+  {
+    "paintIndex": 170,
+    "defIndex": 7,
+    "name": "AK-47 | Predator"
+  },
+  {
+    "paintIndex": 172,
+    "defIndex": 7,
+    "name": "AK-47 | Black Laminate"
+  },
+  {
+    "paintIndex": 180,
+    "defIndex": 7,
+    "name": "AK-47 | Fire Serpent"
+  },
+  {
+    "paintIndex": 226,
+    "defIndex": 7,
+    "name": "AK-47 | Blue Laminate"
+  },
+  {
+    "paintIndex": 282,
+    "defIndex": 7,
+    "name": "AK-47 | Redline"
+  },
+  {
+    "paintIndex": 300,
+    "defIndex": 7,
+    "name": "AK-47 | Emerald Pinstripe"
+  },
+  {
+    "paintIndex": 302,
+    "defIndex": 7,
+    "name": "AK-47 | Vulcan"
+  },
+  {
+    "paintIndex": 316,
+    "defIndex": 7,
+    "name": "AK-47 | Jaguar"
+  },
+  {
+    "paintIndex": 340,
+    "defIndex": 7,
+    "name": "AK-47 | Jet Set"
+  },
+  {
+    "paintIndex": 341,
+    "defIndex": 7,
+    "name": "AK-47 | First Class"
+  },
+  {
+    "paintIndex": 380,
+    "defIndex": 7,
+    "name": "AK-47 | Wasteland Rebel"
+  },
+  {
+    "paintIndex": 394,
+    "defIndex": 7,
+    "name": "AK-47 | Cartel"
+  },
+  {
+    "paintIndex": 422,
+    "defIndex": 7,
+    "name": "AK-47 | Elite Build"
+  },
+  {
+    "paintIndex": 456,
+    "defIndex": 7,
+    "name": "AK-47 | Hydroponic"
+  },
+  {
+    "paintIndex": 474,
+    "defIndex": 7,
+    "name": "AK-47 | Aquamarine Revenge"
+  },
+  {
+    "paintIndex": 490,
+    "defIndex": 7,
+    "name": "AK-47 | Frontside Misty"
+  },
+  {
+    "paintIndex": 506,
+    "defIndex": 7,
+    "name": "AK-47 | Point Disarray"
+  },
+  {
+    "paintIndex": 524,
+    "defIndex": 7,
+    "name": "AK-47 | Fuel Injector"
+  },
+  {
+    "paintIndex": 600,
+    "defIndex": 7,
+    "name": "AK-47 | Neon Revolution"
+  },
+  {
+    "paintIndex": 639,
+    "defIndex": 7,
+    "name": "AK-47 | Bloodsport"
+  },
+  {
+    "paintIndex": 656,
+    "defIndex": 7,
+    "name": "AK-47 | Orbit Mk01"
+  },
+  {
+    "paintIndex": 675,
+    "defIndex": 7,
+    "name": "AK-47 | The Empress"
+  },
+  {
+    "paintIndex": 707,
+    "defIndex": 7,
+    "name": "AK-47 | Neon Rider"
+  },
+  {
+    "paintIndex": 724,
+    "defIndex": 7,
+    "name": "AK-47 | Wild Lotus"
+  },
+  {
+    "paintIndex": 745,
+    "defIndex": 7,
+    "name": "AK-47 | Baroque Purple"
+  },
+  {
+    "paintIndex": 795,
+    "defIndex": 7,
+    "name": "AK-47 | Safety Net"
+  },
+  {
+    "paintIndex": 801,
+    "defIndex": 7,
+    "name": "AK-47 | Asiimov"
+  },
+  {
+    "paintIndex": 836,
+    "defIndex": 7,
+    "name": "AK-47 | Uncharted"
+  },
+  {
+    "paintIndex": 885,
+    "defIndex": 7,
+    "name": "AK-47 | Rat Rod"
+  },
+  {
+    "paintIndex": 912,
+    "defIndex": 7,
+    "name": "AK-47 | Crossfade"
+  },
+  {
+    "paintIndex": 921,
+    "defIndex": 7,
+    "name": "AK-47 | Gold Arabesque"
+  },
+  {
+    "paintIndex": 941,
+    "defIndex": 7,
+    "name": "AK-47 | Phantom Disruptor"
+  },
+  {
+    "paintIndex": 959,
+    "defIndex": 7,
+    "name": "AK-47 | Legion of Anubis"
+  },
+  {
+    "paintIndex": 1004,
+    "defIndex": 7,
+    "name": "AK-47 | X-Ray"
+  },
+  {
+    "paintIndex": 1018,
+    "defIndex": 7,
+    "name": "AK-47 | Panthera onca"
+  },
+  {
+    "paintIndex": 1035,
+    "defIndex": 7,
+    "name": "AK-47 | Slate"
+  },
+  {
+    "paintIndex": 1070,
+    "defIndex": 7,
+    "name": "AK-47 | Green Laminate"
+  },
+  {
+    "paintIndex": 1087,
+    "defIndex": 7,
+    "name": "AK-47 | Leet Museo"
+  },
+  {
+    "paintIndex": 1141,
+    "defIndex": 7,
+    "name": "AK-47 | Nightwish"
+  },
+  {
+    "paintIndex": 1143,
+    "defIndex": 7,
+    "name": "AK-47 | Ice Coaled"
+  },
+  {
+    "paintIndex": 1171,
+    "defIndex": 7,
+    "name": "AK-47 | Inheritance"
+  },
+  {
+    "paintIndex": 1179,
+    "defIndex": 7,
+    "name": "AK-47 | Olive Polycam"
+  },
+  {
+    "paintIndex": 1207,
+    "defIndex": 7,
+    "name": "AK-47 | Searing Rage"
+  },
+  {
+    "paintIndex": 1218,
+    "defIndex": 7,
+    "name": "AK-47 | Midnight Laminate"
+  },
+  {
+    "paintIndex": 1221,
+    "defIndex": 7,
+    "name": "AK-47 | Head Shot"
+  },
+  {
+    "paintIndex": 1238,
+    "defIndex": 7,
+    "name": "AK-47 | Steel Delta"
+  },
+  {
+    "paintIndex": 1283,
+    "defIndex": 7,
+    "name": "AK-47 | Wintergreen"
+  },
+  {
+    "paintIndex": 1288,
+    "defIndex": 7,
+    "name": "AK-47 | VariCamo Grey"
+  },
+  {
+    "paintIndex": 1309,
+    "defIndex": 7,
+    "name": "AK-47 | Nouveau Rouge"
+  },
+  {
+    "paintIndex": 9,
+    "defIndex": 8,
+    "name": "AUG | Bengal Tiger"
+  },
+  {
+    "paintIndex": 10,
+    "defIndex": 8,
+    "name": "AUG | Copperhead"
+  },
+  {
+    "paintIndex": 33,
+    "defIndex": 8,
+    "name": "AUG | Hot Rod"
+  },
+  {
+    "paintIndex": 46,
+    "defIndex": 8,
+    "name": "AUG | Contractor"
+  },
+  {
+    "paintIndex": 47,
+    "defIndex": 8,
+    "name": "AUG | Colony"
+  },
+  {
+    "paintIndex": 73,
+    "defIndex": 8,
+    "name": "AUG | Wings"
+  },
+  {
+    "paintIndex": 100,
+    "defIndex": 8,
+    "name": "AUG | Storm"
+  },
+  {
+    "paintIndex": 110,
+    "defIndex": 8,
+    "name": "AUG | Condemned"
+  },
+  {
+    "paintIndex": 121,
+    "defIndex": 8,
+    "name": "AUG | Luxe Trim"
+  },
+  {
+    "paintIndex": 134,
+    "defIndex": 8,
+    "name": "AUG | Eye of Zapems"
+  },
+  {
+    "paintIndex": 173,
+    "defIndex": 8,
+    "name": "AUG | Lil' Pig"
+  },
+  {
+    "paintIndex": 197,
+    "defIndex": 8,
+    "name": "AUG | Anodized Navy"
+  },
+  {
+    "paintIndex": 246,
+    "defIndex": 8,
+    "name": "AUG | Amber Fade"
+  },
+  {
+    "paintIndex": 280,
+    "defIndex": 8,
+    "name": "AUG | Chameleon"
+  },
+  {
+    "paintIndex": 305,
+    "defIndex": 8,
+    "name": "AUG | Torque"
+  },
+  {
+    "paintIndex": 375,
+    "defIndex": 8,
+    "name": "AUG | Radiation Hazard"
+  },
+  {
+    "paintIndex": 444,
+    "defIndex": 8,
+    "name": "AUG | Daedalus"
+  },
+  {
+    "paintIndex": 455,
+    "defIndex": 8,
+    "name": "AUG | Akihabara Accept"
+  },
+  {
+    "paintIndex": 507,
+    "defIndex": 8,
+    "name": "AUG | Ricochet"
+  },
+  {
+    "paintIndex": 541,
+    "defIndex": 8,
+    "name": "AUG | Fleet Flock"
+  },
+  {
+    "paintIndex": 583,
+    "defIndex": 8,
+    "name": "AUG | Aristocrat"
+  },
+  {
+    "paintIndex": 601,
+    "defIndex": 8,
+    "name": "AUG | Syd Mead"
+  },
+  {
+    "paintIndex": 674,
+    "defIndex": 8,
+    "name": "AUG | Triqua"
+  },
+  {
+    "paintIndex": 690,
+    "defIndex": 8,
+    "name": "AUG | Stymphalian"
+  },
+  {
+    "paintIndex": 708,
+    "defIndex": 8,
+    "name": "AUG | Amber Slipstream"
+  },
+  {
+    "paintIndex": 727,
+    "defIndex": 8,
+    "name": "AUG | Midnight Lily"
+  },
+  {
+    "paintIndex": 740,
+    "defIndex": 8,
+    "name": "AUG | Navy Murano"
+  },
+  {
+    "paintIndex": 758,
+    "defIndex": 8,
+    "name": "AUG | Flame Jörmungandr"
+  },
+  {
+    "paintIndex": 779,
+    "defIndex": 8,
+    "name": "AUG | Random Access"
+  },
+  {
+    "paintIndex": 794,
+    "defIndex": 8,
+    "name": "AUG | Sweeper"
+  },
+  {
+    "paintIndex": 823,
+    "defIndex": 8,
+    "name": "AUG | Sand Storm"
+  },
+  {
+    "paintIndex": 845,
+    "defIndex": 8,
+    "name": "AUG | Momentum"
+  },
+  {
+    "paintIndex": 886,
+    "defIndex": 8,
+    "name": "AUG | Arctic Wolf"
+  },
+  {
+    "paintIndex": 913,
+    "defIndex": 8,
+    "name": "AUG | Death by Puppy"
+  },
+  {
+    "paintIndex": 927,
+    "defIndex": 8,
+    "name": "AUG | Spalted Wood"
+  },
+  {
+    "paintIndex": 942,
+    "defIndex": 8,
+    "name": "AUG | Tom Cat"
+  },
+  {
+    "paintIndex": 995,
+    "defIndex": 8,
+    "name": "AUG | Surveillance"
+  },
+  {
+    "paintIndex": 1033,
+    "defIndex": 8,
+    "name": "AUG | Carved Jade"
+  },
+  {
+    "paintIndex": 1088,
+    "defIndex": 8,
+    "name": "AUG | Plague"
+  },
+  {
+    "paintIndex": 1198,
+    "defIndex": 8,
+    "name": "AUG | Steel Sentinel"
+  },
+  {
+    "paintIndex": 1249,
+    "defIndex": 8,
+    "name": "AUG | Snake Pit"
+  },
+  {
+    "paintIndex": 1308,
+    "defIndex": 8,
+    "name": "AUG | Commando Company"
+  },
+  {
+    "paintIndex": 30,
+    "defIndex": 9,
+    "name": "AWP | Snake Camo"
+  },
+  {
+    "paintIndex": 51,
+    "defIndex": 9,
+    "name": "AWP | Lightning Strike"
+  },
+  {
+    "paintIndex": 72,
+    "defIndex": 9,
+    "name": "AWP | Safari Mesh"
+  },
+  {
+    "paintIndex": 84,
+    "defIndex": 9,
+    "name": "AWP | Pink DDPAT"
+  },
+  {
+    "paintIndex": 137,
+    "defIndex": 9,
+    "name": "AWP | Crakow!"
+  },
+  {
+    "paintIndex": 163,
+    "defIndex": 9,
+    "name": "AWP | CMYK"
+  },
+  {
+    "paintIndex": 174,
+    "defIndex": 9,
+    "name": "AWP | BOOM"
+  },
+  {
+    "paintIndex": 181,
+    "defIndex": 9,
+    "name": "AWP | Corticera"
+  },
+  {
+    "paintIndex": 212,
+    "defIndex": 9,
+    "name": "AWP | Graphite"
+  },
+  {
+    "paintIndex": 227,
+    "defIndex": 9,
+    "name": "AWP | Electric Hive"
+  },
+  {
+    "paintIndex": 251,
+    "defIndex": 9,
+    "name": "AWP | Pit Viper"
+  },
+  {
+    "paintIndex": 259,
+    "defIndex": 9,
+    "name": "AWP | Redline"
+  },
+  {
+    "paintIndex": 279,
+    "defIndex": 9,
+    "name": "AWP | Asiimov"
+  },
+  {
+    "paintIndex": 344,
+    "defIndex": 9,
+    "name": "AWP | Dragon Lore"
+  },
+  {
+    "paintIndex": 395,
+    "defIndex": 9,
+    "name": "AWP | Man-o'-war"
+  },
+  {
+    "paintIndex": 424,
+    "defIndex": 9,
+    "name": "AWP | Worm God"
+  },
+  {
+    "paintIndex": 446,
+    "defIndex": 9,
+    "name": "AWP | Medusa"
+  },
+  {
+    "paintIndex": 451,
+    "defIndex": 9,
+    "name": "AWP | Sun in Leo"
+  },
+  {
+    "paintIndex": 475,
+    "defIndex": 9,
+    "name": "AWP | Hyper Beast"
+  },
+  {
+    "paintIndex": 525,
+    "defIndex": 9,
+    "name": "AWP | Elite Build"
+  },
+  {
+    "paintIndex": 584,
+    "defIndex": 9,
+    "name": "AWP | Phobos"
+  },
+  {
+    "paintIndex": 640,
+    "defIndex": 9,
+    "name": "AWP | Fever Dream"
+  },
+  {
+    "paintIndex": 662,
+    "defIndex": 9,
+    "name": "AWP | Oni Taiji"
+  },
+  {
+    "paintIndex": 691,
+    "defIndex": 9,
+    "name": "AWP | Mortis"
+  },
+  {
+    "paintIndex": 718,
+    "defIndex": 9,
+    "name": "AWP | PAW"
+  },
+  {
+    "paintIndex": 736,
+    "defIndex": 9,
+    "name": "AWP | The Prince"
+  },
+  {
+    "paintIndex": 756,
+    "defIndex": 9,
+    "name": "AWP | Gungnir"
+  },
+  {
+    "paintIndex": 788,
+    "defIndex": 9,
+    "name": "AWP | Acheron"
+  },
+  {
+    "paintIndex": 803,
+    "defIndex": 9,
+    "name": "AWP | Neo-Noir"
+  },
+  {
+    "paintIndex": 819,
+    "defIndex": 9,
+    "name": "AWP | Desert Hydra"
+  },
+  {
+    "paintIndex": 838,
+    "defIndex": 9,
+    "name": "AWP | Atheris"
+  },
+  {
+    "paintIndex": 887,
+    "defIndex": 9,
+    "name": "AWP | Containment Breach"
+  },
+  {
+    "paintIndex": 917,
+    "defIndex": 9,
+    "name": "AWP | Wildfire"
+  },
+  {
+    "paintIndex": 943,
+    "defIndex": 9,
+    "name": "AWP | Capillary"
+  },
+  {
+    "paintIndex": 975,
+    "defIndex": 9,
+    "name": "AWP | Exoskeleton"
+  },
+  {
+    "paintIndex": 1026,
+    "defIndex": 9,
+    "name": "AWP | Fade"
+  },
+  {
+    "paintIndex": 1029,
+    "defIndex": 9,
+    "name": "AWP | Silk Tiger"
+  },
+  {
+    "paintIndex": 1058,
+    "defIndex": 9,
+    "name": "AWP | POP AWP"
+  },
+  {
+    "paintIndex": 1144,
+    "defIndex": 9,
+    "name": "AWP | Chromatic Aberration"
+  },
+  {
+    "paintIndex": 1170,
+    "defIndex": 9,
+    "name": "AWP | Chrome Cannon"
+  },
+  {
+    "paintIndex": 1206,
+    "defIndex": 9,
+    "name": "AWP | Printstream"
+  },
+  {
+    "paintIndex": 1213,
+    "defIndex": 9,
+    "name": "AWP | LongDog"
+  },
+  {
+    "paintIndex": 1222,
+    "defIndex": 9,
+    "name": "AWP | Duality"
+  },
+  {
+    "paintIndex": 1239,
+    "defIndex": 9,
+    "name": "AWP | Black Nile"
+  },
+  {
+    "paintIndex": 1280,
+    "defIndex": 9,
+    "name": "AWP | Green Energy"
+  },
+  {
+    "paintIndex": 1324,
+    "defIndex": 9,
+    "name": "AWP | Arsenic Spill"
+  },
+  {
+    "paintIndex": 22,
+    "defIndex": 10,
+    "name": "FAMAS | Contrast Spray"
+  },
+  {
+    "paintIndex": 47,
+    "defIndex": 10,
+    "name": "FAMAS | Colony"
+  },
+  {
+    "paintIndex": 60,
+    "defIndex": 10,
+    "name": "FAMAS | Dark Water"
+  },
+  {
+    "paintIndex": 92,
+    "defIndex": 10,
+    "name": "FAMAS | Cyanospatter"
+  },
+  {
+    "paintIndex": 154,
+    "defIndex": 10,
+    "name": "FAMAS | Afterimage"
+  },
+  {
+    "paintIndex": 178,
+    "defIndex": 10,
+    "name": "FAMAS | Doomkitty"
+  },
+  {
+    "paintIndex": 194,
+    "defIndex": 10,
+    "name": "FAMAS | Spitfire"
+  },
+  {
+    "paintIndex": 218,
+    "defIndex": 10,
+    "name": "FAMAS | Hexane"
+  },
+  {
+    "paintIndex": 240,
+    "defIndex": 10,
+    "name": "FAMAS | CaliCamo"
+  },
+  {
+    "paintIndex": 244,
+    "defIndex": 10,
+    "name": "FAMAS | Teardown"
+  },
+  {
+    "paintIndex": 260,
+    "defIndex": 10,
+    "name": "FAMAS | Pulse"
+  },
+  {
+    "paintIndex": 288,
+    "defIndex": 10,
+    "name": "FAMAS | Sergeant"
+  },
+  {
+    "paintIndex": 371,
+    "defIndex": 10,
+    "name": "FAMAS | Styx"
+  },
+  {
+    "paintIndex": 429,
+    "defIndex": 10,
+    "name": "FAMAS | Djinn"
+  },
+  {
+    "paintIndex": 461,
+    "defIndex": 10,
+    "name": "FAMAS | Half Sleeve"
+  },
+  {
+    "paintIndex": 477,
+    "defIndex": 10,
+    "name": "FAMAS | Neural Net"
+  },
+  {
+    "paintIndex": 492,
+    "defIndex": 10,
+    "name": "FAMAS | Survivor Z"
+  },
+  {
+    "paintIndex": 529,
+    "defIndex": 10,
+    "name": "FAMAS | Valence"
+  },
+  {
+    "paintIndex": 604,
+    "defIndex": 10,
+    "name": "FAMAS | Roll Cage"
+  },
+  {
+    "paintIndex": 626,
+    "defIndex": 10,
+    "name": "FAMAS | Mecha Industries"
+  },
+  {
+    "paintIndex": 659,
+    "defIndex": 10,
+    "name": "FAMAS | Macabre"
+  },
+  {
+    "paintIndex": 723,
+    "defIndex": 10,
+    "name": "FAMAS | Eye of Athena"
+  },
+  {
+    "paintIndex": 835,
+    "defIndex": 10,
+    "name": "FAMAS | Crypsis"
+  },
+  {
+    "paintIndex": 863,
+    "defIndex": 10,
+    "name": "FAMAS | Night Borre"
+  },
+  {
+    "paintIndex": 869,
+    "defIndex": 10,
+    "name": "FAMAS | Sundown"
+  },
+  {
+    "paintIndex": 882,
+    "defIndex": 10,
+    "name": "FAMAS | Halftone Wash"
+  },
+  {
+    "paintIndex": 904,
+    "defIndex": 10,
+    "name": "FAMAS | Decommissioned"
+  },
+  {
+    "paintIndex": 919,
+    "defIndex": 10,
+    "name": "FAMAS | Commemoration"
+  },
+  {
+    "paintIndex": 999,
+    "defIndex": 10,
+    "name": "FAMAS | Prime Conspiracy"
+  },
+  {
+    "paintIndex": 1053,
+    "defIndex": 10,
+    "name": "FAMAS | Meltdown"
+  },
+  {
+    "paintIndex": 1066,
+    "defIndex": 10,
+    "name": "FAMAS | Faulty Wiring"
+  },
+  {
+    "paintIndex": 1092,
+    "defIndex": 10,
+    "name": "FAMAS | ZX Spectron"
+  },
+  {
+    "paintIndex": 1127,
+    "defIndex": 10,
+    "name": "FAMAS | Rapid Eye Movement"
+  },
+  {
+    "paintIndex": 1146,
+    "defIndex": 10,
+    "name": "FAMAS | Meow 36"
+  },
+  {
+    "paintIndex": 1184,
+    "defIndex": 10,
+    "name": "FAMAS | Bad Trip"
+  },
+  {
+    "paintIndex": 1202,
+    "defIndex": 10,
+    "name": "FAMAS | 2A2F"
+  },
+  {
+    "paintIndex": 1219,
+    "defIndex": 10,
+    "name": "FAMAS | Yeti Camo"
+  },
+  {
+    "paintIndex": 1241,
+    "defIndex": 10,
+    "name": "FAMAS | Waters of Nephthys"
+  },
+  {
+    "paintIndex": 1302,
+    "defIndex": 10,
+    "name": "FAMAS | Palm"
+  },
+  {
+    "paintIndex": 1321,
+    "defIndex": 10,
+    "name": "FAMAS | Grey Ghost"
+  },
+  {
+    "paintIndex": 6,
+    "defIndex": 11,
+    "name": "G3SG1 | Arctic Camo"
+  },
+  {
+    "paintIndex": 8,
+    "defIndex": 11,
+    "name": "G3SG1 | Desert Storm"
+  },
+  {
+    "paintIndex": 46,
+    "defIndex": 11,
+    "name": "G3SG1 | Contractor"
+  },
+  {
+    "paintIndex": 72,
+    "defIndex": 11,
+    "name": "G3SG1 | Safari Mesh"
+  },
+  {
+    "paintIndex": 74,
+    "defIndex": 11,
+    "name": "G3SG1 | Polar Camo"
+  },
+  {
+    "paintIndex": 147,
+    "defIndex": 11,
+    "name": "G3SG1 | Jungle Dashed"
+  },
+  {
+    "paintIndex": 195,
+    "defIndex": 11,
+    "name": "G3SG1 | Demeter"
+  },
+  {
+    "paintIndex": 229,
+    "defIndex": 11,
+    "name": "G3SG1 | Azure Zebra"
+  },
+  {
+    "paintIndex": 235,
+    "defIndex": 11,
+    "name": "G3SG1 | VariCamo"
+  },
+  {
+    "paintIndex": 294,
+    "defIndex": 11,
+    "name": "G3SG1 | Green Apple"
+  },
+  {
+    "paintIndex": 382,
+    "defIndex": 11,
+    "name": "G3SG1 | Murky"
+  },
+  {
+    "paintIndex": 438,
+    "defIndex": 11,
+    "name": "G3SG1 | Chronos"
+  },
+  {
+    "paintIndex": 465,
+    "defIndex": 11,
+    "name": "G3SG1 | Orange Kimono"
+  },
+  {
+    "paintIndex": 493,
+    "defIndex": 11,
+    "name": "G3SG1 | Flux"
+  },
+  {
+    "paintIndex": 511,
+    "defIndex": 11,
+    "name": "G3SG1 | The Executioner"
+  },
+  {
+    "paintIndex": 545,
+    "defIndex": 11,
+    "name": "G3SG1 | Orange Crash"
+  },
+  {
+    "paintIndex": 606,
+    "defIndex": 11,
+    "name": "G3SG1 | Ventilator"
+  },
+  {
+    "paintIndex": 628,
+    "defIndex": 11,
+    "name": "G3SG1 | Stinger"
+  },
+  {
+    "paintIndex": 677,
+    "defIndex": 11,
+    "name": "G3SG1 | Hunter"
+  },
+  {
+    "paintIndex": 712,
+    "defIndex": 11,
+    "name": "G3SG1 | High Seas"
+  },
+  {
+    "paintIndex": 739,
+    "defIndex": 11,
+    "name": "G3SG1 | Violet Murano"
+  },
+  {
+    "paintIndex": 806,
+    "defIndex": 11,
+    "name": "G3SG1 | Scavenger"
+  },
+  {
+    "paintIndex": 891,
+    "defIndex": 11,
+    "name": "G3SG1 | Black Sand"
+  },
+  {
+    "paintIndex": 930,
+    "defIndex": 11,
+    "name": "G3SG1 | New Roots"
+  },
+  {
+    "paintIndex": 980,
+    "defIndex": 11,
+    "name": "G3SG1 | Digital Mesh"
+  },
+  {
+    "paintIndex": 1034,
+    "defIndex": 11,
+    "name": "G3SG1 | Ancient Ritual"
+  },
+  {
+    "paintIndex": 1095,
+    "defIndex": 11,
+    "name": "G3SG1 | Keeping Tabs"
+  },
+  {
+    "paintIndex": 1129,
+    "defIndex": 11,
+    "name": "G3SG1 | Dream Glade"
+  },
+  {
+    "paintIndex": 1305,
+    "defIndex": 11,
+    "name": "G3SG1 | Green Cell"
+  },
+  {
+    "paintIndex": 1328,
+    "defIndex": 11,
+    "name": "G3SG1 | Red Jasper"
+  },
+  {
+    "paintIndex": 76,
+    "defIndex": 13,
+    "name": "Galil AR | Winter Forest"
+  },
+  {
+    "paintIndex": 83,
+    "defIndex": 13,
+    "name": "Galil AR | Orange DDPAT"
+  },
+  {
+    "paintIndex": 101,
+    "defIndex": 13,
+    "name": "Galil AR | Tornado"
+  },
+  {
+    "paintIndex": 119,
+    "defIndex": 13,
+    "name": "Galil AR | Sage Spray"
+  },
+  {
+    "paintIndex": 192,
+    "defIndex": 13,
+    "name": "Galil AR | Shattered"
+  },
+  {
+    "paintIndex": 216,
+    "defIndex": 13,
+    "name": "Galil AR | Blue Titanium"
+  },
+  {
+    "paintIndex": 235,
+    "defIndex": 13,
+    "name": "Galil AR | VariCamo"
+  },
+  {
+    "paintIndex": 237,
+    "defIndex": 13,
+    "name": "Galil AR | Urban Rubble"
+  },
+  {
+    "paintIndex": 239,
+    "defIndex": 13,
+    "name": "Galil AR | Metallic Squeezer"
+  },
+  {
+    "paintIndex": 241,
+    "defIndex": 13,
+    "name": "Galil AR | Hunting Blind"
+  },
+  {
+    "paintIndex": 246,
+    "defIndex": 13,
+    "name": "Galil AR | Amber Fade"
+  },
+  {
+    "paintIndex": 264,
+    "defIndex": 13,
+    "name": "Galil AR | Sandstorm"
+  },
+  {
+    "paintIndex": 294,
+    "defIndex": 13,
+    "name": "Galil AR | Green Apple"
+  },
+  {
+    "paintIndex": 297,
+    "defIndex": 13,
+    "name": "Galil AR | Tuxedo"
+  },
+  {
+    "paintIndex": 308,
+    "defIndex": 13,
+    "name": "Galil AR | Kami"
+  },
+  {
+    "paintIndex": 379,
+    "defIndex": 13,
+    "name": "Galil AR | Cerberus"
+  },
+  {
+    "paintIndex": 398,
+    "defIndex": 13,
+    "name": "Galil AR | Chatterbox"
+  },
+  {
+    "paintIndex": 428,
+    "defIndex": 13,
+    "name": "Galil AR | Eco"
+  },
+  {
+    "paintIndex": 460,
+    "defIndex": 13,
+    "name": "Galil AR | Aqua Terrace"
+  },
+  {
+    "paintIndex": 478,
+    "defIndex": 13,
+    "name": "Galil AR | Rocket Pop"
+  },
+  {
+    "paintIndex": 494,
+    "defIndex": 13,
+    "name": "Galil AR | Stone Cold"
+  },
+  {
+    "paintIndex": 546,
+    "defIndex": 13,
+    "name": "Galil AR | Firefight"
+  },
+  {
+    "paintIndex": 629,
+    "defIndex": 13,
+    "name": "Galil AR | Black Sand"
+  },
+  {
+    "paintIndex": 647,
+    "defIndex": 13,
+    "name": "Galil AR | Crimson Tsunami"
+  },
+  {
+    "paintIndex": 661,
+    "defIndex": 13,
+    "name": "Galil AR | Sugar Rush"
+  },
+  {
+    "paintIndex": 790,
+    "defIndex": 13,
+    "name": "Galil AR | Cold Fusion"
+  },
+  {
+    "paintIndex": 807,
+    "defIndex": 13,
+    "name": "Galil AR | Signal"
+  },
+  {
+    "paintIndex": 842,
+    "defIndex": 13,
+    "name": "Galil AR | Akoben"
+  },
+  {
+    "paintIndex": 939,
+    "defIndex": 13,
+    "name": "Galil AR | NV"
+  },
+  {
+    "paintIndex": 972,
+    "defIndex": 13,
+    "name": "Galil AR | Connexion"
+  },
+  {
+    "paintIndex": 981,
+    "defIndex": 13,
+    "name": "Galil AR | Vandal"
+  },
+  {
+    "paintIndex": 1013,
+    "defIndex": 13,
+    "name": "Galil AR | Phoenix Blacklight"
+  },
+  {
+    "paintIndex": 1032,
+    "defIndex": 13,
+    "name": "Galil AR | Dusk Ruins"
+  },
+  {
+    "paintIndex": 1038,
+    "defIndex": 13,
+    "name": "Galil AR | Chromatic Aberration"
+  },
+  {
+    "paintIndex": 1071,
+    "defIndex": 13,
+    "name": "Galil AR | CAUTION!"
+  },
+  {
+    "paintIndex": 1147,
+    "defIndex": 13,
+    "name": "Galil AR | Destroyer"
+  },
+  {
+    "paintIndex": 1178,
+    "defIndex": 13,
+    "name": "Galil AR | Rainbow Spoon"
+  },
+  {
+    "paintIndex": 1185,
+    "defIndex": 13,
+    "name": "Galil AR | Control"
+  },
+  {
+    "paintIndex": 1264,
+    "defIndex": 13,
+    "name": "Galil AR | Robin's Egg"
+  },
+  {
+    "paintIndex": 1275,
+    "defIndex": 13,
+    "name": "Galil AR | Grey Smoke"
+  },
+  {
+    "paintIndex": 1296,
+    "defIndex": 13,
+    "name": "Galil AR | Acid Dart"
+  },
+  {
+    "paintIndex": 1314,
+    "defIndex": 13,
+    "name": "Galil AR | O-Ranger"
+  },
+  {
+    "paintIndex": 22,
+    "defIndex": 14,
+    "name": "M249 | Contrast Spray"
+  },
+  {
+    "paintIndex": 75,
+    "defIndex": 14,
+    "name": "M249 | Blizzard Marbleized"
+  },
+  {
+    "paintIndex": 120,
+    "defIndex": 14,
+    "name": "M249 | Hypnosis"
+  },
+  {
+    "paintIndex": 151,
+    "defIndex": 14,
+    "name": "M249 | Jungle"
+  },
+  {
+    "paintIndex": 170,
+    "defIndex": 14,
+    "name": "M249 | Predator"
+  },
+  {
+    "paintIndex": 202,
+    "defIndex": 14,
+    "name": "M249 | Jungle DDPAT"
+  },
+  {
+    "paintIndex": 243,
+    "defIndex": 14,
+    "name": "M249 | Gator Mesh"
+  },
+  {
+    "paintIndex": 266,
+    "defIndex": 14,
+    "name": "M249 | Magma"
+  },
+  {
+    "paintIndex": 401,
+    "defIndex": 14,
+    "name": "M249 | System Lock"
+  },
+  {
+    "paintIndex": 452,
+    "defIndex": 14,
+    "name": "M249 | Shipping Forecast"
+  },
+  {
+    "paintIndex": 472,
+    "defIndex": 14,
+    "name": "M249 | Impact Drill"
+  },
+  {
+    "paintIndex": 496,
+    "defIndex": 14,
+    "name": "M249 | Nebula Crusader"
+  },
+  {
+    "paintIndex": 547,
+    "defIndex": 14,
+    "name": "M249 | Spectre"
+  },
+  {
+    "paintIndex": 648,
+    "defIndex": 14,
+    "name": "M249 | Emerald Poison Dart"
+  },
+  {
+    "paintIndex": 827,
+    "defIndex": 14,
+    "name": "M249 | Humidor"
+  },
+  {
+    "paintIndex": 875,
+    "defIndex": 14,
+    "name": "M249 | Spectrogram"
+  },
+  {
+    "paintIndex": 900,
+    "defIndex": 14,
+    "name": "M249 | Warbird"
+  },
+  {
+    "paintIndex": 902,
+    "defIndex": 14,
+    "name": "M249 | Aztec"
+  },
+  {
+    "paintIndex": 933,
+    "defIndex": 14,
+    "name": "M249 | Midnight Palm"
+  },
+  {
+    "paintIndex": 983,
+    "defIndex": 14,
+    "name": "M249 | Deep Relief"
+  },
+  {
+    "paintIndex": 1042,
+    "defIndex": 14,
+    "name": "M249 | O.S.I.P.R."
+  },
+  {
+    "paintIndex": 1148,
+    "defIndex": 14,
+    "name": "M249 | Downtown"
+  },
+  {
+    "paintIndex": 1242,
+    "defIndex": 14,
+    "name": "M249 | Submerged"
+  },
+  {
+    "paintIndex": 1298,
+    "defIndex": 14,
+    "name": "M249 | Sage Camo"
+  },
+  {
+    "paintIndex": 8,
+    "defIndex": 16,
+    "name": "M4A4 | Desert Storm"
+  },
+  {
+    "paintIndex": 16,
+    "defIndex": 16,
+    "name": "M4A4 | Jungle Tiger"
+  },
+  {
+    "paintIndex": 17,
+    "defIndex": 16,
+    "name": "M4A4 | Urban DDPAT"
+  },
+  {
+    "paintIndex": 101,
+    "defIndex": 16,
+    "name": "M4A4 | Tornado"
+  },
+  {
+    "paintIndex": 118,
+    "defIndex": 16,
+    "name": "M4A4 | Turbine"
+  },
+  {
+    "paintIndex": 155,
+    "defIndex": 16,
+    "name": "M4A4 | Bullet Rain"
+  },
+  {
+    "paintIndex": 164,
+    "defIndex": 16,
+    "name": "M4A4 | Modern Hunter"
+  },
+  {
+    "paintIndex": 167,
+    "defIndex": 16,
+    "name": "M4A4 | Radiation Hazard"
+  },
+  {
+    "paintIndex": 176,
+    "defIndex": 16,
+    "name": "M4A4 | Faded Zebra"
+  },
+  {
+    "paintIndex": 187,
+    "defIndex": 16,
+    "name": "M4A4 | Zirka"
+  },
+  {
+    "paintIndex": 215,
+    "defIndex": 16,
+    "name": "M4A4 | X-Ray"
+  },
+  {
+    "paintIndex": 255,
+    "defIndex": 16,
+    "name": "M4A4 | Asiimov"
+  },
+  {
+    "paintIndex": 309,
+    "defIndex": 16,
+    "name": "M4A4 | Howl"
+  },
+  {
+    "paintIndex": 336,
+    "defIndex": 16,
+    "name": "M4A4 | Desert-Strike"
+  },
+  {
+    "paintIndex": 384,
+    "defIndex": 16,
+    "name": "M4A4 | Griffin"
+  },
+  {
+    "paintIndex": 400,
+    "defIndex": 16,
+    "name": "M4A4 | 龍王 (Dragon King)"
+  },
+  {
+    "paintIndex": 449,
+    "defIndex": 16,
+    "name": "M4A4 | Poseidon"
+  },
+  {
+    "paintIndex": 471,
+    "defIndex": 16,
+    "name": "M4A4 | Daybreak"
+  },
+  {
+    "paintIndex": 480,
+    "defIndex": 16,
+    "name": "M4A4 | Evil Daimyo"
+  },
+  {
+    "paintIndex": 512,
+    "defIndex": 16,
+    "name": "M4A4 | Royal Paladin"
+  },
+  {
+    "paintIndex": 533,
+    "defIndex": 16,
+    "name": "M4A4 | The Battlestar"
+  },
+  {
+    "paintIndex": 588,
+    "defIndex": 16,
+    "name": "M4A4 | Desolate Space"
+  },
+  {
+    "paintIndex": 632,
+    "defIndex": 16,
+    "name": "M4A4 | Buzz Kill"
+  },
+  {
+    "paintIndex": 664,
+    "defIndex": 16,
+    "name": "M4A4 | Hellfire"
+  },
+  {
+    "paintIndex": 695,
+    "defIndex": 16,
+    "name": "M4A4 | Neo-Noir"
+  },
+  {
+    "paintIndex": 730,
+    "defIndex": 16,
+    "name": "M4A4 | Dark Blossom"
+  },
+  {
+    "paintIndex": 780,
+    "defIndex": 16,
+    "name": "M4A4 | Mainframe"
+  },
+  {
+    "paintIndex": 793,
+    "defIndex": 16,
+    "name": "M4A4 | Converter"
+  },
+  {
+    "paintIndex": 811,
+    "defIndex": 16,
+    "name": "M4A4 | Magnesium"
+  },
+  {
+    "paintIndex": 844,
+    "defIndex": 16,
+    "name": "M4A4 | The Emperor"
+  },
+  {
+    "paintIndex": 874,
+    "defIndex": 16,
+    "name": "M4A4 | Polysoup"
+  },
+  {
+    "paintIndex": 926,
+    "defIndex": 16,
+    "name": "M4A4 | Red DDPAT"
+  },
+  {
+    "paintIndex": 971,
+    "defIndex": 16,
+    "name": "M4A4 | Tooth Fairy"
+  },
+  {
+    "paintIndex": 985,
+    "defIndex": 16,
+    "name": "M4A4 | Cyber Security"
+  },
+  {
+    "paintIndex": 993,
+    "defIndex": 16,
+    "name": "M4A4 | Global Offensive"
+  },
+  {
+    "paintIndex": 1041,
+    "defIndex": 16,
+    "name": "M4A4 | In Living Color"
+  },
+  {
+    "paintIndex": 1063,
+    "defIndex": 16,
+    "name": "M4A4 | The Coalition"
+  },
+  {
+    "paintIndex": 1097,
+    "defIndex": 16,
+    "name": "M4A4 | Spider Lily"
+  },
+  {
+    "paintIndex": 1149,
+    "defIndex": 16,
+    "name": "M4A4 | Poly Mag"
+  },
+  {
+    "paintIndex": 1165,
+    "defIndex": 16,
+    "name": "M4A4 | Etch Lord"
+  },
+  {
+    "paintIndex": 1209,
+    "defIndex": 16,
+    "name": "M4A4 | Hellish"
+  },
+  {
+    "paintIndex": 1210,
+    "defIndex": 16,
+    "name": "M4A4 | Choppa"
+  },
+  {
+    "paintIndex": 1228,
+    "defIndex": 16,
+    "name": "M4A4 | Temukau"
+  },
+  {
+    "paintIndex": 1255,
+    "defIndex": 16,
+    "name": "M4A4 | Eye of Horus"
+  },
+  {
+    "paintIndex": 1266,
+    "defIndex": 16,
+    "name": "M4A4 | Naval Shred Camo"
+  },
+  {
+    "paintIndex": 1281,
+    "defIndex": 16,
+    "name": "M4A4 | Sheet Lightning"
+  },
+  {
+    "paintIndex": 1313,
+    "defIndex": 16,
+    "name": "M4A4 | Steel Work"
+  },
+  {
+    "paintIndex": 3,
+    "defIndex": 17,
+    "name": "MAC-10 | Candy Apple"
+  },
+  {
+    "paintIndex": 17,
+    "defIndex": 17,
+    "name": "MAC-10 | Urban DDPAT"
+  },
+  {
+    "paintIndex": 32,
+    "defIndex": 17,
+    "name": "MAC-10 | Silver"
+  },
+  {
+    "paintIndex": 38,
+    "defIndex": 17,
+    "name": "MAC-10 | Fade"
+  },
+  {
+    "paintIndex": 44,
+    "defIndex": 17,
+    "name": "MAC-10 | Case Hardened"
+  },
+  {
+    "paintIndex": 98,
+    "defIndex": 17,
+    "name": "MAC-10 | Ultraviolet"
+  },
+  {
+    "paintIndex": 101,
+    "defIndex": 17,
+    "name": "MAC-10 | Tornado"
+  },
+  {
+    "paintIndex": 126,
+    "defIndex": 17,
+    "name": "MAC-10 | Saibā Oni"
+  },
+  {
+    "paintIndex": 140,
+    "defIndex": 17,
+    "name": "MAC-10 | Pipsqueak"
+  },
+  {
+    "paintIndex": 157,
+    "defIndex": 17,
+    "name": "MAC-10 | Palm"
+  },
+  {
+    "paintIndex": 188,
+    "defIndex": 17,
+    "name": "MAC-10 | Graven"
+  },
+  {
+    "paintIndex": 246,
+    "defIndex": 17,
+    "name": "MAC-10 | Amber Fade"
+  },
+  {
+    "paintIndex": 284,
+    "defIndex": 17,
+    "name": "MAC-10 | Heat"
+  },
+  {
+    "paintIndex": 310,
+    "defIndex": 17,
+    "name": "MAC-10 | Curse"
+  },
+  {
+    "paintIndex": 333,
+    "defIndex": 17,
+    "name": "MAC-10 | Indigo"
+  },
+  {
+    "paintIndex": 337,
+    "defIndex": 17,
+    "name": "MAC-10 | Tatter"
+  },
+  {
+    "paintIndex": 343,
+    "defIndex": 17,
+    "name": "MAC-10 | Commuter"
+  },
+  {
+    "paintIndex": 372,
+    "defIndex": 17,
+    "name": "MAC-10 | Nuclear Garden"
+  },
+  {
+    "paintIndex": 402,
+    "defIndex": 17,
+    "name": "MAC-10 | Malachite"
+  },
+  {
+    "paintIndex": 433,
+    "defIndex": 17,
+    "name": "MAC-10 | Neon Rider"
+  },
+  {
+    "paintIndex": 498,
+    "defIndex": 17,
+    "name": "MAC-10 | Rangeen"
+  },
+  {
+    "paintIndex": 534,
+    "defIndex": 17,
+    "name": "MAC-10 | Lapis Gator"
+  },
+  {
+    "paintIndex": 589,
+    "defIndex": 17,
+    "name": "MAC-10 | Carnivore"
+  },
+  {
+    "paintIndex": 651,
+    "defIndex": 17,
+    "name": "MAC-10 | Last Dive"
+  },
+  {
+    "paintIndex": 665,
+    "defIndex": 17,
+    "name": "MAC-10 | Aloha"
+  },
+  {
+    "paintIndex": 682,
+    "defIndex": 17,
+    "name": "MAC-10 | Oceanic"
+  },
+  {
+    "paintIndex": 742,
+    "defIndex": 17,
+    "name": "MAC-10 | Red Filigree"
+  },
+  {
+    "paintIndex": 748,
+    "defIndex": 17,
+    "name": "MAC-10 | Calf Skin"
+  },
+  {
+    "paintIndex": 761,
+    "defIndex": 17,
+    "name": "MAC-10 | Copper Borre"
+  },
+  {
+    "paintIndex": 812,
+    "defIndex": 17,
+    "name": "MAC-10 | Pipe Down"
+  },
+  {
+    "paintIndex": 826,
+    "defIndex": 17,
+    "name": "MAC-10 | Sienna Damask"
+  },
+  {
+    "paintIndex": 840,
+    "defIndex": 17,
+    "name": "MAC-10 | Whitefish"
+  },
+  {
+    "paintIndex": 871,
+    "defIndex": 17,
+    "name": "MAC-10 | Surfwood"
+  },
+  {
+    "paintIndex": 898,
+    "defIndex": 17,
+    "name": "MAC-10 | Stalker"
+  },
+  {
+    "paintIndex": 908,
+    "defIndex": 17,
+    "name": "MAC-10 | Classic Crate"
+  },
+  {
+    "paintIndex": 947,
+    "defIndex": 17,
+    "name": "MAC-10 | Disco Tech"
+  },
+  {
+    "paintIndex": 965,
+    "defIndex": 17,
+    "name": "MAC-10 | Allure"
+  },
+  {
+    "paintIndex": 1009,
+    "defIndex": 17,
+    "name": "MAC-10 | Hot Snakes"
+  },
+  {
+    "paintIndex": 1025,
+    "defIndex": 17,
+    "name": "MAC-10 | Gold Brick"
+  },
+  {
+    "paintIndex": 1045,
+    "defIndex": 17,
+    "name": "MAC-10 | Button Masher"
+  },
+  {
+    "paintIndex": 1067,
+    "defIndex": 17,
+    "name": "MAC-10 | Propaganda"
+  },
+  {
+    "paintIndex": 1075,
+    "defIndex": 17,
+    "name": "MAC-10 | Strats"
+  },
+  {
+    "paintIndex": 1098,
+    "defIndex": 17,
+    "name": "MAC-10 | Toybox"
+  },
+  {
+    "paintIndex": 1131,
+    "defIndex": 17,
+    "name": "MAC-10 | Ensnared"
+  },
+  {
+    "paintIndex": 1150,
+    "defIndex": 17,
+    "name": "MAC-10 | Monkeyflage"
+  },
+  {
+    "paintIndex": 1164,
+    "defIndex": 17,
+    "name": "MAC-10 | Light Box"
+  },
+  {
+    "paintIndex": 1204,
+    "defIndex": 17,
+    "name": "MAC-10 | Derailment"
+  },
+  {
+    "paintIndex": 1229,
+    "defIndex": 17,
+    "name": "MAC-10 | Sakkaku"
+  },
+  {
+    "paintIndex": 1244,
+    "defIndex": 17,
+    "name": "MAC-10 | Echoing Sands"
+  },
+  {
+    "paintIndex": 1269,
+    "defIndex": 17,
+    "name": "MAC-10 | Storm Camo"
+  },
+  {
+    "paintIndex": 1285,
+    "defIndex": 17,
+    "name": "MAC-10 | Poplar Thicket"
+  },
+  {
+    "paintIndex": 1295,
+    "defIndex": 17,
+    "name": "MAC-10 | Acid Hex"
+  },
+  {
+    "paintIndex": 1334,
+    "defIndex": 17,
+    "name": "MAC-10 | Bronzer"
+  },
+  {
+    "paintIndex": 20,
+    "defIndex": 19,
+    "name": "P90 | Virus"
+  },
+  {
+    "paintIndex": 67,
+    "defIndex": 19,
+    "name": "P90 | Cold Blooded"
+  },
+  {
+    "paintIndex": 100,
+    "defIndex": 19,
+    "name": "P90 | Storm"
+  },
+  {
+    "paintIndex": 111,
+    "defIndex": 19,
+    "name": "P90 | Glacier Mesh"
+  },
+  {
+    "paintIndex": 124,
+    "defIndex": 19,
+    "name": "P90 | Sand Spray"
+  },
+  {
+    "paintIndex": 127,
+    "defIndex": 19,
+    "name": "P90 | Randy Rush"
+  },
+  {
+    "paintIndex": 133,
+    "defIndex": 19,
+    "name": "P90 | Wash me"
+  },
+  {
+    "paintIndex": 156,
+    "defIndex": 19,
+    "name": "P90 | Death by Kitty"
+  },
+  {
+    "paintIndex": 169,
+    "defIndex": 19,
+    "name": "P90 | Fallout Warning"
+  },
+  {
+    "paintIndex": 175,
+    "defIndex": 19,
+    "name": "P90 | Scorched"
+  },
+  {
+    "paintIndex": 182,
+    "defIndex": 19,
+    "name": "P90 | Emerald Dragon"
+  },
+  {
+    "paintIndex": 228,
+    "defIndex": 19,
+    "name": "P90 | Blind Spot"
+  },
+  {
+    "paintIndex": 234,
+    "defIndex": 19,
+    "name": "P90 | Ash Wood"
+  },
+  {
+    "paintIndex": 244,
+    "defIndex": 19,
+    "name": "P90 | Teardown"
+  },
+  {
+    "paintIndex": 283,
+    "defIndex": 19,
+    "name": "P90 | Trigon"
+  },
+  {
+    "paintIndex": 311,
+    "defIndex": 19,
+    "name": "P90 | Desert Warfare"
+  },
+  {
+    "paintIndex": 335,
+    "defIndex": 19,
+    "name": "P90 | Module"
+  },
+  {
+    "paintIndex": 342,
+    "defIndex": 19,
+    "name": "P90 | Leather"
+  },
+  {
+    "paintIndex": 359,
+    "defIndex": 19,
+    "name": "P90 | Asiimov"
+  },
+  {
+    "paintIndex": 486,
+    "defIndex": 19,
+    "name": "P90 | Elite Build"
+  },
+  {
+    "paintIndex": 516,
+    "defIndex": 19,
+    "name": "P90 | Shapewood"
+  },
+  {
+    "paintIndex": 593,
+    "defIndex": 19,
+    "name": "P90 | Chopper"
+  },
+  {
+    "paintIndex": 611,
+    "defIndex": 19,
+    "name": "P90 | Grim"
+  },
+  {
+    "paintIndex": 636,
+    "defIndex": 19,
+    "name": "P90 | Shallow Grave"
+  },
+  {
+    "paintIndex": 669,
+    "defIndex": 19,
+    "name": "P90 | Death Grip"
+  },
+  {
+    "paintIndex": 717,
+    "defIndex": 19,
+    "name": "P90 | Traction"
+  },
+  {
+    "paintIndex": 726,
+    "defIndex": 19,
+    "name": "P90 | Sunset Lily"
+  },
+  {
+    "paintIndex": 744,
+    "defIndex": 19,
+    "name": "P90 | Baroque Red"
+  },
+  {
+    "paintIndex": 759,
+    "defIndex": 19,
+    "name": "P90 | Astral Jörmungandr"
+  },
+  {
+    "paintIndex": 776,
+    "defIndex": 19,
+    "name": "P90 | Facility Negative"
+  },
+  {
+    "paintIndex": 828,
+    "defIndex": 19,
+    "name": "P90 | Verdant Growth"
+  },
+  {
+    "paintIndex": 849,
+    "defIndex": 19,
+    "name": "P90 | Off World"
+  },
+  {
+    "paintIndex": 911,
+    "defIndex": 19,
+    "name": "P90 | Nostalgia"
+  },
+  {
+    "paintIndex": 925,
+    "defIndex": 19,
+    "name": "P90 | Desert DDPAT"
+  },
+  {
+    "paintIndex": 936,
+    "defIndex": 19,
+    "name": "P90 | Attack Vector"
+  },
+  {
+    "paintIndex": 969,
+    "defIndex": 19,
+    "name": "P90 | Freight"
+  },
+  {
+    "paintIndex": 977,
+    "defIndex": 19,
+    "name": "P90 | Cocoa Rampage"
+  },
+  {
+    "paintIndex": 1000,
+    "defIndex": 19,
+    "name": "P90 | Run and Hide"
+  },
+  {
+    "paintIndex": 1015,
+    "defIndex": 19,
+    "name": "P90 | Tiger Pit"
+  },
+  {
+    "paintIndex": 1020,
+    "defIndex": 19,
+    "name": "P90 | Ancient Earth"
+  },
+  {
+    "paintIndex": 1074,
+    "defIndex": 19,
+    "name": "P90 | Schematic"
+  },
+  {
+    "paintIndex": 1154,
+    "defIndex": 19,
+    "name": "P90 | Vent Rush"
+  },
+  {
+    "paintIndex": 1190,
+    "defIndex": 19,
+    "name": "P90 | Wave Breaker"
+  },
+  {
+    "paintIndex": 1199,
+    "defIndex": 19,
+    "name": "P90 | Straight Dimes"
+  },
+  {
+    "paintIndex": 1233,
+    "defIndex": 19,
+    "name": "P90 | Neoqueen"
+  },
+  {
+    "paintIndex": 1250,
+    "defIndex": 19,
+    "name": "P90 | ScaraB Rush"
+  },
+  {
+    "paintIndex": 1256,
+    "defIndex": 19,
+    "name": "P90 | Reef Grief"
+  },
+  {
+    "paintIndex": 1277,
+    "defIndex": 19,
+    "name": "P90 | Blue Tac"
+  },
+  {
+    "paintIndex": 1291,
+    "defIndex": 19,
+    "name": "P90 | Mustard Gas"
+  },
+  {
+    "paintIndex": 1332,
+    "defIndex": 19,
+    "name": "P90 | Desert Halftone"
+  },
+  {
+    "paintIndex": 161,
+    "defIndex": 23,
+    "name": "MP5-SD | Neon Squeezer"
+  },
+  {
+    "paintIndex": 753,
+    "defIndex": 23,
+    "name": "MP5-SD | Dirt Drop"
+  },
+  {
+    "paintIndex": 768,
+    "defIndex": 23,
+    "name": "MP5-SD | Savannah Halftone"
+  },
+  {
+    "paintIndex": 781,
+    "defIndex": 23,
+    "name": "MP5-SD | Co-Processor"
+  },
+  {
+    "paintIndex": 798,
+    "defIndex": 23,
+    "name": "MP5-SD | Nitro"
+  },
+  {
+    "paintIndex": 800,
+    "defIndex": 23,
+    "name": "MP5-SD | Lab Rats"
+  },
+  {
+    "paintIndex": 810,
+    "defIndex": 23,
+    "name": "MP5-SD | Phosphor"
+  },
+  {
+    "paintIndex": 846,
+    "defIndex": 23,
+    "name": "MP5-SD | Gauss"
+  },
+  {
+    "paintIndex": 872,
+    "defIndex": 23,
+    "name": "MP5-SD | Bamboo Garden"
+  },
+  {
+    "paintIndex": 888,
+    "defIndex": 23,
+    "name": "MP5-SD | Acid Wash"
+  },
+  {
+    "paintIndex": 915,
+    "defIndex": 23,
+    "name": "MP5-SD | Agent"
+  },
+  {
+    "paintIndex": 923,
+    "defIndex": 23,
+    "name": "MP5-SD | Oxide Oasis"
+  },
+  {
+    "paintIndex": 949,
+    "defIndex": 23,
+    "name": "MP5-SD | Desert Strike"
+  },
+  {
+    "paintIndex": 974,
+    "defIndex": 23,
+    "name": "MP5-SD | Kitbash"
+  },
+  {
+    "paintIndex": 986,
+    "defIndex": 23,
+    "name": "MP5-SD | Condition Zero"
+  },
+  {
+    "paintIndex": 1061,
+    "defIndex": 23,
+    "name": "MP5-SD | Autumn Twilly"
+  },
+  {
+    "paintIndex": 1137,
+    "defIndex": 23,
+    "name": "MP5-SD | Necro Jr."
+  },
+  {
+    "paintIndex": 1180,
+    "defIndex": 23,
+    "name": "MP5-SD | Statics"
+  },
+  {
+    "paintIndex": 1231,
+    "defIndex": 23,
+    "name": "MP5-SD | Liquidation"
+  },
+  {
+    "paintIndex": 1274,
+    "defIndex": 23,
+    "name": "MP5-SD | Lime Hex"
+  },
+  {
+    "paintIndex": 1294,
+    "defIndex": 23,
+    "name": "MP5-SD | Gold Leaf"
+  },
+  {
+    "paintIndex": 15,
+    "defIndex": 24,
+    "name": "UMP-45 | Gunsmoke"
+  },
+  {
+    "paintIndex": 17,
+    "defIndex": 24,
+    "name": "UMP-45 | Urban DDPAT"
+  },
+  {
+    "paintIndex": 37,
+    "defIndex": 24,
+    "name": "UMP-45 | Blaze"
+  },
+  {
+    "paintIndex": 70,
+    "defIndex": 24,
+    "name": "UMP-45 | Carbon Fiber"
+  },
+  {
+    "paintIndex": 90,
+    "defIndex": 24,
+    "name": "UMP-45 | Mudder"
+  },
+  {
+    "paintIndex": 93,
+    "defIndex": 24,
+    "name": "UMP-45 | Caramel"
+  },
+  {
+    "paintIndex": 131,
+    "defIndex": 24,
+    "name": "UMP-45 | Neo-Noir"
+  },
+  {
+    "paintIndex": 169,
+    "defIndex": 24,
+    "name": "UMP-45 | Fallout Warning"
+  },
+  {
+    "paintIndex": 175,
+    "defIndex": 24,
+    "name": "UMP-45 | Scorched"
+  },
+  {
+    "paintIndex": 193,
+    "defIndex": 24,
+    "name": "UMP-45 | Bone Pile"
+  },
+  {
+    "paintIndex": 250,
+    "defIndex": 24,
+    "name": "UMP-45 | Full Stop"
+  },
+  {
+    "paintIndex": 281,
+    "defIndex": 24,
+    "name": "UMP-45 | Corporal"
+  },
+  {
+    "paintIndex": 333,
+    "defIndex": 24,
+    "name": "UMP-45 | Indigo"
+  },
+  {
+    "paintIndex": 362,
+    "defIndex": 24,
+    "name": "UMP-45 | Labyrinth"
+  },
+  {
+    "paintIndex": 392,
+    "defIndex": 24,
+    "name": "UMP-45 | Delusion"
+  },
+  {
+    "paintIndex": 412,
+    "defIndex": 24,
+    "name": "UMP-45 | Crimson Foil"
+  },
+  {
+    "paintIndex": 436,
+    "defIndex": 24,
+    "name": "UMP-45 | Grand Prix"
+  },
+  {
+    "paintIndex": 441,
+    "defIndex": 24,
+    "name": "UMP-45 | Minotaur's Labyrinth"
+  },
+  {
+    "paintIndex": 488,
+    "defIndex": 24,
+    "name": "UMP-45 | Riot"
+  },
+  {
+    "paintIndex": 556,
+    "defIndex": 24,
+    "name": "UMP-45 | Primal Saber"
+  },
+  {
+    "paintIndex": 615,
+    "defIndex": 24,
+    "name": "UMP-45 | Briefing"
+  },
+  {
+    "paintIndex": 652,
+    "defIndex": 24,
+    "name": "UMP-45 | Scaffold"
+  },
+  {
+    "paintIndex": 672,
+    "defIndex": 24,
+    "name": "UMP-45 | Metal Flowers"
+  },
+  {
+    "paintIndex": 688,
+    "defIndex": 24,
+    "name": "UMP-45 | Exposure"
+  },
+  {
+    "paintIndex": 704,
+    "defIndex": 24,
+    "name": "UMP-45 | Arctic Wolf"
+  },
+  {
+    "paintIndex": 725,
+    "defIndex": 24,
+    "name": "UMP-45 | Day Lily"
+  },
+  {
+    "paintIndex": 778,
+    "defIndex": 24,
+    "name": "UMP-45 | Facility Dark"
+  },
+  {
+    "paintIndex": 802,
+    "defIndex": 24,
+    "name": "UMP-45 | Momentum"
+  },
+  {
+    "paintIndex": 851,
+    "defIndex": 24,
+    "name": "UMP-45 | Moonrise"
+  },
+  {
+    "paintIndex": 879,
+    "defIndex": 24,
+    "name": "UMP-45 | Fade"
+  },
+  {
+    "paintIndex": 916,
+    "defIndex": 24,
+    "name": "UMP-45 | Plastique"
+  },
+  {
+    "paintIndex": 990,
+    "defIndex": 24,
+    "name": "UMP-45 | Gold Bismuth"
+  },
+  {
+    "paintIndex": 1003,
+    "defIndex": 24,
+    "name": "UMP-45 | Crime Scene"
+  },
+  {
+    "paintIndex": 1008,
+    "defIndex": 24,
+    "name": "UMP-45 | Houndstooth"
+  },
+  {
+    "paintIndex": 1049,
+    "defIndex": 24,
+    "name": "UMP-45 | Oscillator"
+  },
+  {
+    "paintIndex": 1085,
+    "defIndex": 24,
+    "name": "UMP-45 | Mechanism"
+  },
+  {
+    "paintIndex": 1157,
+    "defIndex": 24,
+    "name": "UMP-45 | Roadblock"
+  },
+  {
+    "paintIndex": 1175,
+    "defIndex": 24,
+    "name": "UMP-45 | Motorized"
+  },
+  {
+    "paintIndex": 1194,
+    "defIndex": 24,
+    "name": "UMP-45 | K.O. Factory"
+  },
+  {
+    "paintIndex": 1203,
+    "defIndex": 24,
+    "name": "UMP-45 | Late Night Transit"
+  },
+  {
+    "paintIndex": 1236,
+    "defIndex": 24,
+    "name": "UMP-45 | Wild Child"
+  },
+  {
+    "paintIndex": 1303,
+    "defIndex": 24,
+    "name": "UMP-45 | Green Swirl"
+  },
+  {
+    "paintIndex": 42,
+    "defIndex": 25,
+    "name": "XM1014 | Blue Steel"
+  },
+  {
+    "paintIndex": 95,
+    "defIndex": 25,
+    "name": "XM1014 | Grassland"
+  },
+  {
+    "paintIndex": 96,
+    "defIndex": 25,
+    "name": "XM1014 | Blue Spruce"
+  },
+  {
+    "paintIndex": 135,
+    "defIndex": 25,
+    "name": "XM1014 | Urban Perforated"
+  },
+  {
+    "paintIndex": 146,
+    "defIndex": 25,
+    "name": "XM1014 | Monster Melt"
+  },
+  {
+    "paintIndex": 166,
+    "defIndex": 25,
+    "name": "XM1014 | Blaze Orange"
+  },
+  {
+    "paintIndex": 169,
+    "defIndex": 25,
+    "name": "XM1014 | Fallout Warning"
+  },
+  {
+    "paintIndex": 205,
+    "defIndex": 25,
+    "name": "XM1014 | Jungle"
+  },
+  {
+    "paintIndex": 238,
+    "defIndex": 25,
+    "name": "XM1014 | VariCamo Blue"
+  },
+  {
+    "paintIndex": 240,
+    "defIndex": 25,
+    "name": "XM1014 | CaliCamo"
+  },
+  {
+    "paintIndex": 314,
+    "defIndex": 25,
+    "name": "XM1014 | Heaven Guard"
+  },
+  {
+    "paintIndex": 320,
+    "defIndex": 25,
+    "name": "XM1014 | Red Python"
+  },
+  {
+    "paintIndex": 348,
+    "defIndex": 25,
+    "name": "XM1014 | Red Leather"
+  },
+  {
+    "paintIndex": 370,
+    "defIndex": 25,
+    "name": "XM1014 | Bone Machine"
+  },
+  {
+    "paintIndex": 393,
+    "defIndex": 25,
+    "name": "XM1014 | Tranquility"
+  },
+  {
+    "paintIndex": 407,
+    "defIndex": 25,
+    "name": "XM1014 | Quicksilver"
+  },
+  {
+    "paintIndex": 505,
+    "defIndex": 25,
+    "name": "XM1014 | Scumbria"
+  },
+  {
+    "paintIndex": 521,
+    "defIndex": 25,
+    "name": "XM1014 | Teclu Burner"
+  },
+  {
+    "paintIndex": 557,
+    "defIndex": 25,
+    "name": "XM1014 | Black Tie"
+  },
+  {
+    "paintIndex": 616,
+    "defIndex": 25,
+    "name": "XM1014 | Slipstream"
+  },
+  {
+    "paintIndex": 654,
+    "defIndex": 25,
+    "name": "XM1014 | Seasons"
+  },
+  {
+    "paintIndex": 689,
+    "defIndex": 25,
+    "name": "XM1014 | Ziggy"
+  },
+  {
+    "paintIndex": 706,
+    "defIndex": 25,
+    "name": "XM1014 | Oxide Blaze"
+  },
+  {
+    "paintIndex": 731,
+    "defIndex": 25,
+    "name": "XM1014 | Banana Leaf"
+  },
+  {
+    "paintIndex": 760,
+    "defIndex": 25,
+    "name": "XM1014 | Frost Borre"
+  },
+  {
+    "paintIndex": 821,
+    "defIndex": 25,
+    "name": "XM1014 | Elegant Vines"
+  },
+  {
+    "paintIndex": 834,
+    "defIndex": 25,
+    "name": "XM1014 | Halftone Shift"
+  },
+  {
+    "paintIndex": 850,
+    "defIndex": 25,
+    "name": "XM1014 | Incinegator"
+  },
+  {
+    "paintIndex": 970,
+    "defIndex": 25,
+    "name": "XM1014 | Entombed"
+  },
+  {
+    "paintIndex": 994,
+    "defIndex": 25,
+    "name": "XM1014 | Charter"
+  },
+  {
+    "paintIndex": 1021,
+    "defIndex": 25,
+    "name": "XM1014 | Ancient Lore"
+  },
+  {
+    "paintIndex": 1046,
+    "defIndex": 25,
+    "name": "XM1014 | XOXO"
+  },
+  {
+    "paintIndex": 1078,
+    "defIndex": 25,
+    "name": "XM1014 | Blue Tire"
+  },
+  {
+    "paintIndex": 1103,
+    "defIndex": 25,
+    "name": "XM1014 | Watchdog"
+  },
+  {
+    "paintIndex": 1135,
+    "defIndex": 25,
+    "name": "XM1014 | Zombie Offensive"
+  },
+  {
+    "paintIndex": 1174,
+    "defIndex": 25,
+    "name": "XM1014 | Irezumi"
+  },
+  {
+    "paintIndex": 1182,
+    "defIndex": 25,
+    "name": "XM1014 | Mockingbird"
+  },
+  {
+    "paintIndex": 1201,
+    "defIndex": 25,
+    "name": "XM1014 | Run Run Run"
+  },
+  {
+    "paintIndex": 1215,
+    "defIndex": 25,
+    "name": "XM1014 | Solitude"
+  },
+  {
+    "paintIndex": 1254,
+    "defIndex": 25,
+    "name": "XM1014 | Hieroglyph"
+  },
+  {
+    "paintIndex": 1267,
+    "defIndex": 25,
+    "name": "XM1014 | Gum Wall Camo"
+  },
+  {
+    "paintIndex": 1287,
+    "defIndex": 25,
+    "name": "XM1014 | Copperflage"
+  },
+  {
+    "paintIndex": 1333,
+    "defIndex": 25,
+    "name": "XM1014 | Canvas Cloud"
+  },
+  {
+    "paintIndex": 3,
+    "defIndex": 26,
+    "name": "PP-Bizon | Candy Apple"
+  },
+  {
+    "paintIndex": 13,
+    "defIndex": 26,
+    "name": "PP-Bizon | Blue Streak"
+  },
+  {
+    "paintIndex": 25,
+    "defIndex": 26,
+    "name": "PP-Bizon | Forest Leaves"
+  },
+  {
+    "paintIndex": 70,
+    "defIndex": 26,
+    "name": "PP-Bizon | Carbon Fiber"
+  },
+  {
+    "paintIndex": 148,
+    "defIndex": 26,
+    "name": "PP-Bizon | Sand Dashed"
+  },
+  {
+    "paintIndex": 149,
+    "defIndex": 26,
+    "name": "PP-Bizon | Urban Dashed"
+  },
+  {
+    "paintIndex": 159,
+    "defIndex": 26,
+    "name": "PP-Bizon | Brass"
+  },
+  {
+    "paintIndex": 164,
+    "defIndex": 26,
+    "name": "PP-Bizon | Modern Hunter"
+  },
+  {
+    "paintIndex": 171,
+    "defIndex": 26,
+    "name": "PP-Bizon | Irradiated Alert"
+  },
+  {
+    "paintIndex": 203,
+    "defIndex": 26,
+    "name": "PP-Bizon | Rust Coat"
+  },
+  {
+    "paintIndex": 224,
+    "defIndex": 26,
+    "name": "PP-Bizon | Water Sigil"
+  },
+  {
+    "paintIndex": 236,
+    "defIndex": 26,
+    "name": "PP-Bizon | Night Ops"
+  },
+  {
+    "paintIndex": 267,
+    "defIndex": 26,
+    "name": "PP-Bizon | Cobalt Halftone"
+  },
+  {
+    "paintIndex": 293,
+    "defIndex": 26,
+    "name": "PP-Bizon | Death Rattle"
+  },
+  {
+    "paintIndex": 306,
+    "defIndex": 26,
+    "name": "PP-Bizon | Antique"
+  },
+  {
+    "paintIndex": 349,
+    "defIndex": 26,
+    "name": "PP-Bizon | Osiris"
+  },
+  {
+    "paintIndex": 376,
+    "defIndex": 26,
+    "name": "PP-Bizon | Chemical Green"
+  },
+  {
+    "paintIndex": 457,
+    "defIndex": 26,
+    "name": "PP-Bizon | Bamboo Print"
+  },
+  {
+    "paintIndex": 508,
+    "defIndex": 26,
+    "name": "PP-Bizon | Fuel Rod"
+  },
+  {
+    "paintIndex": 526,
+    "defIndex": 26,
+    "name": "PP-Bizon | Photic Zone"
+  },
+  {
+    "paintIndex": 542,
+    "defIndex": 26,
+    "name": "PP-Bizon | Judgement of Anubis"
+  },
+  {
+    "paintIndex": 594,
+    "defIndex": 26,
+    "name": "PP-Bizon | Harvester"
+  },
+  {
+    "paintIndex": 641,
+    "defIndex": 26,
+    "name": "PP-Bizon | Jungle Slipstream"
+  },
+  {
+    "paintIndex": 676,
+    "defIndex": 26,
+    "name": "PP-Bizon | High Roller"
+  },
+  {
+    "paintIndex": 692,
+    "defIndex": 26,
+    "name": "PP-Bizon | Night Riot"
+  },
+  {
+    "paintIndex": 770,
+    "defIndex": 26,
+    "name": "PP-Bizon | Cold Cell"
+  },
+  {
+    "paintIndex": 775,
+    "defIndex": 26,
+    "name": "PP-Bizon | Facility Sketch"
+  },
+  {
+    "paintIndex": 829,
+    "defIndex": 26,
+    "name": "PP-Bizon | Anolis"
+  },
+  {
+    "paintIndex": 873,
+    "defIndex": 26,
+    "name": "PP-Bizon | Seabird"
+  },
+  {
+    "paintIndex": 884,
+    "defIndex": 26,
+    "name": "PP-Bizon | Embargo"
+  },
+  {
+    "paintIndex": 973,
+    "defIndex": 26,
+    "name": "PP-Bizon | Runic"
+  },
+  {
+    "paintIndex": 1083,
+    "defIndex": 26,
+    "name": "PP-Bizon | Breaker Box"
+  },
+  {
+    "paintIndex": 1099,
+    "defIndex": 26,
+    "name": "PP-Bizon | Lumen"
+  },
+  {
+    "paintIndex": 1125,
+    "defIndex": 26,
+    "name": "PP-Bizon | Space Cat"
+  },
+  {
+    "paintIndex": 1325,
+    "defIndex": 26,
+    "name": "PP-Bizon | Wood Block Camo"
+  },
+  {
+    "paintIndex": 32,
+    "defIndex": 27,
+    "name": "MAG-7 | Silver"
+  },
+  {
+    "paintIndex": 34,
+    "defIndex": 27,
+    "name": "MAG-7 | Metallic DDPAT"
+  },
+  {
+    "paintIndex": 39,
+    "defIndex": 27,
+    "name": "MAG-7 | Bulldozer"
+  },
+  {
+    "paintIndex": 70,
+    "defIndex": 27,
+    "name": "MAG-7 | Carbon Fiber"
+  },
+  {
+    "paintIndex": 99,
+    "defIndex": 27,
+    "name": "MAG-7 | Sand Dune"
+  },
+  {
+    "paintIndex": 100,
+    "defIndex": 27,
+    "name": "MAG-7 | Storm"
+  },
+  {
+    "paintIndex": 171,
+    "defIndex": 27,
+    "name": "MAG-7 | Irradiated Alert"
+  },
+  {
+    "paintIndex": 177,
+    "defIndex": 27,
+    "name": "MAG-7 | Memento"
+  },
+  {
+    "paintIndex": 198,
+    "defIndex": 27,
+    "name": "MAG-7 | Hazard"
+  },
+  {
+    "paintIndex": 291,
+    "defIndex": 27,
+    "name": "MAG-7 | Heaven Guard"
+  },
+  {
+    "paintIndex": 327,
+    "defIndex": 27,
+    "name": "MAG-7 | Chainmail"
+  },
+  {
+    "paintIndex": 385,
+    "defIndex": 27,
+    "name": "MAG-7 | Firestarter"
+  },
+  {
+    "paintIndex": 431,
+    "defIndex": 27,
+    "name": "MAG-7 | Heat"
+  },
+  {
+    "paintIndex": 462,
+    "defIndex": 27,
+    "name": "MAG-7 | Counter Terrace"
+  },
+  {
+    "paintIndex": 473,
+    "defIndex": 27,
+    "name": "MAG-7 | Seabird"
+  },
+  {
+    "paintIndex": 499,
+    "defIndex": 27,
+    "name": "MAG-7 | Cobalt Core"
+  },
+  {
+    "paintIndex": 535,
+    "defIndex": 27,
+    "name": "MAG-7 | Praetorian"
+  },
+  {
+    "paintIndex": 608,
+    "defIndex": 27,
+    "name": "MAG-7 | Petroglyph"
+  },
+  {
+    "paintIndex": 633,
+    "defIndex": 27,
+    "name": "MAG-7 | Sonar"
+  },
+  {
+    "paintIndex": 666,
+    "defIndex": 27,
+    "name": "MAG-7 | Hard Water"
+  },
+  {
+    "paintIndex": 703,
+    "defIndex": 27,
+    "name": "MAG-7 | SWAG-7"
+  },
+  {
+    "paintIndex": 737,
+    "defIndex": 27,
+    "name": "MAG-7 | Cinquedea"
+  },
+  {
+    "paintIndex": 754,
+    "defIndex": 27,
+    "name": "MAG-7 | Rust Coat"
+  },
+  {
+    "paintIndex": 773,
+    "defIndex": 27,
+    "name": "MAG-7 | Wildwood"
+  },
+  {
+    "paintIndex": 787,
+    "defIndex": 27,
+    "name": "MAG-7 | Core Breach"
+  },
+  {
+    "paintIndex": 822,
+    "defIndex": 27,
+    "name": "MAG-7 | Navy Sheen"
+  },
+  {
+    "paintIndex": 909,
+    "defIndex": 27,
+    "name": "MAG-7 | Popdog"
+  },
+  {
+    "paintIndex": 948,
+    "defIndex": 27,
+    "name": "MAG-7 | Justice"
+  },
+  {
+    "paintIndex": 961,
+    "defIndex": 27,
+    "name": "MAG-7 | Monster Call"
+  },
+  {
+    "paintIndex": 1072,
+    "defIndex": 27,
+    "name": "MAG-7 | Prism Terrace"
+  },
+  {
+    "paintIndex": 1089,
+    "defIndex": 27,
+    "name": "MAG-7 | BI83 Spectrum"
+  },
+  {
+    "paintIndex": 1132,
+    "defIndex": 27,
+    "name": "MAG-7 | Foresight"
+  },
+  {
+    "paintIndex": 1188,
+    "defIndex": 27,
+    "name": "MAG-7 | Resupply"
+  },
+  {
+    "paintIndex": 1220,
+    "defIndex": 27,
+    "name": "MAG-7 | Insomnia"
+  },
+  {
+    "paintIndex": 1245,
+    "defIndex": 27,
+    "name": "MAG-7 | Copper Coated"
+  },
+  {
+    "paintIndex": 1306,
+    "defIndex": 27,
+    "name": "MAG-7 | Copper Oxide"
+  },
+  {
+    "paintIndex": 28,
+    "defIndex": 28,
+    "name": "Negev | Anodized Navy"
+  },
+  {
+    "paintIndex": 144,
+    "defIndex": 28,
+    "name": "Negev | Wall Bang"
+  },
+  {
+    "paintIndex": 201,
+    "defIndex": 28,
+    "name": "Negev | Palm"
+  },
+  {
+    "paintIndex": 240,
+    "defIndex": 28,
+    "name": "Negev | CaliCamo"
+  },
+  {
+    "paintIndex": 285,
+    "defIndex": 28,
+    "name": "Negev | Terrain"
+  },
+  {
+    "paintIndex": 298,
+    "defIndex": 28,
+    "name": "Negev | Army Sheen"
+  },
+  {
+    "paintIndex": 317,
+    "defIndex": 28,
+    "name": "Negev | Bratatat"
+  },
+  {
+    "paintIndex": 355,
+    "defIndex": 28,
+    "name": "Negev | Desert-Strike"
+  },
+  {
+    "paintIndex": 369,
+    "defIndex": 28,
+    "name": "Negev | Nuclear Waste"
+  },
+  {
+    "paintIndex": 432,
+    "defIndex": 28,
+    "name": "Negev | Man-o'-war"
+  },
+  {
+    "paintIndex": 483,
+    "defIndex": 28,
+    "name": "Negev | Loudmouth"
+  },
+  {
+    "paintIndex": 514,
+    "defIndex": 28,
+    "name": "Negev | Power Loader"
+  },
+  {
+    "paintIndex": 610,
+    "defIndex": 28,
+    "name": "Negev | Dazzle"
+  },
+  {
+    "paintIndex": 698,
+    "defIndex": 28,
+    "name": "Negev | Lionfish"
+  },
+  {
+    "paintIndex": 763,
+    "defIndex": 28,
+    "name": "Negev | Mjölnir"
+  },
+  {
+    "paintIndex": 783,
+    "defIndex": 28,
+    "name": "Negev | Bulkhead"
+  },
+  {
+    "paintIndex": 920,
+    "defIndex": 28,
+    "name": "Negev | Boroque Sand"
+  },
+  {
+    "paintIndex": 950,
+    "defIndex": 28,
+    "name": "Negev | Prototype"
+  },
+  {
+    "paintIndex": 958,
+    "defIndex": 28,
+    "name": "Negev | Ultralight"
+  },
+  {
+    "paintIndex": 1012,
+    "defIndex": 28,
+    "name": "Negev | Phoenix Stencil"
+  },
+  {
+    "paintIndex": 1043,
+    "defIndex": 28,
+    "name": "Negev | dev_texture"
+  },
+  {
+    "paintIndex": 1080,
+    "defIndex": 28,
+    "name": "Negev | Infrastructure"
+  },
+  {
+    "paintIndex": 1152,
+    "defIndex": 28,
+    "name": "Negev | Drop Me"
+  },
+  {
+    "paintIndex": 1260,
+    "defIndex": 28,
+    "name": "Negev | Sour Grapes"
+  },
+  {
+    "paintIndex": 1300,
+    "defIndex": 28,
+    "name": "Negev | Raw Ceramic"
+  },
+  {
+    "paintIndex": 5,
+    "defIndex": 29,
+    "name": "Sawed-Off | Forest DDPAT"
+  },
+  {
+    "paintIndex": 30,
+    "defIndex": 29,
+    "name": "Sawed-Off | Snake Camo"
+  },
+  {
+    "paintIndex": 41,
+    "defIndex": 29,
+    "name": "Sawed-Off | Copper"
+  },
+  {
+    "paintIndex": 83,
+    "defIndex": 29,
+    "name": "Sawed-Off | Orange DDPAT"
+  },
+  {
+    "paintIndex": 119,
+    "defIndex": 29,
+    "name": "Sawed-Off | Sage Spray"
+  },
+  {
+    "paintIndex": 171,
+    "defIndex": 29,
+    "name": "Sawed-Off | Irradiated Alert"
+  },
+  {
+    "paintIndex": 204,
+    "defIndex": 29,
+    "name": "Sawed-Off | Mosaico"
+  },
+  {
+    "paintIndex": 246,
+    "defIndex": 29,
+    "name": "Sawed-Off | Amber Fade"
+  },
+  {
+    "paintIndex": 250,
+    "defIndex": 29,
+    "name": "Sawed-Off | Full Stop"
+  },
+  {
+    "paintIndex": 256,
+    "defIndex": 29,
+    "name": "Sawed-Off | The Kraken"
+  },
+  {
+    "paintIndex": 323,
+    "defIndex": 29,
+    "name": "Sawed-Off | Rust Coat"
+  },
+  {
+    "paintIndex": 345,
+    "defIndex": 29,
+    "name": "Sawed-Off | First Class"
+  },
+  {
+    "paintIndex": 390,
+    "defIndex": 29,
+    "name": "Sawed-Off | Highwayman"
+  },
+  {
+    "paintIndex": 405,
+    "defIndex": 29,
+    "name": "Sawed-Off | Serenity"
+  },
+  {
+    "paintIndex": 434,
+    "defIndex": 29,
+    "name": "Sawed-Off | Origami"
+  },
+  {
+    "paintIndex": 458,
+    "defIndex": 29,
+    "name": "Sawed-Off | Bamboo Shadow"
+  },
+  {
+    "paintIndex": 517,
+    "defIndex": 29,
+    "name": "Sawed-Off | Yorick"
+  },
+  {
+    "paintIndex": 552,
+    "defIndex": 29,
+    "name": "Sawed-Off | Fubar"
+  },
+  {
+    "paintIndex": 596,
+    "defIndex": 29,
+    "name": "Sawed-Off | Limelight"
+  },
+  {
+    "paintIndex": 638,
+    "defIndex": 29,
+    "name": "Sawed-Off | Wasteland Princess"
+  },
+  {
+    "paintIndex": 655,
+    "defIndex": 29,
+    "name": "Sawed-Off | Zander"
+  },
+  {
+    "paintIndex": 673,
+    "defIndex": 29,
+    "name": "Sawed-Off | Morris"
+  },
+  {
+    "paintIndex": 720,
+    "defIndex": 29,
+    "name": "Sawed-Off | Devourer"
+  },
+  {
+    "paintIndex": 797,
+    "defIndex": 29,
+    "name": "Sawed-Off | Brake Light"
+  },
+  {
+    "paintIndex": 814,
+    "defIndex": 29,
+    "name": "Sawed-Off | Black Sand"
+  },
+  {
+    "paintIndex": 870,
+    "defIndex": 29,
+    "name": "Sawed-Off | Jungle Thicket"
+  },
+  {
+    "paintIndex": 880,
+    "defIndex": 29,
+    "name": "Sawed-Off | Parched"
+  },
+  {
+    "paintIndex": 953,
+    "defIndex": 29,
+    "name": "Sawed-Off | Apocalypto"
+  },
+  {
+    "paintIndex": 1014,
+    "defIndex": 29,
+    "name": "Sawed-Off | Clay Ambush"
+  },
+  {
+    "paintIndex": 1140,
+    "defIndex": 29,
+    "name": "Sawed-Off | Spirit Board"
+  },
+  {
+    "paintIndex": 1155,
+    "defIndex": 29,
+    "name": "Sawed-Off | Kiss♥Love"
+  },
+  {
+    "paintIndex": 1160,
+    "defIndex": 29,
+    "name": "Sawed-Off | Analog Input"
+  },
+  {
+    "paintIndex": 1272,
+    "defIndex": 29,
+    "name": "Sawed-Off | Runoff"
+  },
+  {
+    "paintIndex": 2,
+    "defIndex": 30,
+    "name": "Tec-9 | Groundwater"
+  },
+  {
+    "paintIndex": 17,
+    "defIndex": 30,
+    "name": "Tec-9 | Urban DDPAT"
+  },
+  {
+    "paintIndex": 36,
+    "defIndex": 30,
+    "name": "Tec-9 | Ossified"
+  },
+  {
+    "paintIndex": 159,
+    "defIndex": 30,
+    "name": "Tec-9 | Brass"
+  },
+  {
+    "paintIndex": 179,
+    "defIndex": 30,
+    "name": "Tec-9 | Nuclear Threat"
+  },
+  {
+    "paintIndex": 206,
+    "defIndex": 30,
+    "name": "Tec-9 | Tornado"
+  },
+  {
+    "paintIndex": 216,
+    "defIndex": 30,
+    "name": "Tec-9 | Blue Titanium"
+  },
+  {
+    "paintIndex": 235,
+    "defIndex": 30,
+    "name": "Tec-9 | VariCamo"
+  },
+  {
+    "paintIndex": 242,
+    "defIndex": 30,
+    "name": "Tec-9 | Army Mesh"
+  },
+  {
+    "paintIndex": 248,
+    "defIndex": 30,
+    "name": "Tec-9 | Red Quartz"
+  },
+  {
+    "paintIndex": 272,
+    "defIndex": 30,
+    "name": "Tec-9 | Titanium Bit"
+  },
+  {
+    "paintIndex": 289,
+    "defIndex": 30,
+    "name": "Tec-9 | Sandstorm"
+  },
+  {
+    "paintIndex": 303,
+    "defIndex": 30,
+    "name": "Tec-9 | Isaac"
+  },
+  {
+    "paintIndex": 374,
+    "defIndex": 30,
+    "name": "Tec-9 | Toxic"
+  },
+  {
+    "paintIndex": 439,
+    "defIndex": 30,
+    "name": "Tec-9 | Hades"
+  },
+  {
+    "paintIndex": 459,
+    "defIndex": 30,
+    "name": "Tec-9 | Bamboo Forest"
+  },
+  {
+    "paintIndex": 463,
+    "defIndex": 30,
+    "name": "Tec-9 | Terrace"
+  },
+  {
+    "paintIndex": 520,
+    "defIndex": 30,
+    "name": "Tec-9 | Avalanche"
+  },
+  {
+    "paintIndex": 539,
+    "defIndex": 30,
+    "name": "Tec-9 | Jambiya"
+  },
+  {
+    "paintIndex": 555,
+    "defIndex": 30,
+    "name": "Tec-9 | Re-Entry"
+  },
+  {
+    "paintIndex": 599,
+    "defIndex": 30,
+    "name": "Tec-9 | Ice Cap"
+  },
+  {
+    "paintIndex": 614,
+    "defIndex": 30,
+    "name": "Tec-9 | Fuel Injector"
+  },
+  {
+    "paintIndex": 671,
+    "defIndex": 30,
+    "name": "Tec-9 | Cut Out"
+  },
+  {
+    "paintIndex": 684,
+    "defIndex": 30,
+    "name": "Tec-9 | Cracked Opal"
+  },
+  {
+    "paintIndex": 722,
+    "defIndex": 30,
+    "name": "Tec-9 | Snek-9"
+  },
+  {
+    "paintIndex": 733,
+    "defIndex": 30,
+    "name": "Tec-9 | Rust Leaf"
+  },
+  {
+    "paintIndex": 738,
+    "defIndex": 30,
+    "name": "Tec-9 | Orange Murano"
+  },
+  {
+    "paintIndex": 766,
+    "defIndex": 30,
+    "name": "Tec-9 | Tiger Stencil"
+  },
+  {
+    "paintIndex": 791,
+    "defIndex": 30,
+    "name": "Tec-9 | Remote Control"
+  },
+  {
+    "paintIndex": 795,
+    "defIndex": 30,
+    "name": "Tec-9 | Safety Net"
+  },
+  {
+    "paintIndex": 816,
+    "defIndex": 30,
+    "name": "Tec-9 | Fubar"
+  },
+  {
+    "paintIndex": 839,
+    "defIndex": 30,
+    "name": "Tec-9 | Bamboozle"
+  },
+  {
+    "paintIndex": 889,
+    "defIndex": 30,
+    "name": "Tec-9 | Decimator"
+  },
+  {
+    "paintIndex": 905,
+    "defIndex": 30,
+    "name": "Tec-9 | Flash Out"
+  },
+  {
+    "paintIndex": 964,
+    "defIndex": 30,
+    "name": "Tec-9 | Brother"
+  },
+  {
+    "paintIndex": 1010,
+    "defIndex": 30,
+    "name": "Tec-9 | Phoenix Chalk"
+  },
+  {
+    "paintIndex": 1024,
+    "defIndex": 30,
+    "name": "Tec-9 | Blast From the Past"
+  },
+  {
+    "paintIndex": 1159,
+    "defIndex": 30,
+    "name": "Tec-9 | Slag"
+  },
+  {
+    "paintIndex": 1214,
+    "defIndex": 30,
+    "name": "Tec-9 | Whiteout"
+  },
+  {
+    "paintIndex": 1235,
+    "defIndex": 30,
+    "name": "Tec-9 | Rebel"
+  },
+  {
+    "paintIndex": 1252,
+    "defIndex": 30,
+    "name": "Tec-9 | Mummy's Rot"
+  },
+  {
+    "paintIndex": 1279,
+    "defIndex": 30,
+    "name": "Tec-9 | Blue Blast"
+  },
+  {
+    "paintIndex": 1286,
+    "defIndex": 30,
+    "name": "Tec-9 | Garter-9"
+  },
+  {
+    "paintIndex": 1299,
+    "defIndex": 30,
+    "name": "Tec-9 | Raw Ceramic"
+  },
+  {
+    "paintIndex": 1322,
+    "defIndex": 30,
+    "name": "Tec-9 | Citric Acid"
+  },
+  {
+    "paintIndex": 292,
+    "defIndex": 31,
+    "name": "Zeus x27 | Dragon Snore"
+  },
+  {
+    "paintIndex": 1172,
+    "defIndex": 31,
+    "name": "Zeus x27 | Olympus"
+  },
+  {
+    "paintIndex": 1183,
+    "defIndex": 31,
+    "name": "Zeus x27 | Tosai"
+  },
+  {
+    "paintIndex": 1205,
+    "defIndex": 31,
+    "name": "Zeus x27 | Charged Up"
+  },
+  {
+    "paintIndex": 1268,
+    "defIndex": 31,
+    "name": "Zeus x27 | Electric Blue"
+  },
+  {
+    "paintIndex": 1297,
+    "defIndex": 31,
+    "name": "Zeus x27 | Swamp DDPAT"
+  },
+  {
+    "paintIndex": 21,
+    "defIndex": 32,
+    "name": "P2000 | Granite Marbleized"
+  },
+  {
+    "paintIndex": 32,
+    "defIndex": 32,
+    "name": "P2000 | Silver"
+  },
+  {
+    "paintIndex": 71,
+    "defIndex": 32,
+    "name": "P2000 | Scorpion"
+  },
+  {
+    "paintIndex": 95,
+    "defIndex": 32,
+    "name": "P2000 | Grassland"
+  },
+  {
+    "paintIndex": 104,
+    "defIndex": 32,
+    "name": "P2000 | Grassland Leaves"
+  },
+  {
+    "paintIndex": 184,
+    "defIndex": 32,
+    "name": "P2000 | Corticera"
+  },
+  {
+    "paintIndex": 211,
+    "defIndex": 32,
+    "name": "P2000 | Ocean Foam"
+  },
+  {
+    "paintIndex": 246,
+    "defIndex": 32,
+    "name": "P2000 | Amber Fade"
+  },
+  {
+    "paintIndex": 275,
+    "defIndex": 32,
+    "name": "P2000 | Red FragCam"
+  },
+  {
+    "paintIndex": 327,
+    "defIndex": 32,
+    "name": "P2000 | Chainmail"
+  },
+  {
+    "paintIndex": 338,
+    "defIndex": 32,
+    "name": "P2000 | Pulse"
+  },
+  {
+    "paintIndex": 346,
+    "defIndex": 32,
+    "name": "P2000 | Coach Class"
+  },
+  {
+    "paintIndex": 357,
+    "defIndex": 32,
+    "name": "P2000 | Ivory"
+  },
+  {
+    "paintIndex": 389,
+    "defIndex": 32,
+    "name": "P2000 | Fire Elemental"
+  },
+  {
+    "paintIndex": 443,
+    "defIndex": 32,
+    "name": "P2000 | Pathfinder"
+  },
+  {
+    "paintIndex": 485,
+    "defIndex": 32,
+    "name": "P2000 | Handgun"
+  },
+  {
+    "paintIndex": 515,
+    "defIndex": 32,
+    "name": "P2000 | Imperial"
+  },
+  {
+    "paintIndex": 550,
+    "defIndex": 32,
+    "name": "P2000 | Oceanic"
+  },
+  {
+    "paintIndex": 591,
+    "defIndex": 32,
+    "name": "P2000 | Imperial Dragon"
+  },
+  {
+    "paintIndex": 635,
+    "defIndex": 32,
+    "name": "P2000 | Turf"
+  },
+  {
+    "paintIndex": 667,
+    "defIndex": 32,
+    "name": "P2000 | Woodsman"
+  },
+  {
+    "paintIndex": 700,
+    "defIndex": 32,
+    "name": "P2000 | Urban Hazard"
+  },
+  {
+    "paintIndex": 878,
+    "defIndex": 32,
+    "name": "P2000 | Coral Halftone"
+  },
+  {
+    "paintIndex": 894,
+    "defIndex": 32,
+    "name": "P2000 | Obsidian"
+  },
+  {
+    "paintIndex": 951,
+    "defIndex": 32,
+    "name": "P2000 | Acid Etched"
+  },
+  {
+    "paintIndex": 960,
+    "defIndex": 32,
+    "name": "P2000 | Gnarled"
+  },
+  {
+    "paintIndex": 997,
+    "defIndex": 32,
+    "name": "P2000 | Dispatch"
+  },
+  {
+    "paintIndex": 1019,
+    "defIndex": 32,
+    "name": "P2000 | Panther Camo"
+  },
+  {
+    "paintIndex": 1055,
+    "defIndex": 32,
+    "name": "P2000 | Space Race"
+  },
+  {
+    "paintIndex": 1138,
+    "defIndex": 32,
+    "name": "P2000 | Lifted Spirits"
+  },
+  {
+    "paintIndex": 1181,
+    "defIndex": 32,
+    "name": "P2000 | Sure Grip"
+  },
+  {
+    "paintIndex": 1224,
+    "defIndex": 32,
+    "name": "P2000 | Wicked Sick"
+  },
+  {
+    "paintIndex": 1259,
+    "defIndex": 32,
+    "name": "P2000 | Royal Baroque"
+  },
+  {
+    "paintIndex": 1292,
+    "defIndex": 32,
+    "name": "P2000 | Marsh"
+  },
+  {
+    "paintIndex": 5,
+    "defIndex": 33,
+    "name": "MP7 | Forest DDPAT"
+  },
+  {
+    "paintIndex": 11,
+    "defIndex": 33,
+    "name": "MP7 | Skulls"
+  },
+  {
+    "paintIndex": 15,
+    "defIndex": 33,
+    "name": "MP7 | Gunsmoke"
+  },
+  {
+    "paintIndex": 28,
+    "defIndex": 33,
+    "name": "MP7 | Anodized Navy"
+  },
+  {
+    "paintIndex": 102,
+    "defIndex": 33,
+    "name": "MP7 | Whiteout"
+  },
+  {
+    "paintIndex": 141,
+    "defIndex": 33,
+    "name": "MP7 | Orange Peel"
+  },
+  {
+    "paintIndex": 175,
+    "defIndex": 33,
+    "name": "MP7 | Scorched"
+  },
+  {
+    "paintIndex": 209,
+    "defIndex": 33,
+    "name": "MP7 | Groundwater"
+  },
+  {
+    "paintIndex": 213,
+    "defIndex": 33,
+    "name": "MP7 | Ocean Foam"
+  },
+  {
+    "paintIndex": 245,
+    "defIndex": 33,
+    "name": "MP7 | Army Recon"
+  },
+  {
+    "paintIndex": 250,
+    "defIndex": 33,
+    "name": "MP7 | Full Stop"
+  },
+  {
+    "paintIndex": 354,
+    "defIndex": 33,
+    "name": "MP7 | Urban Hazard"
+  },
+  {
+    "paintIndex": 365,
+    "defIndex": 33,
+    "name": "MP7 | Olive Plaid"
+  },
+  {
+    "paintIndex": 423,
+    "defIndex": 33,
+    "name": "MP7 | Armor Core"
+  },
+  {
+    "paintIndex": 442,
+    "defIndex": 33,
+    "name": "MP7 | Asterion"
+  },
+  {
+    "paintIndex": 481,
+    "defIndex": 33,
+    "name": "MP7 | Nemesis"
+  },
+  {
+    "paintIndex": 500,
+    "defIndex": 33,
+    "name": "MP7 | Special Delivery"
+  },
+  {
+    "paintIndex": 536,
+    "defIndex": 33,
+    "name": "MP7 | Impire"
+  },
+  {
+    "paintIndex": 627,
+    "defIndex": 33,
+    "name": "MP7 | Cirrus"
+  },
+  {
+    "paintIndex": 649,
+    "defIndex": 33,
+    "name": "MP7 | Akoben"
+  },
+  {
+    "paintIndex": 696,
+    "defIndex": 33,
+    "name": "MP7 | Bloodsport"
+  },
+  {
+    "paintIndex": 719,
+    "defIndex": 33,
+    "name": "MP7 | Powercore"
+  },
+  {
+    "paintIndex": 728,
+    "defIndex": 33,
+    "name": "MP7 | Teal Blossom"
+  },
+  {
+    "paintIndex": 752,
+    "defIndex": 33,
+    "name": "MP7 | Fade"
+  },
+  {
+    "paintIndex": 782,
+    "defIndex": 33,
+    "name": "MP7 | Motherboard"
+  },
+  {
+    "paintIndex": 847,
+    "defIndex": 33,
+    "name": "MP7 | Mischief"
+  },
+  {
+    "paintIndex": 893,
+    "defIndex": 33,
+    "name": "MP7 | Neon Ply"
+  },
+  {
+    "paintIndex": 935,
+    "defIndex": 33,
+    "name": "MP7 | Prey"
+  },
+  {
+    "paintIndex": 940,
+    "defIndex": 33,
+    "name": "MP7 | Astrolabe"
+  },
+  {
+    "paintIndex": 1007,
+    "defIndex": 33,
+    "name": "MP7 | Vault Heist"
+  },
+  {
+    "paintIndex": 1023,
+    "defIndex": 33,
+    "name": "MP7 | Tall Grass"
+  },
+  {
+    "paintIndex": 1096,
+    "defIndex": 33,
+    "name": "MP7 | Guerrilla"
+  },
+  {
+    "paintIndex": 1133,
+    "defIndex": 33,
+    "name": "MP7 | Abyssal Apparition"
+  },
+  {
+    "paintIndex": 1163,
+    "defIndex": 33,
+    "name": "MP7 | Just Smile"
+  },
+  {
+    "paintIndex": 1246,
+    "defIndex": 33,
+    "name": "MP7 | Sunbaked"
+  },
+  {
+    "paintIndex": 1326,
+    "defIndex": 33,
+    "name": "MP7 | Short Ochre"
+  },
+  {
+    "paintIndex": 33,
+    "defIndex": 34,
+    "name": "MP9 | Hot Rod"
+  },
+  {
+    "paintIndex": 39,
+    "defIndex": 34,
+    "name": "MP9 | Bulldozer"
+  },
+  {
+    "paintIndex": 61,
+    "defIndex": 34,
+    "name": "MP9 | Hypnotic"
+  },
+  {
+    "paintIndex": 100,
+    "defIndex": 34,
+    "name": "MP9 | Storm"
+  },
+  {
+    "paintIndex": 141,
+    "defIndex": 34,
+    "name": "MP9 | Orange Peel"
+  },
+  {
+    "paintIndex": 148,
+    "defIndex": 34,
+    "name": "MP9 | Sand Dashed"
+  },
+  {
+    "paintIndex": 199,
+    "defIndex": 34,
+    "name": "MP9 | Dry Season"
+  },
+  {
+    "paintIndex": 262,
+    "defIndex": 34,
+    "name": "MP9 | Rose Iron"
+  },
+  {
+    "paintIndex": 298,
+    "defIndex": 34,
+    "name": "MP9 | Army Sheen"
+  },
+  {
+    "paintIndex": 329,
+    "defIndex": 34,
+    "name": "MP9 | Dark Age"
+  },
+  {
+    "paintIndex": 331,
+    "defIndex": 34,
+    "name": "MP9 | Arctic Tri-Tone"
+  },
+  {
+    "paintIndex": 366,
+    "defIndex": 34,
+    "name": "MP9 | Green Plaid"
+  },
+  {
+    "paintIndex": 368,
+    "defIndex": 34,
+    "name": "MP9 | Setting Sun"
+  },
+  {
+    "paintIndex": 386,
+    "defIndex": 34,
+    "name": "MP9 | Dart"
+  },
+  {
+    "paintIndex": 403,
+    "defIndex": 34,
+    "name": "MP9 | Deadly Poison"
+  },
+  {
+    "paintIndex": 448,
+    "defIndex": 34,
+    "name": "MP9 | Pandora's Box"
+  },
+  {
+    "paintIndex": 482,
+    "defIndex": 34,
+    "name": "MP9 | Ruby Poison Dart"
+  },
+  {
+    "paintIndex": 549,
+    "defIndex": 34,
+    "name": "MP9 | Bioleak"
+  },
+  {
+    "paintIndex": 609,
+    "defIndex": 34,
+    "name": "MP9 | Airlock"
+  },
+  {
+    "paintIndex": 630,
+    "defIndex": 34,
+    "name": "MP9 | Sand Scale"
+  },
+  {
+    "paintIndex": 679,
+    "defIndex": 34,
+    "name": "MP9 | Goo"
+  },
+  {
+    "paintIndex": 697,
+    "defIndex": 34,
+    "name": "MP9 | Black Sand"
+  },
+  {
+    "paintIndex": 715,
+    "defIndex": 34,
+    "name": "MP9 | Capillary"
+  },
+  {
+    "paintIndex": 734,
+    "defIndex": 34,
+    "name": "MP9 | Wild Lily"
+  },
+  {
+    "paintIndex": 755,
+    "defIndex": 34,
+    "name": "MP9 | Slide"
+  },
+  {
+    "paintIndex": 804,
+    "defIndex": 34,
+    "name": "MP9 | Modest Threat"
+  },
+  {
+    "paintIndex": 820,
+    "defIndex": 34,
+    "name": "MP9 | Music Box"
+  },
+  {
+    "paintIndex": 867,
+    "defIndex": 34,
+    "name": "MP9 | Stained Glass"
+  },
+  {
+    "paintIndex": 910,
+    "defIndex": 34,
+    "name": "MP9 | Hydra"
+  },
+  {
+    "paintIndex": 931,
+    "defIndex": 34,
+    "name": "MP9 | Old Roots"
+  },
+  {
+    "paintIndex": 1037,
+    "defIndex": 34,
+    "name": "MP9 | Food Chain"
+  },
+  {
+    "paintIndex": 1094,
+    "defIndex": 34,
+    "name": "MP9 | Mount Fuji"
+  },
+  {
+    "paintIndex": 1134,
+    "defIndex": 34,
+    "name": "MP9 | Starlight Protector"
+  },
+  {
+    "paintIndex": 1193,
+    "defIndex": 34,
+    "name": "MP9 | Nexus"
+  },
+  {
+    "paintIndex": 1211,
+    "defIndex": 34,
+    "name": "MP9 | Latte Rush"
+  },
+  {
+    "paintIndex": 1225,
+    "defIndex": 34,
+    "name": "MP9 | Featherweight"
+  },
+  {
+    "paintIndex": 1258,
+    "defIndex": 34,
+    "name": "MP9 | Cobalt Paisley"
+  },
+  {
+    "paintIndex": 1278,
+    "defIndex": 34,
+    "name": "MP9 | Buff Blue"
+  },
+  {
+    "paintIndex": 1301,
+    "defIndex": 34,
+    "name": "MP9 | Pine"
+  },
+  {
+    "paintIndex": 1310,
+    "defIndex": 34,
+    "name": "MP9 | Shredded"
+  },
+  {
+    "paintIndex": 1330,
+    "defIndex": 34,
+    "name": "MP9 | Multi-Terrain"
+  },
+  {
+    "paintIndex": 3,
+    "defIndex": 35,
+    "name": "Nova | Candy Apple"
+  },
+  {
+    "paintIndex": 25,
+    "defIndex": 35,
+    "name": "Nova | Forest Leaves"
+  },
+  {
+    "paintIndex": 62,
+    "defIndex": 35,
+    "name": "Nova | Bloomstick"
+  },
+  {
+    "paintIndex": 99,
+    "defIndex": 35,
+    "name": "Nova | Sand Dune"
+  },
+  {
+    "paintIndex": 107,
+    "defIndex": 35,
+    "name": "Nova | Polar Mesh"
+  },
+  {
+    "paintIndex": 145,
+    "defIndex": 35,
+    "name": "Nova | Wurst Hölle"
+  },
+  {
+    "paintIndex": 158,
+    "defIndex": 35,
+    "name": "Nova | Walnut"
+  },
+  {
+    "paintIndex": 164,
+    "defIndex": 35,
+    "name": "Nova | Modern Hunter"
+  },
+  {
+    "paintIndex": 166,
+    "defIndex": 35,
+    "name": "Nova | Blaze Orange"
+  },
+  {
+    "paintIndex": 170,
+    "defIndex": 35,
+    "name": "Nova | Predator"
+  },
+  {
+    "paintIndex": 191,
+    "defIndex": 35,
+    "name": "Nova | Tempest"
+  },
+  {
+    "paintIndex": 214,
+    "defIndex": 35,
+    "name": "Nova | Graphite"
+  },
+  {
+    "paintIndex": 225,
+    "defIndex": 35,
+    "name": "Nova | Ghost Camo"
+  },
+  {
+    "paintIndex": 248,
+    "defIndex": 35,
+    "name": "Nova | Red Quartz"
+  },
+  {
+    "paintIndex": 263,
+    "defIndex": 35,
+    "name": "Nova | Rising Skull"
+  },
+  {
+    "paintIndex": 286,
+    "defIndex": 35,
+    "name": "Nova | Antique"
+  },
+  {
+    "paintIndex": 294,
+    "defIndex": 35,
+    "name": "Nova | Green Apple"
+  },
+  {
+    "paintIndex": 298,
+    "defIndex": 35,
+    "name": "Nova | Army Sheen"
+  },
+  {
+    "paintIndex": 299,
+    "defIndex": 35,
+    "name": "Nova | Caged Steel"
+  },
+  {
+    "paintIndex": 323,
+    "defIndex": 35,
+    "name": "Nova | Rust Coat"
+  },
+  {
+    "paintIndex": 324,
+    "defIndex": 35,
+    "name": "Nova | Yorkshire"
+  },
+  {
+    "paintIndex": 356,
+    "defIndex": 35,
+    "name": "Nova | Koi"
+  },
+  {
+    "paintIndex": 450,
+    "defIndex": 35,
+    "name": "Nova | Moon in Libra"
+  },
+  {
+    "paintIndex": 484,
+    "defIndex": 35,
+    "name": "Nova | Ranger"
+  },
+  {
+    "paintIndex": 537,
+    "defIndex": 35,
+    "name": "Nova | Hyper Beast"
+  },
+  {
+    "paintIndex": 590,
+    "defIndex": 35,
+    "name": "Nova | Exo"
+  },
+  {
+    "paintIndex": 634,
+    "defIndex": 35,
+    "name": "Nova | Gila"
+  },
+  {
+    "paintIndex": 699,
+    "defIndex": 35,
+    "name": "Nova | Wild Six"
+  },
+  {
+    "paintIndex": 716,
+    "defIndex": 35,
+    "name": "Nova | Toy Soldier"
+  },
+  {
+    "paintIndex": 746,
+    "defIndex": 35,
+    "name": "Nova | Baroque Orange"
+  },
+  {
+    "paintIndex": 785,
+    "defIndex": 35,
+    "name": "Nova | Mandrel"
+  },
+  {
+    "paintIndex": 809,
+    "defIndex": 35,
+    "name": "Nova | Wood Fired"
+  },
+  {
+    "paintIndex": 890,
+    "defIndex": 35,
+    "name": "Nova | Plume"
+  },
+  {
+    "paintIndex": 929,
+    "defIndex": 35,
+    "name": "Nova | Quick Sand"
+  },
+  {
+    "paintIndex": 987,
+    "defIndex": 35,
+    "name": "Nova | Clear Polymer"
+  },
+  {
+    "paintIndex": 1051,
+    "defIndex": 35,
+    "name": "Nova | Windblown"
+  },
+  {
+    "paintIndex": 1077,
+    "defIndex": 35,
+    "name": "Nova | Interlock"
+  },
+  {
+    "paintIndex": 1162,
+    "defIndex": 35,
+    "name": "Nova | Dark Sigil"
+  },
+  {
+    "paintIndex": 1192,
+    "defIndex": 35,
+    "name": "Nova | Rising Sun"
+  },
+  {
+    "paintIndex": 1247,
+    "defIndex": 35,
+    "name": "Nova | Sobek's Bite"
+  },
+  {
+    "paintIndex": 1261,
+    "defIndex": 35,
+    "name": "Nova | Turquoise Pour"
+  },
+  {
+    "paintIndex": 1331,
+    "defIndex": 35,
+    "name": "Nova | Marsh Grass"
+  },
+  {
+    "paintIndex": 1337,
+    "defIndex": 35,
+    "name": "Nova | Rain Station"
+  },
+  {
+    "paintIndex": 15,
+    "defIndex": 36,
+    "name": "P250 | Gunsmoke"
+  },
+  {
+    "paintIndex": 27,
+    "defIndex": 36,
+    "name": "P250 | Bone Mask"
+  },
+  {
+    "paintIndex": 34,
+    "defIndex": 36,
+    "name": "P250 | Metallic DDPAT"
+  },
+  {
+    "paintIndex": 77,
+    "defIndex": 36,
+    "name": "P250 | Boreal Forest"
+  },
+  {
+    "paintIndex": 78,
+    "defIndex": 36,
+    "name": "P250 | Forest Night"
+  },
+  {
+    "paintIndex": 99,
+    "defIndex": 36,
+    "name": "P250 | Sand Dune"
+  },
+  {
+    "paintIndex": 102,
+    "defIndex": 36,
+    "name": "P250 | Whiteout"
+  },
+  {
+    "paintIndex": 125,
+    "defIndex": 36,
+    "name": "P250 | X-Ray"
+  },
+  {
+    "paintIndex": 130,
+    "defIndex": 36,
+    "name": "P250 | Epicenter"
+  },
+  {
+    "paintIndex": 162,
+    "defIndex": 36,
+    "name": "P250 | Splash"
+  },
+  {
+    "paintIndex": 164,
+    "defIndex": 36,
+    "name": "P250 | Modern Hunter"
+  },
+  {
+    "paintIndex": 168,
+    "defIndex": 36,
+    "name": "P250 | Nuclear Threat"
+  },
+  {
+    "paintIndex": 207,
+    "defIndex": 36,
+    "name": "P250 | Facets"
+  },
+  {
+    "paintIndex": 219,
+    "defIndex": 36,
+    "name": "P250 | Hive"
+  },
+  {
+    "paintIndex": 230,
+    "defIndex": 36,
+    "name": "P250 | Steel Disruption"
+  },
+  {
+    "paintIndex": 258,
+    "defIndex": 36,
+    "name": "P250 | Mehndi"
+  },
+  {
+    "paintIndex": 271,
+    "defIndex": 36,
+    "name": "P250 | Undertow"
+  },
+  {
+    "paintIndex": 295,
+    "defIndex": 36,
+    "name": "P250 | Franklin"
+  },
+  {
+    "paintIndex": 358,
+    "defIndex": 36,
+    "name": "P250 | Supernova"
+  },
+  {
+    "paintIndex": 373,
+    "defIndex": 36,
+    "name": "P250 | Contamination"
+  },
+  {
+    "paintIndex": 388,
+    "defIndex": 36,
+    "name": "P250 | Cartel"
+  },
+  {
+    "paintIndex": 404,
+    "defIndex": 36,
+    "name": "P250 | Muertos"
+  },
+  {
+    "paintIndex": 426,
+    "defIndex": 36,
+    "name": "P250 | Valence"
+  },
+  {
+    "paintIndex": 466,
+    "defIndex": 36,
+    "name": "P250 | Crimson Kimono"
+  },
+  {
+    "paintIndex": 467,
+    "defIndex": 36,
+    "name": "P250 | Mint Kimono"
+  },
+  {
+    "paintIndex": 501,
+    "defIndex": 36,
+    "name": "P250 | Wingshot"
+  },
+  {
+    "paintIndex": 551,
+    "defIndex": 36,
+    "name": "P250 | Asiimov"
+  },
+  {
+    "paintIndex": 592,
+    "defIndex": 36,
+    "name": "P250 | Iron Clad"
+  },
+  {
+    "paintIndex": 650,
+    "defIndex": 36,
+    "name": "P250 | Ripple"
+  },
+  {
+    "paintIndex": 668,
+    "defIndex": 36,
+    "name": "P250 | Red Rock"
+  },
+  {
+    "paintIndex": 678,
+    "defIndex": 36,
+    "name": "P250 | See Ya Later"
+  },
+  {
+    "paintIndex": 741,
+    "defIndex": 36,
+    "name": "P250 | Dark Filigree"
+  },
+  {
+    "paintIndex": 749,
+    "defIndex": 36,
+    "name": "P250 | Vino Primo"
+  },
+  {
+    "paintIndex": 774,
+    "defIndex": 36,
+    "name": "P250 | Small Game"
+  },
+  {
+    "paintIndex": 777,
+    "defIndex": 36,
+    "name": "P250 | Facility Draft"
+  },
+  {
+    "paintIndex": 786,
+    "defIndex": 36,
+    "name": "P250 | Exchanger"
+  },
+  {
+    "paintIndex": 813,
+    "defIndex": 36,
+    "name": "P250 | Nevermore"
+  },
+  {
+    "paintIndex": 825,
+    "defIndex": 36,
+    "name": "P250 | Drought"
+  },
+  {
+    "paintIndex": 848,
+    "defIndex": 36,
+    "name": "P250 | Verdigris"
+  },
+  {
+    "paintIndex": 907,
+    "defIndex": 36,
+    "name": "P250 | Inferno"
+  },
+  {
+    "paintIndex": 928,
+    "defIndex": 36,
+    "name": "P250 | Black & Tan"
+  },
+  {
+    "paintIndex": 968,
+    "defIndex": 36,
+    "name": "P250 | Cassette"
+  },
+  {
+    "paintIndex": 982,
+    "defIndex": 36,
+    "name": "P250 | Contaminant"
+  },
+  {
+    "paintIndex": 1030,
+    "defIndex": 36,
+    "name": "P250 | Bengal Tiger"
+  },
+  {
+    "paintIndex": 1044,
+    "defIndex": 36,
+    "name": "P250 | Cyber Shell"
+  },
+  {
+    "paintIndex": 1081,
+    "defIndex": 36,
+    "name": "P250 | Digital Architect"
+  },
+  {
+    "paintIndex": 1153,
+    "defIndex": 36,
+    "name": "P250 | Visions"
+  },
+  {
+    "paintIndex": 1212,
+    "defIndex": 36,
+    "name": "P250 | Constructivist"
+  },
+  {
+    "paintIndex": 1230,
+    "defIndex": 36,
+    "name": "P250 | Re.built"
+  },
+  {
+    "paintIndex": 1248,
+    "defIndex": 36,
+    "name": "P250 | Apep's Curse"
+  },
+  {
+    "paintIndex": 1273,
+    "defIndex": 36,
+    "name": "P250 | Plum Netting"
+  },
+  {
+    "paintIndex": 1307,
+    "defIndex": 36,
+    "name": "P250 | Copper Oxide"
+  },
+  {
+    "paintIndex": 1315,
+    "defIndex": 36,
+    "name": "P250 | Red Tide"
+  },
+  {
+    "paintIndex": 1317,
+    "defIndex": 36,
+    "name": "P250 | Sedimentary"
+  },
+  {
+    "paintIndex": 46,
+    "defIndex": 38,
+    "name": "SCAR-20 | Contractor"
+  },
+  {
+    "paintIndex": 70,
+    "defIndex": 38,
+    "name": "SCAR-20 | Carbon Fiber"
+  },
+  {
+    "paintIndex": 100,
+    "defIndex": 38,
+    "name": "SCAR-20 | Storm"
+  },
+  {
+    "paintIndex": 116,
+    "defIndex": 38,
+    "name": "SCAR-20 | Sand Mesh"
+  },
+  {
+    "paintIndex": 117,
+    "defIndex": 38,
+    "name": "SCAR-20 | Trail Blazer"
+  },
+  {
+    "paintIndex": 157,
+    "defIndex": 38,
+    "name": "SCAR-20 | Palm"
+  },
+  {
+    "paintIndex": 159,
+    "defIndex": 38,
+    "name": "SCAR-20 | Brass"
+  },
+  {
+    "paintIndex": 165,
+    "defIndex": 38,
+    "name": "SCAR-20 | Splash Jam"
+  },
+  {
+    "paintIndex": 196,
+    "defIndex": 38,
+    "name": "SCAR-20 | Emerald"
+  },
+  {
+    "paintIndex": 232,
+    "defIndex": 38,
+    "name": "SCAR-20 | Crimson Web"
+  },
+  {
+    "paintIndex": 298,
+    "defIndex": 38,
+    "name": "SCAR-20 | Army Sheen"
+  },
+  {
+    "paintIndex": 312,
+    "defIndex": 38,
+    "name": "SCAR-20 | Cyrex"
+  },
+  {
+    "paintIndex": 391,
+    "defIndex": 38,
+    "name": "SCAR-20 | Cardiac"
+  },
+  {
+    "paintIndex": 406,
+    "defIndex": 38,
+    "name": "SCAR-20 | Grotto"
+  },
+  {
+    "paintIndex": 502,
+    "defIndex": 38,
+    "name": "SCAR-20 | Green Marine"
+  },
+  {
+    "paintIndex": 518,
+    "defIndex": 38,
+    "name": "SCAR-20 | Outbreak"
+  },
+  {
+    "paintIndex": 597,
+    "defIndex": 38,
+    "name": "SCAR-20 | Bloodsport"
+  },
+  {
+    "paintIndex": 612,
+    "defIndex": 38,
+    "name": "SCAR-20 | Powercore"
+  },
+  {
+    "paintIndex": 642,
+    "defIndex": 38,
+    "name": "SCAR-20 | Blueprint"
+  },
+  {
+    "paintIndex": 685,
+    "defIndex": 38,
+    "name": "SCAR-20 | Jungle Slipstream"
+  },
+  {
+    "paintIndex": 865,
+    "defIndex": 38,
+    "name": "SCAR-20 | Stone Mosaico"
+  },
+  {
+    "paintIndex": 883,
+    "defIndex": 38,
+    "name": "SCAR-20 | Wild Berry"
+  },
+  {
+    "paintIndex": 896,
+    "defIndex": 38,
+    "name": "SCAR-20 | Torn"
+  },
+  {
+    "paintIndex": 914,
+    "defIndex": 38,
+    "name": "SCAR-20 | Assault"
+  },
+  {
+    "paintIndex": 954,
+    "defIndex": 38,
+    "name": "SCAR-20 | Enforcer"
+  },
+  {
+    "paintIndex": 1028,
+    "defIndex": 38,
+    "name": "SCAR-20 | Magna Carta"
+  },
+  {
+    "paintIndex": 1139,
+    "defIndex": 38,
+    "name": "SCAR-20 | Poultrygeist"
+  },
+  {
+    "paintIndex": 1226,
+    "defIndex": 38,
+    "name": "SCAR-20 | Fragments"
+  },
+  {
+    "paintIndex": 1327,
+    "defIndex": 38,
+    "name": "SCAR-20 | Short Ochre"
+  },
+  {
+    "paintIndex": 28,
+    "defIndex": 39,
+    "name": "SG 553 | Anodized Navy"
+  },
+  {
+    "paintIndex": 39,
+    "defIndex": 39,
+    "name": "SG 553 | Bulldozer"
+  },
+  {
+    "paintIndex": 61,
+    "defIndex": 39,
+    "name": "SG 553 | Hypnotic"
+  },
+  {
+    "paintIndex": 98,
+    "defIndex": 39,
+    "name": "SG 553 | Ultraviolet"
+  },
+  {
+    "paintIndex": 101,
+    "defIndex": 39,
+    "name": "SG 553 | Tornado"
+  },
+  {
+    "paintIndex": 136,
+    "defIndex": 39,
+    "name": "SG 553 | Waves Perforated"
+  },
+  {
+    "paintIndex": 186,
+    "defIndex": 39,
+    "name": "SG 553 | Wave Spray"
+  },
+  {
+    "paintIndex": 243,
+    "defIndex": 39,
+    "name": "SG 553 | Gator Mesh"
+  },
+  {
+    "paintIndex": 247,
+    "defIndex": 39,
+    "name": "SG 553 | Damascus Steel"
+  },
+  {
+    "paintIndex": 287,
+    "defIndex": 39,
+    "name": "SG 553 | Pulse"
+  },
+  {
+    "paintIndex": 298,
+    "defIndex": 39,
+    "name": "SG 553 | Army Sheen"
+  },
+  {
+    "paintIndex": 363,
+    "defIndex": 39,
+    "name": "SG 553 | Traveler"
+  },
+  {
+    "paintIndex": 378,
+    "defIndex": 39,
+    "name": "SG 553 | Fallout Warning"
+  },
+  {
+    "paintIndex": 487,
+    "defIndex": 39,
+    "name": "SG 553 | Cyrex"
+  },
+  {
+    "paintIndex": 519,
+    "defIndex": 39,
+    "name": "SG 553 | Tiger Moth"
+  },
+  {
+    "paintIndex": 553,
+    "defIndex": 39,
+    "name": "SG 553 | Atlas"
+  },
+  {
+    "paintIndex": 598,
+    "defIndex": 39,
+    "name": "SG 553 | Aerial"
+  },
+  {
+    "paintIndex": 613,
+    "defIndex": 39,
+    "name": "SG 553 | Triarch"
+  },
+  {
+    "paintIndex": 686,
+    "defIndex": 39,
+    "name": "SG 553 | Phantom"
+  },
+  {
+    "paintIndex": 702,
+    "defIndex": 39,
+    "name": "SG 553 | Aloha"
+  },
+  {
+    "paintIndex": 750,
+    "defIndex": 39,
+    "name": "SG 553 | Integrale"
+  },
+  {
+    "paintIndex": 765,
+    "defIndex": 39,
+    "name": "SG 553 | Desert Blossom"
+  },
+  {
+    "paintIndex": 815,
+    "defIndex": 39,
+    "name": "SG 553 | Danger Close"
+  },
+  {
+    "paintIndex": 861,
+    "defIndex": 39,
+    "name": "SG 553 | Barricade"
+  },
+  {
+    "paintIndex": 864,
+    "defIndex": 39,
+    "name": "SG 553 | Candy Apple"
+  },
+  {
+    "paintIndex": 897,
+    "defIndex": 39,
+    "name": "SG 553 | Colony IV"
+  },
+  {
+    "paintIndex": 901,
+    "defIndex": 39,
+    "name": "SG 553 | Berry Gel Coat"
+  },
+  {
+    "paintIndex": 934,
+    "defIndex": 39,
+    "name": "SG 553 | Bleached"
+  },
+  {
+    "paintIndex": 955,
+    "defIndex": 39,
+    "name": "SG 553 | Darkwing"
+  },
+  {
+    "paintIndex": 966,
+    "defIndex": 39,
+    "name": "SG 553 | Ol' Rusty"
+  },
+  {
+    "paintIndex": 1022,
+    "defIndex": 39,
+    "name": "SG 553 | Lush Ruins"
+  },
+  {
+    "paintIndex": 1048,
+    "defIndex": 39,
+    "name": "SG 553 | Heavy Metal"
+  },
+  {
+    "paintIndex": 1084,
+    "defIndex": 39,
+    "name": "SG 553 | Hazard Pay"
+  },
+  {
+    "paintIndex": 1151,
+    "defIndex": 39,
+    "name": "SG 553 | Dragon Tech"
+  },
+  {
+    "paintIndex": 1234,
+    "defIndex": 39,
+    "name": "SG 553 | Cyberforce"
+  },
+  {
+    "paintIndex": 1270,
+    "defIndex": 39,
+    "name": "SG 553 | Night Camo"
+  },
+  {
+    "paintIndex": 1320,
+    "defIndex": 39,
+    "name": "SG 553 | Basket Halftone"
+  },
+  {
+    "paintIndex": 26,
+    "defIndex": 40,
+    "name": "SSG 08 | Lichen Dashed"
+  },
+  {
+    "paintIndex": 60,
+    "defIndex": 40,
+    "name": "SSG 08 | Dark Water"
+  },
+  {
+    "paintIndex": 70,
+    "defIndex": 40,
+    "name": "SSG 08 | Carbon Fiber"
+  },
+  {
+    "paintIndex": 96,
+    "defIndex": 40,
+    "name": "SSG 08 | Blue Spruce"
+  },
+  {
+    "paintIndex": 99,
+    "defIndex": 40,
+    "name": "SSG 08 | Sand Dune"
+  },
+  {
+    "paintIndex": 128,
+    "defIndex": 40,
+    "name": "SSG 08 | Rapid Transit"
+  },
+  {
+    "paintIndex": 147,
+    "defIndex": 40,
+    "name": "SSG 08 | Jungle Dashed"
+  },
+  {
+    "paintIndex": 200,
+    "defIndex": 40,
+    "name": "SSG 08 | Mayan Dreams"
+  },
+  {
+    "paintIndex": 222,
+    "defIndex": 40,
+    "name": "SSG 08 | Blood in the Water"
+  },
+  {
+    "paintIndex": 233,
+    "defIndex": 40,
+    "name": "SSG 08 | Tropical Storm"
+  },
+  {
+    "paintIndex": 253,
+    "defIndex": 40,
+    "name": "SSG 08 | Acid Fade"
+  },
+  {
+    "paintIndex": 304,
+    "defIndex": 40,
+    "name": "SSG 08 | Slashed"
+  },
+  {
+    "paintIndex": 319,
+    "defIndex": 40,
+    "name": "SSG 08 | Detour"
+  },
+  {
+    "paintIndex": 361,
+    "defIndex": 40,
+    "name": "SSG 08 | Abyss"
+  },
+  {
+    "paintIndex": 503,
+    "defIndex": 40,
+    "name": "SSG 08 | Big Iron"
+  },
+  {
+    "paintIndex": 513,
+    "defIndex": 40,
+    "name": "SSG 08 | Zeno"
+  },
+  {
+    "paintIndex": 538,
+    "defIndex": 40,
+    "name": "SSG 08 | Necropos"
+  },
+  {
+    "paintIndex": 554,
+    "defIndex": 40,
+    "name": "SSG 08 | Ghost Crusader"
+  },
+  {
+    "paintIndex": 624,
+    "defIndex": 40,
+    "name": "SSG 08 | Dragonfire"
+  },
+  {
+    "paintIndex": 670,
+    "defIndex": 40,
+    "name": "SSG 08 | Death's Head"
+  },
+  {
+    "paintIndex": 743,
+    "defIndex": 40,
+    "name": "SSG 08 | Orange Filigree"
+  },
+  {
+    "paintIndex": 751,
+    "defIndex": 40,
+    "name": "SSG 08 | Hand Brake"
+  },
+  {
+    "paintIndex": 762,
+    "defIndex": 40,
+    "name": "SSG 08 | Red Stone"
+  },
+  {
+    "paintIndex": 868,
+    "defIndex": 40,
+    "name": "SSG 08 | Sea Calico"
+  },
+  {
+    "paintIndex": 877,
+    "defIndex": 40,
+    "name": "SSG 08 | Halftone Whorl"
+  },
+  {
+    "paintIndex": 899,
+    "defIndex": 40,
+    "name": "SSG 08 | Bloodshot"
+  },
+  {
+    "paintIndex": 935,
+    "defIndex": 40,
+    "name": "SSG 08 | Prey"
+  },
+  {
+    "paintIndex": 956,
+    "defIndex": 40,
+    "name": "SSG 08 | Fever Dream"
+  },
+  {
+    "paintIndex": 967,
+    "defIndex": 40,
+    "name": "SSG 08 | Mainframe 001"
+  },
+  {
+    "paintIndex": 989,
+    "defIndex": 40,
+    "name": "SSG 08 | Parallax"
+  },
+  {
+    "paintIndex": 996,
+    "defIndex": 40,
+    "name": "SSG 08 | Threat Detected"
+  },
+  {
+    "paintIndex": 1052,
+    "defIndex": 40,
+    "name": "SSG 08 | Death Strike"
+  },
+  {
+    "paintIndex": 1060,
+    "defIndex": 40,
+    "name": "SSG 08 | Spring Twilly"
+  },
+  {
+    "paintIndex": 1101,
+    "defIndex": 40,
+    "name": "SSG 08 | Turbo Peek"
+  },
+  {
+    "paintIndex": 1161,
+    "defIndex": 40,
+    "name": "SSG 08 | Dezastre"
+  },
+  {
+    "paintIndex": 1187,
+    "defIndex": 40,
+    "name": "SSG 08 | Memorial"
+  },
+  {
+    "paintIndex": 1251,
+    "defIndex": 40,
+    "name": "SSG 08 | Azure Glyph"
+  },
+  {
+    "paintIndex": 1271,
+    "defIndex": 40,
+    "name": "SSG 08 | Grey Smoke"
+  },
+  {
+    "paintIndex": 1289,
+    "defIndex": 40,
+    "name": "SSG 08 | Tiger Tear"
+  },
+  {
+    "paintIndex": 1304,
+    "defIndex": 40,
+    "name": "SSG 08 | Green Ceramic"
+  },
+  {
+    "paintIndex": 1316,
+    "defIndex": 40,
+    "name": "SSG 08 | Blush Pour"
+  },
+  {
+    "paintIndex": 60,
+    "defIndex": 60,
+    "name": "M4A1-S | Dark Water"
+  },
+  {
+    "paintIndex": 77,
+    "defIndex": 60,
+    "name": "M4A1-S | Boreal Forest"
+  },
+  {
+    "paintIndex": 106,
+    "defIndex": 60,
+    "name": "M4A1-S | Vaporwave"
+  },
+  {
+    "paintIndex": 160,
+    "defIndex": 60,
+    "name": "M4A1-S | Wash me plz"
+  },
+  {
+    "paintIndex": 189,
+    "defIndex": 60,
+    "name": "M4A1-S | Bright Water"
+  },
+  {
+    "paintIndex": 217,
+    "defIndex": 60,
+    "name": "M4A1-S | Blood Tiger"
+  },
+  {
+    "paintIndex": 235,
+    "defIndex": 60,
+    "name": "M4A1-S | VariCamo"
+  },
+  {
+    "paintIndex": 254,
+    "defIndex": 60,
+    "name": "M4A1-S | Nitro"
+  },
+  {
+    "paintIndex": 257,
+    "defIndex": 60,
+    "name": "M4A1-S | Guardian"
+  },
+  {
+    "paintIndex": 301,
+    "defIndex": 60,
+    "name": "M4A1-S | Atomic Alloy"
+  },
+  {
+    "paintIndex": 321,
+    "defIndex": 60,
+    "name": "M4A1-S | Master Piece"
+  },
+  {
+    "paintIndex": 326,
+    "defIndex": 60,
+    "name": "M4A1-S | Knight"
+  },
+  {
+    "paintIndex": 360,
+    "defIndex": 60,
+    "name": "M4A1-S | Cyrex"
+  },
+  {
+    "paintIndex": 383,
+    "defIndex": 60,
+    "name": "M4A1-S | Basilisk"
+  },
+  {
+    "paintIndex": 430,
+    "defIndex": 60,
+    "name": "M4A1-S | Hyper Beast"
+  },
+  {
+    "paintIndex": 440,
+    "defIndex": 60,
+    "name": "M4A1-S | Icarus Fell"
+  },
+  {
+    "paintIndex": 445,
+    "defIndex": 60,
+    "name": "M4A1-S | Hot Rod"
+  },
+  {
+    "paintIndex": 497,
+    "defIndex": 60,
+    "name": "M4A1-S | Golden Coil"
+  },
+  {
+    "paintIndex": 548,
+    "defIndex": 60,
+    "name": "M4A1-S | Chantico's Fire"
+  },
+  {
+    "paintIndex": 587,
+    "defIndex": 60,
+    "name": "M4A1-S | Mecha Industries"
+  },
+  {
+    "paintIndex": 631,
+    "defIndex": 60,
+    "name": "M4A1-S | Flashback"
+  },
+  {
+    "paintIndex": 644,
+    "defIndex": 60,
+    "name": "M4A1-S | Decimator"
+  },
+  {
+    "paintIndex": 663,
+    "defIndex": 60,
+    "name": "M4A1-S | Briefing"
+  },
+  {
+    "paintIndex": 681,
+    "defIndex": 60,
+    "name": "M4A1-S | Leaded Glass"
+  },
+  {
+    "paintIndex": 714,
+    "defIndex": 60,
+    "name": "M4A1-S | Nightmare"
+  },
+  {
+    "paintIndex": 792,
+    "defIndex": 60,
+    "name": "M4A1-S | Control Panel"
+  },
+  {
+    "paintIndex": 862,
+    "defIndex": 60,
+    "name": "M4A1-S | Moss Quartz"
+  },
+  {
+    "paintIndex": 946,
+    "defIndex": 60,
+    "name": "M4A1-S | Player Two"
+  },
+  {
+    "paintIndex": 984,
+    "defIndex": 60,
+    "name": "M4A1-S | Printstream"
+  },
+  {
+    "paintIndex": 1001,
+    "defIndex": 60,
+    "name": "M4A1-S | Welcome to the Jungle"
+  },
+  {
+    "paintIndex": 1017,
+    "defIndex": 60,
+    "name": "M4A1-S | Blue Phosphor"
+  },
+  {
+    "paintIndex": 1059,
+    "defIndex": 60,
+    "name": "M4A1-S | Fizzy POP"
+  },
+  {
+    "paintIndex": 1073,
+    "defIndex": 60,
+    "name": "M4A1-S | Imminent Danger"
+  },
+  {
+    "paintIndex": 1130,
+    "defIndex": 60,
+    "name": "M4A1-S | Night Terror"
+  },
+  {
+    "paintIndex": 1166,
+    "defIndex": 60,
+    "name": "M4A1-S | Black Lotus"
+  },
+  {
+    "paintIndex": 1177,
+    "defIndex": 60,
+    "name": "M4A1-S | Fade"
+  },
+  {
+    "paintIndex": 1216,
+    "defIndex": 60,
+    "name": "M4A1-S | Stratosphere"
+  },
+  {
+    "paintIndex": 1223,
+    "defIndex": 60,
+    "name": "M4A1-S | Emphorosaur-S"
+  },
+  {
+    "paintIndex": 1243,
+    "defIndex": 60,
+    "name": "M4A1-S | Mud-Spec"
+  },
+  {
+    "paintIndex": 1311,
+    "defIndex": 60,
+    "name": "M4A1-S | Glitched Paint"
+  },
+  {
+    "paintIndex": 1319,
+    "defIndex": 60,
+    "name": "M4A1-S | Rose Hex"
+  },
+  {
+    "paintIndex": 25,
+    "defIndex": 61,
+    "name": "USP-S | Forest Leaves"
+  },
+  {
+    "paintIndex": 60,
+    "defIndex": 61,
+    "name": "USP-S | Dark Water"
+  },
+  {
+    "paintIndex": 115,
+    "defIndex": 61,
+    "name": "USP-S | 027"
+  },
+  {
+    "paintIndex": 183,
+    "defIndex": 61,
+    "name": "USP-S | Overgrowth"
+  },
+  {
+    "paintIndex": 217,
+    "defIndex": 61,
+    "name": "USP-S | Blood Tiger"
+  },
+  {
+    "paintIndex": 221,
+    "defIndex": 61,
+    "name": "USP-S | Serum"
+  },
+  {
+    "paintIndex": 236,
+    "defIndex": 61,
+    "name": "USP-S | Night Ops"
+  },
+  {
+    "paintIndex": 277,
+    "defIndex": 61,
+    "name": "USP-S | Stainless"
+  },
+  {
+    "paintIndex": 290,
+    "defIndex": 61,
+    "name": "USP-S | Guardian"
+  },
+  {
+    "paintIndex": 313,
+    "defIndex": 61,
+    "name": "USP-S | Orion"
+  },
+  {
+    "paintIndex": 318,
+    "defIndex": 61,
+    "name": "USP-S | Road Rash"
+  },
+  {
+    "paintIndex": 332,
+    "defIndex": 61,
+    "name": "USP-S | Royal Blue"
+  },
+  {
+    "paintIndex": 339,
+    "defIndex": 61,
+    "name": "USP-S | Caiman"
+  },
+  {
+    "paintIndex": 364,
+    "defIndex": 61,
+    "name": "USP-S | Business Class"
+  },
+  {
+    "paintIndex": 443,
+    "defIndex": 61,
+    "name": "USP-S | Pathfinder"
+  },
+  {
+    "paintIndex": 454,
+    "defIndex": 61,
+    "name": "USP-S | Para Green"
+  },
+  {
+    "paintIndex": 489,
+    "defIndex": 61,
+    "name": "USP-S | Torque"
+  },
+  {
+    "paintIndex": 504,
+    "defIndex": 61,
+    "name": "USP-S | Kill Confirmed"
+  },
+  {
+    "paintIndex": 540,
+    "defIndex": 61,
+    "name": "USP-S | Lead Conduit"
+  },
+  {
+    "paintIndex": 637,
+    "defIndex": 61,
+    "name": "USP-S | Cyrex"
+  },
+  {
+    "paintIndex": 653,
+    "defIndex": 61,
+    "name": "USP-S | Neo-Noir"
+  },
+  {
+    "paintIndex": 657,
+    "defIndex": 61,
+    "name": "USP-S | Blueprint"
+  },
+  {
+    "paintIndex": 705,
+    "defIndex": 61,
+    "name": "USP-S | Cortex"
+  },
+  {
+    "paintIndex": 796,
+    "defIndex": 61,
+    "name": "USP-S | Check Engine"
+  },
+  {
+    "paintIndex": 817,
+    "defIndex": 61,
+    "name": "USP-S | Flashback"
+  },
+  {
+    "paintIndex": 818,
+    "defIndex": 61,
+    "name": "USP-S | Purple DDPAT"
+  },
+  {
+    "paintIndex": 830,
+    "defIndex": 61,
+    "name": "USP-S | Alpine Camo"
+  },
+  {
+    "paintIndex": 922,
+    "defIndex": 61,
+    "name": "USP-S | Orange Anolis"
+  },
+  {
+    "paintIndex": 991,
+    "defIndex": 61,
+    "name": "USP-S | Monster Mashup"
+  },
+  {
+    "paintIndex": 1027,
+    "defIndex": 61,
+    "name": "USP-S | Target Acquired"
+  },
+  {
+    "paintIndex": 1031,
+    "defIndex": 61,
+    "name": "USP-S | Ancient Visions"
+  },
+  {
+    "paintIndex": 1040,
+    "defIndex": 61,
+    "name": "USP-S | The Traitor"
+  },
+  {
+    "paintIndex": 1065,
+    "defIndex": 61,
+    "name": "USP-S | Whiteout"
+  },
+  {
+    "paintIndex": 1102,
+    "defIndex": 61,
+    "name": "USP-S | Black Lotus"
+  },
+  {
+    "paintIndex": 1136,
+    "defIndex": 61,
+    "name": "USP-S | Ticket to Hell"
+  },
+  {
+    "paintIndex": 1142,
+    "defIndex": 61,
+    "name": "USP-S | Printstream"
+  },
+  {
+    "paintIndex": 1173,
+    "defIndex": 61,
+    "name": "USP-S | Jawbreaker"
+  },
+  {
+    "paintIndex": 1186,
+    "defIndex": 61,
+    "name": "USP-S | PC-GRN"
+  },
+  {
+    "paintIndex": 1217,
+    "defIndex": 61,
+    "name": "USP-S | Royal Guard"
+  },
+  {
+    "paintIndex": 1253,
+    "defIndex": 61,
+    "name": "USP-S | Desert Tactical"
+  },
+  {
+    "paintIndex": 1284,
+    "defIndex": 61,
+    "name": "USP-S | Tropical Breeze"
+  },
+  {
+    "paintIndex": 1323,
+    "defIndex": 61,
+    "name": "USP-S | Bleeding Edge"
+  },
+  {
+    "paintIndex": 12,
+    "defIndex": 63,
+    "name": "CZ75-Auto | Crimson Web"
+  },
+  {
+    "paintIndex": 32,
+    "defIndex": 63,
+    "name": "CZ75-Auto | Silver"
+  },
+  {
+    "paintIndex": 147,
+    "defIndex": 63,
+    "name": "CZ75-Auto | Jungle Dashed"
+  },
+  {
+    "paintIndex": 218,
+    "defIndex": 63,
+    "name": "CZ75-Auto | Hexane"
+  },
+  {
+    "paintIndex": 268,
+    "defIndex": 63,
+    "name": "CZ75-Auto | Tread Plate"
+  },
+  {
+    "paintIndex": 269,
+    "defIndex": 63,
+    "name": "CZ75-Auto | The Fuschia Is Now"
+  },
+  {
+    "paintIndex": 270,
+    "defIndex": 63,
+    "name": "CZ75-Auto | Victoria"
+  },
+  {
+    "paintIndex": 297,
+    "defIndex": 63,
+    "name": "CZ75-Auto | Tuxedo"
+  },
+  {
+    "paintIndex": 298,
+    "defIndex": 63,
+    "name": "CZ75-Auto | Army Sheen"
+  },
+  {
+    "paintIndex": 315,
+    "defIndex": 63,
+    "name": "CZ75-Auto | Poison Dart"
+  },
+  {
+    "paintIndex": 322,
+    "defIndex": 63,
+    "name": "CZ75-Auto | Nitro"
+  },
+  {
+    "paintIndex": 325,
+    "defIndex": 63,
+    "name": "CZ75-Auto | Chalice"
+  },
+  {
+    "paintIndex": 333,
+    "defIndex": 63,
+    "name": "CZ75-Auto | Indigo"
+  },
+  {
+    "paintIndex": 334,
+    "defIndex": 63,
+    "name": "CZ75-Auto | Twist"
+  },
+  {
+    "paintIndex": 350,
+    "defIndex": 63,
+    "name": "CZ75-Auto | Tigris"
+  },
+  {
+    "paintIndex": 366,
+    "defIndex": 63,
+    "name": "CZ75-Auto | Green Plaid"
+  },
+  {
+    "paintIndex": 435,
+    "defIndex": 63,
+    "name": "CZ75-Auto | Pole Position"
+  },
+  {
+    "paintIndex": 453,
+    "defIndex": 63,
+    "name": "CZ75-Auto | Emerald"
+  },
+  {
+    "paintIndex": 476,
+    "defIndex": 63,
+    "name": "CZ75-Auto | Yellow Jacket"
+  },
+  {
+    "paintIndex": 543,
+    "defIndex": 63,
+    "name": "CZ75-Auto | Red Astor"
+  },
+  {
+    "paintIndex": 602,
+    "defIndex": 63,
+    "name": "CZ75-Auto | Imprint"
+  },
+  {
+    "paintIndex": 622,
+    "defIndex": 63,
+    "name": "CZ75-Auto | Polymer"
+  },
+  {
+    "paintIndex": 643,
+    "defIndex": 63,
+    "name": "CZ75-Auto | Xiangliu"
+  },
+  {
+    "paintIndex": 687,
+    "defIndex": 63,
+    "name": "CZ75-Auto | Tacticat"
+  },
+  {
+    "paintIndex": 709,
+    "defIndex": 63,
+    "name": "CZ75-Auto | Eco"
+  },
+  {
+    "paintIndex": 859,
+    "defIndex": 63,
+    "name": "CZ75-Auto | Emerald Quartz"
+  },
+  {
+    "paintIndex": 933,
+    "defIndex": 63,
+    "name": "CZ75-Auto | Midnight Palm"
+  },
+  {
+    "paintIndex": 937,
+    "defIndex": 63,
+    "name": "CZ75-Auto | Slalom"
+  },
+  {
+    "paintIndex": 944,
+    "defIndex": 63,
+    "name": "CZ75-Auto | Distressed"
+  },
+  {
+    "paintIndex": 976,
+    "defIndex": 63,
+    "name": "CZ75-Auto | Vendetta"
+  },
+  {
+    "paintIndex": 1036,
+    "defIndex": 63,
+    "name": "CZ75-Auto | Circaetus"
+  },
+  {
+    "paintIndex": 1064,
+    "defIndex": 63,
+    "name": "CZ75-Auto | Syndicate"
+  },
+  {
+    "paintIndex": 1076,
+    "defIndex": 63,
+    "name": "CZ75-Auto | Framework"
+  },
+  {
+    "paintIndex": 1195,
+    "defIndex": 63,
+    "name": "CZ75-Auto | Copper Fiber"
+  },
+  {
+    "paintIndex": 1329,
+    "defIndex": 63,
+    "name": "CZ75-Auto | Pink Pearl"
+  },
+  {
+    "paintIndex": 12,
+    "defIndex": 64,
+    "name": "R8 Revolver | Crimson Web"
+  },
+  {
+    "paintIndex": 27,
+    "defIndex": 64,
+    "name": "R8 Revolver | Bone Mask"
+  },
+  {
+    "paintIndex": 37,
+    "defIndex": 64,
+    "name": "R8 Revolver | Blaze"
+  },
+  {
+    "paintIndex": 40,
+    "defIndex": 64,
+    "name": "R8 Revolver | Night"
+  },
+  {
+    "paintIndex": 123,
+    "defIndex": 64,
+    "name": "R8 Revolver | Tango"
+  },
+  {
+    "paintIndex": 522,
+    "defIndex": 64,
+    "name": "R8 Revolver | Fade"
+  },
+  {
+    "paintIndex": 523,
+    "defIndex": 64,
+    "name": "R8 Revolver | Amber Fade"
+  },
+  {
+    "paintIndex": 595,
+    "defIndex": 64,
+    "name": "R8 Revolver | Reboot"
+  },
+  {
+    "paintIndex": 683,
+    "defIndex": 64,
+    "name": "R8 Revolver | Llama Cannon"
+  },
+  {
+    "paintIndex": 701,
+    "defIndex": 64,
+    "name": "R8 Revolver | Grip"
+  },
+  {
+    "paintIndex": 721,
+    "defIndex": 64,
+    "name": "R8 Revolver | Survivalist"
+  },
+  {
+    "paintIndex": 798,
+    "defIndex": 64,
+    "name": "R8 Revolver | Nitro"
+  },
+  {
+    "paintIndex": 843,
+    "defIndex": 64,
+    "name": "R8 Revolver | Skull Crusher"
+  },
+  {
+    "paintIndex": 866,
+    "defIndex": 64,
+    "name": "R8 Revolver | Canal Spray"
+  },
+  {
+    "paintIndex": 892,
+    "defIndex": 64,
+    "name": "R8 Revolver | Memento"
+  },
+  {
+    "paintIndex": 924,
+    "defIndex": 64,
+    "name": "R8 Revolver | Desert Brush"
+  },
+  {
+    "paintIndex": 952,
+    "defIndex": 64,
+    "name": "R8 Revolver | Bone Forged"
+  },
+  {
+    "paintIndex": 1011,
+    "defIndex": 64,
+    "name": "R8 Revolver | Phoenix Marker"
+  },
+  {
+    "paintIndex": 1047,
+    "defIndex": 64,
+    "name": "R8 Revolver | Junk Yard"
+  },
+  {
+    "paintIndex": 1145,
+    "defIndex": 64,
+    "name": "R8 Revolver | Crazy 8"
+  },
+  {
+    "paintIndex": 1232,
+    "defIndex": 64,
+    "name": "R8 Revolver | Banana Cannon"
+  },
+  {
+    "paintIndex": 1237,
+    "defIndex": 64,
+    "name": "R8 Revolver | Inlay"
+  },
+  {
+    "paintIndex": 1276,
+    "defIndex": 64,
+    "name": "R8 Revolver | Cobalt Grip"
+  },
+  {
+    "paintIndex": 1293,
+    "defIndex": 64,
+    "name": "R8 Revolver | Leafhopper"
+  },
+  {
+    "paintIndex": 0,
+    "defIndex": 500,
+    "name": "Bayonet | Vanilla"
+  },
+  {
+    "paintIndex": 5,
+    "defIndex": 500,
+    "name": "Bayonet | Forest DDPAT"
+  },
+  {
+    "paintIndex": 12,
+    "defIndex": 500,
+    "name": "Bayonet | Crimson Web"
+  },
+  {
+    "paintIndex": 38,
+    "defIndex": 500,
+    "name": "Bayonet | Fade"
+  },
+  {
+    "paintIndex": 40,
+    "defIndex": 500,
+    "name": "Bayonet | Night"
+  },
+  {
+    "paintIndex": 42,
+    "defIndex": 500,
+    "name": "Bayonet | Blue Steel"
+  },
+  {
+    "paintIndex": 43,
+    "defIndex": 500,
+    "name": "Bayonet | Stained"
+  },
+  {
+    "paintIndex": 44,
+    "defIndex": 500,
+    "name": "Bayonet | Case Hardened"
+  },
+  {
+    "paintIndex": 59,
+    "defIndex": 500,
+    "name": "Bayonet | Slaughter"
+  },
+  {
+    "paintIndex": 72,
+    "defIndex": 500,
+    "name": "Bayonet | Safari Mesh"
+  },
+  {
+    "paintIndex": 77,
+    "defIndex": 500,
+    "name": "Bayonet | Boreal Forest"
+  },
+  {
+    "paintIndex": 98,
+    "defIndex": 500,
+    "name": "Bayonet | Ultraviolet"
+  },
+  {
+    "paintIndex": 143,
+    "defIndex": 500,
+    "name": "Bayonet | Urban Masked"
+  },
+  {
+    "paintIndex": 175,
+    "defIndex": 500,
+    "name": "Bayonet | Scorched"
+  },
+  {
+    "paintIndex": 409,
+    "defIndex": 500,
+    "name": "Bayonet | Tiger Tooth"
+  },
+  {
+    "paintIndex": 410,
+    "defIndex": 500,
+    "name": "Bayonet | Damascus Steel"
+  },
+  {
+    "paintIndex": 413,
+    "defIndex": 500,
+    "name": "Bayonet | Marble Fade"
+  },
+  {
+    "paintIndex": 414,
+    "defIndex": 500,
+    "name": "Bayonet | Rust Coat"
+  },
+  {
+    "paintIndex": 415,
+    "defIndex": 500,
+    "name": "Bayonet | Doppler (Ruby)"
+  },
+  {
+    "paintIndex": 416,
+    "defIndex": 500,
+    "name": "Bayonet | Doppler (Sapphire)"
+  },
+  {
+    "paintIndex": 417,
+    "defIndex": 500,
+    "name": "Bayonet | Doppler (Black Pearl)"
+  },
+  {
+    "paintIndex": 418,
+    "defIndex": 500,
+    "name": "Bayonet | Doppler (Phase 1)"
+  },
+  {
+    "paintIndex": 419,
+    "defIndex": 500,
+    "name": "Bayonet | Doppler (Phase 2)"
+  },
+  {
+    "paintIndex": 420,
+    "defIndex": 500,
+    "name": "Bayonet | Doppler (Phase 3)"
+  },
+  {
+    "paintIndex": 421,
+    "defIndex": 500,
+    "name": "Bayonet | Doppler (Phase 4)"
+  },
+  {
+    "paintIndex": 558,
+    "defIndex": 500,
+    "name": "Bayonet | Lore"
+  },
+  {
+    "paintIndex": 563,
+    "defIndex": 500,
+    "name": "Bayonet | Black Laminate"
+  },
+  {
+    "paintIndex": 568,
+    "defIndex": 500,
+    "name": "Bayonet | Gamma Doppler (Emerald)"
+  },
+  {
+    "paintIndex": 569,
+    "defIndex": 500,
+    "name": "Bayonet | Gamma Doppler (Phase 1)"
+  },
+  {
+    "paintIndex": 570,
+    "defIndex": 500,
+    "name": "Bayonet | Gamma Doppler (Phase 2)"
+  },
+  {
+    "paintIndex": 571,
+    "defIndex": 500,
+    "name": "Bayonet | Gamma Doppler (Phase 3)"
+  },
+  {
+    "paintIndex": 572,
+    "defIndex": 500,
+    "name": "Bayonet | Gamma Doppler (Phase 4)"
+  },
+  {
+    "paintIndex": 573,
+    "defIndex": 500,
+    "name": "Bayonet | Autotronic"
+  },
+  {
+    "paintIndex": 578,
+    "defIndex": 500,
+    "name": "Bayonet | Bright Water"
+  },
+  {
+    "paintIndex": 580,
+    "defIndex": 500,
+    "name": "Bayonet | Freehand"
+  },
+  {
+    "paintIndex": 0,
+    "defIndex": 503,
+    "name": "Classic Knife | Vanilla"
+  },
+  {
+    "paintIndex": 5,
+    "defIndex": 503,
+    "name": "Classic Knife | Forest DDPAT"
+  },
+  {
+    "paintIndex": 12,
+    "defIndex": 503,
+    "name": "Classic Knife | Crimson Web"
+  },
+  {
+    "paintIndex": 38,
+    "defIndex": 503,
+    "name": "Classic Knife | Fade"
+  },
+  {
+    "paintIndex": 42,
+    "defIndex": 503,
+    "name": "Classic Knife | Blue Steel"
+  },
+  {
+    "paintIndex": 43,
+    "defIndex": 503,
+    "name": "Classic Knife | Stained"
+  },
+  {
+    "paintIndex": 44,
+    "defIndex": 503,
+    "name": "Classic Knife | Case Hardened"
+  },
+  {
+    "paintIndex": 59,
+    "defIndex": 503,
+    "name": "Classic Knife | Slaughter"
+  },
+  {
+    "paintIndex": 72,
+    "defIndex": 503,
+    "name": "Classic Knife | Safari Mesh"
+  },
+  {
+    "paintIndex": 77,
+    "defIndex": 503,
+    "name": "Classic Knife | Boreal Forest"
+  },
+  {
+    "paintIndex": 143,
+    "defIndex": 503,
+    "name": "Classic Knife | Urban Masked"
+  },
+  {
+    "paintIndex": 175,
+    "defIndex": 503,
+    "name": "Classic Knife | Scorched"
+  },
+  {
+    "paintIndex": 735,
+    "defIndex": 503,
+    "name": "Classic Knife | Night Stripe"
+  },
+  {
+    "paintIndex": 0,
+    "defIndex": 505,
+    "name": "Flip Knife | Vanilla"
+  },
+  {
+    "paintIndex": 5,
+    "defIndex": 505,
+    "name": "Flip Knife | Forest DDPAT"
+  },
+  {
+    "paintIndex": 12,
+    "defIndex": 505,
+    "name": "Flip Knife | Crimson Web"
+  },
+  {
+    "paintIndex": 38,
+    "defIndex": 505,
+    "name": "Flip Knife | Fade"
+  },
+  {
+    "paintIndex": 40,
+    "defIndex": 505,
+    "name": "Flip Knife | Night"
+  },
+  {
+    "paintIndex": 42,
+    "defIndex": 505,
+    "name": "Flip Knife | Blue Steel"
+  },
+  {
+    "paintIndex": 43,
+    "defIndex": 505,
+    "name": "Flip Knife | Stained"
+  },
+  {
+    "paintIndex": 44,
+    "defIndex": 505,
+    "name": "Flip Knife | Case Hardened"
+  },
+  {
+    "paintIndex": 59,
+    "defIndex": 505,
+    "name": "Flip Knife | Slaughter"
+  },
+  {
+    "paintIndex": 72,
+    "defIndex": 505,
+    "name": "Flip Knife | Safari Mesh"
+  },
+  {
+    "paintIndex": 77,
+    "defIndex": 505,
+    "name": "Flip Knife | Boreal Forest"
+  },
+  {
+    "paintIndex": 98,
+    "defIndex": 505,
+    "name": "Flip Knife | Ultraviolet"
+  },
+  {
+    "paintIndex": 143,
+    "defIndex": 505,
+    "name": "Flip Knife | Urban Masked"
+  },
+  {
+    "paintIndex": 175,
+    "defIndex": 505,
+    "name": "Flip Knife | Scorched"
+  },
+  {
+    "paintIndex": 409,
+    "defIndex": 505,
+    "name": "Flip Knife | Tiger Tooth"
+  },
+  {
+    "paintIndex": 410,
+    "defIndex": 505,
+    "name": "Flip Knife | Damascus Steel"
+  },
+  {
+    "paintIndex": 413,
+    "defIndex": 505,
+    "name": "Flip Knife | Marble Fade"
+  },
+  {
+    "paintIndex": 414,
+    "defIndex": 505,
+    "name": "Flip Knife | Rust Coat"
+  },
+  {
+    "paintIndex": 415,
+    "defIndex": 505,
+    "name": "Flip Knife | Doppler (Ruby)"
+  },
+  {
+    "paintIndex": 416,
+    "defIndex": 505,
+    "name": "Flip Knife | Doppler (Sapphire)"
+  },
+  {
+    "paintIndex": 417,
+    "defIndex": 505,
+    "name": "Flip Knife | Doppler (Black Pearl)"
+  },
+  {
+    "paintIndex": 418,
+    "defIndex": 505,
+    "name": "Flip Knife | Doppler (Phase 1)"
+  },
+  {
+    "paintIndex": 419,
+    "defIndex": 505,
+    "name": "Flip Knife | Doppler (Phase 2)"
+  },
+  {
+    "paintIndex": 420,
+    "defIndex": 505,
+    "name": "Flip Knife | Doppler (Phase 3)"
+  },
+  {
+    "paintIndex": 421,
+    "defIndex": 505,
+    "name": "Flip Knife | Doppler (Phase 4)"
+  },
+  {
+    "paintIndex": 559,
+    "defIndex": 505,
+    "name": "Flip Knife | Lore"
+  },
+  {
+    "paintIndex": 564,
+    "defIndex": 505,
+    "name": "Flip Knife | Black Laminate"
+  },
+  {
+    "paintIndex": 568,
+    "defIndex": 505,
+    "name": "Flip Knife | Gamma Doppler (Emerald)"
+  },
+  {
+    "paintIndex": 569,
+    "defIndex": 505,
+    "name": "Flip Knife | Gamma Doppler (Phase 1)"
+  },
+  {
+    "paintIndex": 570,
+    "defIndex": 505,
+    "name": "Flip Knife | Gamma Doppler (Phase 2)"
+  },
+  {
+    "paintIndex": 571,
+    "defIndex": 505,
+    "name": "Flip Knife | Gamma Doppler (Phase 3)"
+  },
+  {
+    "paintIndex": 572,
+    "defIndex": 505,
+    "name": "Flip Knife | Gamma Doppler (Phase 4)"
+  },
+  {
+    "paintIndex": 574,
+    "defIndex": 505,
+    "name": "Flip Knife | Autotronic"
+  },
+  {
+    "paintIndex": 578,
+    "defIndex": 505,
+    "name": "Flip Knife | Bright Water"
+  },
+  {
+    "paintIndex": 580,
+    "defIndex": 505,
+    "name": "Flip Knife | Freehand"
+  },
+  {
+    "paintIndex": 0,
+    "defIndex": 506,
+    "name": "Gut Knife | Vanilla"
+  },
+  {
+    "paintIndex": 5,
+    "defIndex": 506,
+    "name": "Gut Knife | Forest DDPAT"
+  },
+  {
+    "paintIndex": 12,
+    "defIndex": 506,
+    "name": "Gut Knife | Crimson Web"
+  },
+  {
+    "paintIndex": 38,
+    "defIndex": 506,
+    "name": "Gut Knife | Fade"
+  },
+  {
+    "paintIndex": 40,
+    "defIndex": 506,
+    "name": "Gut Knife | Night"
+  },
+  {
+    "paintIndex": 42,
+    "defIndex": 506,
+    "name": "Gut Knife | Blue Steel"
+  },
+  {
+    "paintIndex": 43,
+    "defIndex": 506,
+    "name": "Gut Knife | Stained"
+  },
+  {
+    "paintIndex": 44,
+    "defIndex": 506,
+    "name": "Gut Knife | Case Hardened"
+  },
+  {
+    "paintIndex": 59,
+    "defIndex": 506,
+    "name": "Gut Knife | Slaughter"
+  },
+  {
+    "paintIndex": 72,
+    "defIndex": 506,
+    "name": "Gut Knife | Safari Mesh"
+  },
+  {
+    "paintIndex": 77,
+    "defIndex": 506,
+    "name": "Gut Knife | Boreal Forest"
+  },
+  {
+    "paintIndex": 98,
+    "defIndex": 506,
+    "name": "Gut Knife | Ultraviolet"
+  },
+  {
+    "paintIndex": 143,
+    "defIndex": 506,
+    "name": "Gut Knife | Urban Masked"
+  },
+  {
+    "paintIndex": 175,
+    "defIndex": 506,
+    "name": "Gut Knife | Scorched"
+  },
+  {
+    "paintIndex": 409,
+    "defIndex": 506,
+    "name": "Gut Knife | Tiger Tooth"
+  },
+  {
+    "paintIndex": 410,
+    "defIndex": 506,
+    "name": "Gut Knife | Damascus Steel"
+  },
+  {
+    "paintIndex": 413,
+    "defIndex": 506,
+    "name": "Gut Knife | Marble Fade"
+  },
+  {
+    "paintIndex": 414,
+    "defIndex": 506,
+    "name": "Gut Knife | Rust Coat"
+  },
+  {
+    "paintIndex": 415,
+    "defIndex": 506,
+    "name": "Gut Knife | Doppler (Ruby)"
+  },
+  {
+    "paintIndex": 416,
+    "defIndex": 506,
+    "name": "Gut Knife | Doppler (Sapphire)"
+  },
+  {
+    "paintIndex": 417,
+    "defIndex": 506,
+    "name": "Gut Knife | Doppler (Black Pearl)"
+  },
+  {
+    "paintIndex": 418,
+    "defIndex": 506,
+    "name": "Gut Knife | Doppler (Phase 1)"
+  },
+  {
+    "paintIndex": 419,
+    "defIndex": 506,
+    "name": "Gut Knife | Doppler (Phase 2)"
+  },
+  {
+    "paintIndex": 420,
+    "defIndex": 506,
+    "name": "Gut Knife | Doppler (Phase 3)"
+  },
+  {
+    "paintIndex": 421,
+    "defIndex": 506,
+    "name": "Gut Knife | Doppler (Phase 4)"
+  },
+  {
+    "paintIndex": 560,
+    "defIndex": 506,
+    "name": "Gut Knife | Lore"
+  },
+  {
+    "paintIndex": 565,
+    "defIndex": 506,
+    "name": "Gut Knife | Black Laminate"
+  },
+  {
+    "paintIndex": 568,
+    "defIndex": 506,
+    "name": "Gut Knife | Gamma Doppler (Emerald)"
+  },
+  {
+    "paintIndex": 569,
+    "defIndex": 506,
+    "name": "Gut Knife | Gamma Doppler (Phase 1)"
+  },
+  {
+    "paintIndex": 570,
+    "defIndex": 506,
+    "name": "Gut Knife | Gamma Doppler (Phase 2)"
+  },
+  {
+    "paintIndex": 571,
+    "defIndex": 506,
+    "name": "Gut Knife | Gamma Doppler (Phase 3)"
+  },
+  {
+    "paintIndex": 572,
+    "defIndex": 506,
+    "name": "Gut Knife | Gamma Doppler (Phase 4)"
+  },
+  {
+    "paintIndex": 575,
+    "defIndex": 506,
+    "name": "Gut Knife | Autotronic"
+  },
+  {
+    "paintIndex": 578,
+    "defIndex": 506,
+    "name": "Gut Knife | Bright Water"
+  },
+  {
+    "paintIndex": 580,
+    "defIndex": 506,
+    "name": "Gut Knife | Freehand"
+  },
+  {
+    "paintIndex": 0,
+    "defIndex": 507,
+    "name": "Karambit | Vanilla"
+  },
+  {
+    "paintIndex": 5,
+    "defIndex": 507,
+    "name": "Karambit | Forest DDPAT"
+  },
+  {
+    "paintIndex": 12,
+    "defIndex": 507,
+    "name": "Karambit | Crimson Web"
+  },
+  {
+    "paintIndex": 38,
+    "defIndex": 507,
+    "name": "Karambit | Fade"
+  },
+  {
+    "paintIndex": 40,
+    "defIndex": 507,
+    "name": "Karambit | Night"
+  },
+  {
+    "paintIndex": 42,
+    "defIndex": 507,
+    "name": "Karambit | Blue Steel"
+  },
+  {
+    "paintIndex": 43,
+    "defIndex": 507,
+    "name": "Karambit | Stained"
+  },
+  {
+    "paintIndex": 44,
+    "defIndex": 507,
+    "name": "Karambit | Case Hardened"
+  },
+  {
+    "paintIndex": 59,
+    "defIndex": 507,
+    "name": "Karambit | Slaughter"
+  },
+  {
+    "paintIndex": 72,
+    "defIndex": 507,
+    "name": "Karambit | Safari Mesh"
+  },
+  {
+    "paintIndex": 77,
+    "defIndex": 507,
+    "name": "Karambit | Boreal Forest"
+  },
+  {
+    "paintIndex": 98,
+    "defIndex": 507,
+    "name": "Karambit | Ultraviolet"
+  },
+  {
+    "paintIndex": 143,
+    "defIndex": 507,
+    "name": "Karambit | Urban Masked"
+  },
+  {
+    "paintIndex": 175,
+    "defIndex": 507,
+    "name": "Karambit | Scorched"
+  },
+  {
+    "paintIndex": 409,
+    "defIndex": 507,
+    "name": "Karambit | Tiger Tooth"
+  },
+  {
+    "paintIndex": 410,
+    "defIndex": 507,
+    "name": "Karambit | Damascus Steel"
+  },
+  {
+    "paintIndex": 413,
+    "defIndex": 507,
+    "name": "Karambit | Marble Fade"
+  },
+  {
+    "paintIndex": 414,
+    "defIndex": 507,
+    "name": "Karambit | Rust Coat"
+  },
+  {
+    "paintIndex": 415,
+    "defIndex": 507,
+    "name": "Karambit | Doppler (Ruby)"
+  },
+  {
+    "paintIndex": 416,
+    "defIndex": 507,
+    "name": "Karambit | Doppler (Sapphire)"
+  },
+  {
+    "paintIndex": 417,
+    "defIndex": 507,
+    "name": "Karambit | Doppler (Black Pearl)"
+  },
+  {
+    "paintIndex": 418,
+    "defIndex": 507,
+    "name": "Karambit | Doppler (Phase 1)"
+  },
+  {
+    "paintIndex": 419,
+    "defIndex": 507,
+    "name": "Karambit | Doppler (Phase 2)"
+  },
+  {
+    "paintIndex": 420,
+    "defIndex": 507,
+    "name": "Karambit | Doppler (Phase 3)"
+  },
+  {
+    "paintIndex": 421,
+    "defIndex": 507,
+    "name": "Karambit | Doppler (Phase 4)"
+  },
+  {
+    "paintIndex": 561,
+    "defIndex": 507,
+    "name": "Karambit | Lore"
+  },
+  {
+    "paintIndex": 566,
+    "defIndex": 507,
+    "name": "Karambit | Black Laminate"
+  },
+  {
+    "paintIndex": 568,
+    "defIndex": 507,
+    "name": "Karambit | Gamma Doppler (Emerald)"
+  },
+  {
+    "paintIndex": 569,
+    "defIndex": 507,
+    "name": "Karambit | Gamma Doppler (Phase 1)"
+  },
+  {
+    "paintIndex": 570,
+    "defIndex": 507,
+    "name": "Karambit | Gamma Doppler (Phase 2)"
+  },
+  {
+    "paintIndex": 571,
+    "defIndex": 507,
+    "name": "Karambit | Gamma Doppler (Phase 3)"
+  },
+  {
+    "paintIndex": 572,
+    "defIndex": 507,
+    "name": "Karambit | Gamma Doppler (Phase 4)"
+  },
+  {
+    "paintIndex": 576,
+    "defIndex": 507,
+    "name": "Karambit | Autotronic"
+  },
+  {
+    "paintIndex": 578,
+    "defIndex": 507,
+    "name": "Karambit | Bright Water"
+  },
+  {
+    "paintIndex": 582,
+    "defIndex": 507,
+    "name": "Karambit | Freehand"
+  },
+  {
+    "paintIndex": 0,
+    "defIndex": 508,
+    "name": "M9 Bayonet | Vanilla"
+  },
+  {
+    "paintIndex": 5,
+    "defIndex": 508,
+    "name": "M9 Bayonet | Forest DDPAT"
+  },
+  {
+    "paintIndex": 12,
+    "defIndex": 508,
+    "name": "M9 Bayonet | Crimson Web"
+  },
+  {
+    "paintIndex": 38,
+    "defIndex": 508,
+    "name": "M9 Bayonet | Fade"
+  },
+  {
+    "paintIndex": 40,
+    "defIndex": 508,
+    "name": "M9 Bayonet | Night"
+  },
+  {
+    "paintIndex": 42,
+    "defIndex": 508,
+    "name": "M9 Bayonet | Blue Steel"
+  },
+  {
+    "paintIndex": 43,
+    "defIndex": 508,
+    "name": "M9 Bayonet | Stained"
+  },
+  {
+    "paintIndex": 44,
+    "defIndex": 508,
+    "name": "M9 Bayonet | Case Hardened"
+  },
+  {
+    "paintIndex": 59,
+    "defIndex": 508,
+    "name": "M9 Bayonet | Slaughter"
+  },
+  {
+    "paintIndex": 72,
+    "defIndex": 508,
+    "name": "M9 Bayonet | Safari Mesh"
+  },
+  {
+    "paintIndex": 77,
+    "defIndex": 508,
+    "name": "M9 Bayonet | Boreal Forest"
+  },
+  {
+    "paintIndex": 98,
+    "defIndex": 508,
+    "name": "M9 Bayonet | Ultraviolet"
+  },
+  {
+    "paintIndex": 143,
+    "defIndex": 508,
+    "name": "M9 Bayonet | Urban Masked"
+  },
+  {
+    "paintIndex": 175,
+    "defIndex": 508,
+    "name": "M9 Bayonet | Scorched"
+  },
+  {
+    "paintIndex": 409,
+    "defIndex": 508,
+    "name": "M9 Bayonet | Tiger Tooth"
+  },
+  {
+    "paintIndex": 411,
+    "defIndex": 508,
+    "name": "M9 Bayonet | Damascus Steel"
+  },
+  {
+    "paintIndex": 413,
+    "defIndex": 508,
+    "name": "M9 Bayonet | Marble Fade"
+  },
+  {
+    "paintIndex": 414,
+    "defIndex": 508,
+    "name": "M9 Bayonet | Rust Coat"
+  },
+  {
+    "paintIndex": 415,
+    "defIndex": 508,
+    "name": "M9 Bayonet | Doppler (Ruby)"
+  },
+  {
+    "paintIndex": 416,
+    "defIndex": 508,
+    "name": "M9 Bayonet | Doppler (Sapphire)"
+  },
+  {
+    "paintIndex": 417,
+    "defIndex": 508,
+    "name": "M9 Bayonet | Doppler (Black Pearl)"
+  },
+  {
+    "paintIndex": 418,
+    "defIndex": 508,
+    "name": "M9 Bayonet | Doppler (Phase 1)"
+  },
+  {
+    "paintIndex": 419,
+    "defIndex": 508,
+    "name": "M9 Bayonet | Doppler (Phase 2)"
+  },
+  {
+    "paintIndex": 420,
+    "defIndex": 508,
+    "name": "M9 Bayonet | Doppler (Phase 3)"
+  },
+  {
+    "paintIndex": 421,
+    "defIndex": 508,
+    "name": "M9 Bayonet | Doppler (Phase 4)"
+  },
+  {
+    "paintIndex": 562,
+    "defIndex": 508,
+    "name": "M9 Bayonet | Lore"
+  },
+  {
+    "paintIndex": 567,
+    "defIndex": 508,
+    "name": "M9 Bayonet | Black Laminate"
+  },
+  {
+    "paintIndex": 568,
+    "defIndex": 508,
+    "name": "M9 Bayonet | Gamma Doppler (Emerald)"
+  },
+  {
+    "paintIndex": 569,
+    "defIndex": 508,
+    "name": "M9 Bayonet | Gamma Doppler (Phase 1)"
+  },
+  {
+    "paintIndex": 570,
+    "defIndex": 508,
+    "name": "M9 Bayonet | Gamma Doppler (Phase 2)"
+  },
+  {
+    "paintIndex": 571,
+    "defIndex": 508,
+    "name": "M9 Bayonet | Gamma Doppler (Phase 3)"
+  },
+  {
+    "paintIndex": 572,
+    "defIndex": 508,
+    "name": "M9 Bayonet | Gamma Doppler (Phase 4)"
+  },
+  {
+    "paintIndex": 577,
+    "defIndex": 508,
+    "name": "M9 Bayonet | Autotronic"
+  },
+  {
+    "paintIndex": 579,
+    "defIndex": 508,
+    "name": "M9 Bayonet | Bright Water"
+  },
+  {
+    "paintIndex": 581,
+    "defIndex": 508,
+    "name": "M9 Bayonet | Freehand"
+  },
+  {
+    "paintIndex": 0,
+    "defIndex": 509,
+    "name": "Huntsman Knife | Vanilla"
+  },
+  {
+    "paintIndex": 5,
+    "defIndex": 509,
+    "name": "Huntsman Knife | Forest DDPAT"
+  },
+  {
+    "paintIndex": 12,
+    "defIndex": 509,
+    "name": "Huntsman Knife | Crimson Web"
+  },
+  {
+    "paintIndex": 38,
+    "defIndex": 509,
+    "name": "Huntsman Knife | Fade"
+  },
+  {
+    "paintIndex": 40,
+    "defIndex": 509,
+    "name": "Huntsman Knife | Night"
+  },
+  {
+    "paintIndex": 42,
+    "defIndex": 509,
+    "name": "Huntsman Knife | Blue Steel"
+  },
+  {
+    "paintIndex": 43,
+    "defIndex": 509,
+    "name": "Huntsman Knife | Stained"
+  },
+  {
+    "paintIndex": 44,
+    "defIndex": 509,
+    "name": "Huntsman Knife | Case Hardened"
+  },
+  {
+    "paintIndex": 59,
+    "defIndex": 509,
+    "name": "Huntsman Knife | Slaughter"
+  },
+  {
+    "paintIndex": 72,
+    "defIndex": 509,
+    "name": "Huntsman Knife | Safari Mesh"
+  },
+  {
+    "paintIndex": 77,
+    "defIndex": 509,
+    "name": "Huntsman Knife | Boreal Forest"
+  },
+  {
+    "paintIndex": 143,
+    "defIndex": 509,
+    "name": "Huntsman Knife | Urban Masked"
+  },
+  {
+    "paintIndex": 175,
+    "defIndex": 509,
+    "name": "Huntsman Knife | Scorched"
+  },
+  {
+    "paintIndex": 409,
+    "defIndex": 509,
+    "name": "Huntsman Knife | Tiger Tooth"
+  },
+  {
+    "paintIndex": 411,
+    "defIndex": 509,
+    "name": "Huntsman Knife | Damascus Steel"
+  },
+  {
+    "paintIndex": 413,
+    "defIndex": 509,
+    "name": "Huntsman Knife | Marble Fade"
+  },
+  {
+    "paintIndex": 414,
+    "defIndex": 509,
+    "name": "Huntsman Knife | Rust Coat"
+  },
+  {
+    "paintIndex": 415,
+    "defIndex": 509,
+    "name": "Huntsman Knife | Doppler (Ruby)"
+  },
+  {
+    "paintIndex": 416,
+    "defIndex": 509,
+    "name": "Huntsman Knife | Doppler (Sapphire)"
+  },
+  {
+    "paintIndex": 417,
+    "defIndex": 509,
+    "name": "Huntsman Knife | Doppler (Black Pearl)"
+  },
+  {
+    "paintIndex": 418,
+    "defIndex": 509,
+    "name": "Huntsman Knife | Doppler (Phase 1)"
+  },
+  {
+    "paintIndex": 419,
+    "defIndex": 509,
+    "name": "Huntsman Knife | Doppler (Phase 2)"
+  },
+  {
+    "paintIndex": 420,
+    "defIndex": 509,
+    "name": "Huntsman Knife | Doppler (Phase 3)"
+  },
+  {
+    "paintIndex": 421,
+    "defIndex": 509,
+    "name": "Huntsman Knife | Doppler (Phase 4)"
+  },
+  {
+    "paintIndex": 568,
+    "defIndex": 509,
+    "name": "Huntsman Knife | Gamma Doppler (Emerald)"
+  },
+  {
+    "paintIndex": 569,
+    "defIndex": 509,
+    "name": "Huntsman Knife | Gamma Doppler (Phase 1)"
+  },
+  {
+    "paintIndex": 570,
+    "defIndex": 509,
+    "name": "Huntsman Knife | Gamma Doppler (Phase 2)"
+  },
+  {
+    "paintIndex": 571,
+    "defIndex": 509,
+    "name": "Huntsman Knife | Gamma Doppler (Phase 3)"
+  },
+  {
+    "paintIndex": 572,
+    "defIndex": 509,
+    "name": "Huntsman Knife | Gamma Doppler (Phase 4)"
+  },
+  {
+    "paintIndex": 579,
+    "defIndex": 509,
+    "name": "Huntsman Knife | Bright Water"
+  },
+  {
+    "paintIndex": 581,
+    "defIndex": 509,
+    "name": "Huntsman Knife | Freehand"
+  },
+  {
+    "paintIndex": 620,
+    "defIndex": 509,
+    "name": "Huntsman Knife | Ultraviolet"
+  },
+  {
+    "paintIndex": 1107,
+    "defIndex": 509,
+    "name": "Huntsman Knife | Lore"
+  },
+  {
+    "paintIndex": 1112,
+    "defIndex": 509,
+    "name": "Huntsman Knife | Black Laminate"
+  },
+  {
+    "paintIndex": 1117,
+    "defIndex": 509,
+    "name": "Huntsman Knife | Autotronic"
+  },
+  {
+    "paintIndex": 0,
+    "defIndex": 512,
+    "name": "Falchion Knife | Vanilla"
+  },
+  {
+    "paintIndex": 5,
+    "defIndex": 512,
+    "name": "Falchion Knife | Forest DDPAT"
+  },
+  {
+    "paintIndex": 12,
+    "defIndex": 512,
+    "name": "Falchion Knife | Crimson Web"
+  },
+  {
+    "paintIndex": 38,
+    "defIndex": 512,
+    "name": "Falchion Knife | Fade"
+  },
+  {
+    "paintIndex": 40,
+    "defIndex": 512,
+    "name": "Falchion Knife | Night"
+  },
+  {
+    "paintIndex": 42,
+    "defIndex": 512,
+    "name": "Falchion Knife | Blue Steel"
+  },
+  {
+    "paintIndex": 43,
+    "defIndex": 512,
+    "name": "Falchion Knife | Stained"
+  },
+  {
+    "paintIndex": 44,
+    "defIndex": 512,
+    "name": "Falchion Knife | Case Hardened"
+  },
+  {
+    "paintIndex": 59,
+    "defIndex": 512,
+    "name": "Falchion Knife | Slaughter"
+  },
+  {
+    "paintIndex": 72,
+    "defIndex": 512,
+    "name": "Falchion Knife | Safari Mesh"
+  },
+  {
+    "paintIndex": 77,
+    "defIndex": 512,
+    "name": "Falchion Knife | Boreal Forest"
+  },
+  {
+    "paintIndex": 143,
+    "defIndex": 512,
+    "name": "Falchion Knife | Urban Masked"
+  },
+  {
+    "paintIndex": 175,
+    "defIndex": 512,
+    "name": "Falchion Knife | Scorched"
+  },
+  {
+    "paintIndex": 409,
+    "defIndex": 512,
+    "name": "Falchion Knife | Tiger Tooth"
+  },
+  {
+    "paintIndex": 411,
+    "defIndex": 512,
+    "name": "Falchion Knife | Damascus Steel"
+  },
+  {
+    "paintIndex": 413,
+    "defIndex": 512,
+    "name": "Falchion Knife | Marble Fade"
+  },
+  {
+    "paintIndex": 414,
+    "defIndex": 512,
+    "name": "Falchion Knife | Rust Coat"
+  },
+  {
+    "paintIndex": 415,
+    "defIndex": 512,
+    "name": "Falchion Knife | Doppler (Ruby)"
+  },
+  {
+    "paintIndex": 416,
+    "defIndex": 512,
+    "name": "Falchion Knife | Doppler (Sapphire)"
+  },
+  {
+    "paintIndex": 417,
+    "defIndex": 512,
+    "name": "Falchion Knife | Doppler (Black Pearl)"
+  },
+  {
+    "paintIndex": 418,
+    "defIndex": 512,
+    "name": "Falchion Knife | Doppler (Phase 1)"
+  },
+  {
+    "paintIndex": 419,
+    "defIndex": 512,
+    "name": "Falchion Knife | Doppler (Phase 2)"
+  },
+  {
+    "paintIndex": 420,
+    "defIndex": 512,
+    "name": "Falchion Knife | Doppler (Phase 3)"
+  },
+  {
+    "paintIndex": 421,
+    "defIndex": 512,
+    "name": "Falchion Knife | Doppler (Phase 4)"
+  },
+  {
+    "paintIndex": 568,
+    "defIndex": 512,
+    "name": "Falchion Knife | Gamma Doppler (Emerald)"
+  },
+  {
+    "paintIndex": 569,
+    "defIndex": 512,
+    "name": "Falchion Knife | Gamma Doppler (Phase 1)"
+  },
+  {
+    "paintIndex": 570,
+    "defIndex": 512,
+    "name": "Falchion Knife | Gamma Doppler (Phase 2)"
+  },
+  {
+    "paintIndex": 571,
+    "defIndex": 512,
+    "name": "Falchion Knife | Gamma Doppler (Phase 3)"
+  },
+  {
+    "paintIndex": 572,
+    "defIndex": 512,
+    "name": "Falchion Knife | Gamma Doppler (Phase 4)"
+  },
+  {
+    "paintIndex": 579,
+    "defIndex": 512,
+    "name": "Falchion Knife | Bright Water"
+  },
+  {
+    "paintIndex": 581,
+    "defIndex": 512,
+    "name": "Falchion Knife | Freehand"
+  },
+  {
+    "paintIndex": 621,
+    "defIndex": 512,
+    "name": "Falchion Knife | Ultraviolet"
+  },
+  {
+    "paintIndex": 1106,
+    "defIndex": 512,
+    "name": "Falchion Knife | Lore"
+  },
+  {
+    "paintIndex": 1111,
+    "defIndex": 512,
+    "name": "Falchion Knife | Black Laminate"
+  },
+  {
+    "paintIndex": 1116,
+    "defIndex": 512,
+    "name": "Falchion Knife | Autotronic"
+  },
+  {
+    "paintIndex": 0,
+    "defIndex": 514,
+    "name": "Bowie Knife | Vanilla"
+  },
+  {
+    "paintIndex": 5,
+    "defIndex": 514,
+    "name": "Bowie Knife | Forest DDPAT"
+  },
+  {
+    "paintIndex": 12,
+    "defIndex": 514,
+    "name": "Bowie Knife | Crimson Web"
+  },
+  {
+    "paintIndex": 38,
+    "defIndex": 514,
+    "name": "Bowie Knife | Fade"
+  },
+  {
+    "paintIndex": 40,
+    "defIndex": 514,
+    "name": "Bowie Knife | Night"
+  },
+  {
+    "paintIndex": 42,
+    "defIndex": 514,
+    "name": "Bowie Knife | Blue Steel"
+  },
+  {
+    "paintIndex": 43,
+    "defIndex": 514,
+    "name": "Bowie Knife | Stained"
+  },
+  {
+    "paintIndex": 44,
+    "defIndex": 514,
+    "name": "Bowie Knife | Case Hardened"
+  },
+  {
+    "paintIndex": 59,
+    "defIndex": 514,
+    "name": "Bowie Knife | Slaughter"
+  },
+  {
+    "paintIndex": 72,
+    "defIndex": 514,
+    "name": "Bowie Knife | Safari Mesh"
+  },
+  {
+    "paintIndex": 77,
+    "defIndex": 514,
+    "name": "Bowie Knife | Boreal Forest"
+  },
+  {
+    "paintIndex": 98,
+    "defIndex": 514,
+    "name": "Bowie Knife | Ultraviolet"
+  },
+  {
+    "paintIndex": 143,
+    "defIndex": 514,
+    "name": "Bowie Knife | Urban Masked"
+  },
+  {
+    "paintIndex": 175,
+    "defIndex": 514,
+    "name": "Bowie Knife | Scorched"
+  },
+  {
+    "paintIndex": 409,
+    "defIndex": 514,
+    "name": "Bowie Knife | Tiger Tooth"
+  },
+  {
+    "paintIndex": 411,
+    "defIndex": 514,
+    "name": "Bowie Knife | Damascus Steel"
+  },
+  {
+    "paintIndex": 413,
+    "defIndex": 514,
+    "name": "Bowie Knife | Marble Fade"
+  },
+  {
+    "paintIndex": 414,
+    "defIndex": 514,
+    "name": "Bowie Knife | Rust Coat"
+  },
+  {
+    "paintIndex": 415,
+    "defIndex": 514,
+    "name": "Bowie Knife | Doppler (Ruby)"
+  },
+  {
+    "paintIndex": 416,
+    "defIndex": 514,
+    "name": "Bowie Knife | Doppler (Sapphire)"
+  },
+  {
+    "paintIndex": 417,
+    "defIndex": 514,
+    "name": "Bowie Knife | Doppler (Black Pearl)"
+  },
+  {
+    "paintIndex": 418,
+    "defIndex": 514,
+    "name": "Bowie Knife | Doppler (Phase 1)"
+  },
+  {
+    "paintIndex": 419,
+    "defIndex": 514,
+    "name": "Bowie Knife | Doppler (Phase 2)"
+  },
+  {
+    "paintIndex": 420,
+    "defIndex": 514,
+    "name": "Bowie Knife | Doppler (Phase 3)"
+  },
+  {
+    "paintIndex": 421,
+    "defIndex": 514,
+    "name": "Bowie Knife | Doppler (Phase 4)"
+  },
+  {
+    "paintIndex": 568,
+    "defIndex": 514,
+    "name": "Bowie Knife | Gamma Doppler (Emerald)"
+  },
+  {
+    "paintIndex": 569,
+    "defIndex": 514,
+    "name": "Bowie Knife | Gamma Doppler (Phase 1)"
+  },
+  {
+    "paintIndex": 570,
+    "defIndex": 514,
+    "name": "Bowie Knife | Gamma Doppler (Phase 2)"
+  },
+  {
+    "paintIndex": 571,
+    "defIndex": 514,
+    "name": "Bowie Knife | Gamma Doppler (Phase 3)"
+  },
+  {
+    "paintIndex": 572,
+    "defIndex": 514,
+    "name": "Bowie Knife | Gamma Doppler (Phase 4)"
+  },
+  {
+    "paintIndex": 579,
+    "defIndex": 514,
+    "name": "Bowie Knife | Bright Water"
+  },
+  {
+    "paintIndex": 581,
+    "defIndex": 514,
+    "name": "Bowie Knife | Freehand"
+  },
+  {
+    "paintIndex": 1104,
+    "defIndex": 514,
+    "name": "Bowie Knife | Lore"
+  },
+  {
+    "paintIndex": 1109,
+    "defIndex": 514,
+    "name": "Bowie Knife | Black Laminate"
+  },
+  {
+    "paintIndex": 1114,
+    "defIndex": 514,
+    "name": "Bowie Knife | Autotronic"
+  },
+  {
+    "paintIndex": 0,
+    "defIndex": 515,
+    "name": "Butterfly Knife | Vanilla"
+  },
+  {
+    "paintIndex": 5,
+    "defIndex": 515,
+    "name": "Butterfly Knife | Forest DDPAT"
+  },
+  {
+    "paintIndex": 12,
+    "defIndex": 515,
+    "name": "Butterfly Knife | Crimson Web"
+  },
+  {
+    "paintIndex": 38,
+    "defIndex": 515,
+    "name": "Butterfly Knife | Fade"
+  },
+  {
+    "paintIndex": 40,
+    "defIndex": 515,
+    "name": "Butterfly Knife | Night"
+  },
+  {
+    "paintIndex": 42,
+    "defIndex": 515,
+    "name": "Butterfly Knife | Blue Steel"
+  },
+  {
+    "paintIndex": 43,
+    "defIndex": 515,
+    "name": "Butterfly Knife | Stained"
+  },
+  {
+    "paintIndex": 44,
+    "defIndex": 515,
+    "name": "Butterfly Knife | Case Hardened"
+  },
+  {
+    "paintIndex": 59,
+    "defIndex": 515,
+    "name": "Butterfly Knife | Slaughter"
+  },
+  {
+    "paintIndex": 72,
+    "defIndex": 515,
+    "name": "Butterfly Knife | Safari Mesh"
+  },
+  {
+    "paintIndex": 77,
+    "defIndex": 515,
+    "name": "Butterfly Knife | Boreal Forest"
+  },
+  {
+    "paintIndex": 98,
+    "defIndex": 515,
+    "name": "Butterfly Knife | Ultraviolet"
+  },
+  {
+    "paintIndex": 143,
+    "defIndex": 515,
+    "name": "Butterfly Knife | Urban Masked"
+  },
+  {
+    "paintIndex": 175,
+    "defIndex": 515,
+    "name": "Butterfly Knife | Scorched"
+  },
+  {
+    "paintIndex": 409,
+    "defIndex": 515,
+    "name": "Butterfly Knife | Tiger Tooth"
+  },
+  {
+    "paintIndex": 411,
+    "defIndex": 515,
+    "name": "Butterfly Knife | Damascus Steel"
+  },
+  {
+    "paintIndex": 413,
+    "defIndex": 515,
+    "name": "Butterfly Knife | Marble Fade"
+  },
+  {
+    "paintIndex": 414,
+    "defIndex": 515,
+    "name": "Butterfly Knife | Rust Coat"
+  },
+  {
+    "paintIndex": 415,
+    "defIndex": 515,
+    "name": "Butterfly Knife | Doppler (Ruby)"
+  },
+  {
+    "paintIndex": 418,
+    "defIndex": 515,
+    "name": "Butterfly Knife | Doppler (Phase 1)"
+  },
+  {
+    "paintIndex": 420,
+    "defIndex": 515,
+    "name": "Butterfly Knife | Doppler (Phase 3)"
+  },
+  {
+    "paintIndex": 421,
+    "defIndex": 515,
+    "name": "Butterfly Knife | Doppler (Phase 4)"
+  },
+  {
+    "paintIndex": 568,
+    "defIndex": 515,
+    "name": "Butterfly Knife | Gamma Doppler (Emerald)"
+  },
+  {
+    "paintIndex": 569,
+    "defIndex": 515,
+    "name": "Butterfly Knife | Gamma Doppler (Phase 1)"
+  },
+  {
+    "paintIndex": 570,
+    "defIndex": 515,
+    "name": "Butterfly Knife | Gamma Doppler (Phase 2)"
+  },
+  {
+    "paintIndex": 571,
+    "defIndex": 515,
+    "name": "Butterfly Knife | Gamma Doppler (Phase 3)"
+  },
+  {
+    "paintIndex": 572,
+    "defIndex": 515,
+    "name": "Butterfly Knife | Gamma Doppler (Phase 4)"
+  },
+  {
+    "paintIndex": 579,
+    "defIndex": 515,
+    "name": "Butterfly Knife | Bright Water"
+  },
+  {
+    "paintIndex": 581,
+    "defIndex": 515,
+    "name": "Butterfly Knife | Freehand"
+  },
+  {
+    "paintIndex": 617,
+    "defIndex": 515,
+    "name": "Butterfly Knife | Doppler (Black Pearl)"
+  },
+  {
+    "paintIndex": 618,
+    "defIndex": 515,
+    "name": "Butterfly Knife | Doppler (Phase 2)"
+  },
+  {
+    "paintIndex": 619,
+    "defIndex": 515,
+    "name": "Butterfly Knife | Doppler (Sapphire)"
+  },
+  {
+    "paintIndex": 1105,
+    "defIndex": 515,
+    "name": "Butterfly Knife | Lore"
+  },
+  {
+    "paintIndex": 1110,
+    "defIndex": 515,
+    "name": "Butterfly Knife | Black Laminate"
+  },
+  {
+    "paintIndex": 1115,
+    "defIndex": 515,
+    "name": "Butterfly Knife | Autotronic"
+  },
+  {
+    "paintIndex": 0,
+    "defIndex": 516,
+    "name": "Shadow Daggers | Vanilla"
+  },
+  {
+    "paintIndex": 5,
+    "defIndex": 516,
+    "name": "Shadow Daggers | Forest DDPAT"
+  },
+  {
+    "paintIndex": 12,
+    "defIndex": 516,
+    "name": "Shadow Daggers | Crimson Web"
+  },
+  {
+    "paintIndex": 38,
+    "defIndex": 516,
+    "name": "Shadow Daggers | Fade"
+  },
+  {
+    "paintIndex": 40,
+    "defIndex": 516,
+    "name": "Shadow Daggers | Night"
+  },
+  {
+    "paintIndex": 42,
+    "defIndex": 516,
+    "name": "Shadow Daggers | Blue Steel"
+  },
+  {
+    "paintIndex": 43,
+    "defIndex": 516,
+    "name": "Shadow Daggers | Stained"
+  },
+  {
+    "paintIndex": 44,
+    "defIndex": 516,
+    "name": "Shadow Daggers | Case Hardened"
+  },
+  {
+    "paintIndex": 59,
+    "defIndex": 516,
+    "name": "Shadow Daggers | Slaughter"
+  },
+  {
+    "paintIndex": 72,
+    "defIndex": 516,
+    "name": "Shadow Daggers | Safari Mesh"
+  },
+  {
+    "paintIndex": 77,
+    "defIndex": 516,
+    "name": "Shadow Daggers | Boreal Forest"
+  },
+  {
+    "paintIndex": 98,
+    "defIndex": 516,
+    "name": "Shadow Daggers | Ultraviolet"
+  },
+  {
+    "paintIndex": 143,
+    "defIndex": 516,
+    "name": "Shadow Daggers | Urban Masked"
+  },
+  {
+    "paintIndex": 175,
+    "defIndex": 516,
+    "name": "Shadow Daggers | Scorched"
+  },
+  {
+    "paintIndex": 409,
+    "defIndex": 516,
+    "name": "Shadow Daggers | Tiger Tooth"
+  },
+  {
+    "paintIndex": 411,
+    "defIndex": 516,
+    "name": "Shadow Daggers | Damascus Steel"
+  },
+  {
+    "paintIndex": 413,
+    "defIndex": 516,
+    "name": "Shadow Daggers | Marble Fade"
+  },
+  {
+    "paintIndex": 414,
+    "defIndex": 516,
+    "name": "Shadow Daggers | Rust Coat"
+  },
+  {
+    "paintIndex": 415,
+    "defIndex": 516,
+    "name": "Shadow Daggers | Doppler (Ruby)"
+  },
+  {
+    "paintIndex": 418,
+    "defIndex": 516,
+    "name": "Shadow Daggers | Doppler (Phase 1)"
+  },
+  {
+    "paintIndex": 420,
+    "defIndex": 516,
+    "name": "Shadow Daggers | Doppler (Phase 3)"
+  },
+  {
+    "paintIndex": 421,
+    "defIndex": 516,
+    "name": "Shadow Daggers | Doppler (Phase 4)"
+  },
+  {
+    "paintIndex": 568,
+    "defIndex": 516,
+    "name": "Shadow Daggers | Gamma Doppler (Emerald)"
+  },
+  {
+    "paintIndex": 569,
+    "defIndex": 516,
+    "name": "Shadow Daggers | Gamma Doppler (Phase 1)"
+  },
+  {
+    "paintIndex": 570,
+    "defIndex": 516,
+    "name": "Shadow Daggers | Gamma Doppler (Phase 2)"
+  },
+  {
+    "paintIndex": 571,
+    "defIndex": 516,
+    "name": "Shadow Daggers | Gamma Doppler (Phase 3)"
+  },
+  {
+    "paintIndex": 572,
+    "defIndex": 516,
+    "name": "Shadow Daggers | Gamma Doppler (Phase 4)"
+  },
+  {
+    "paintIndex": 579,
+    "defIndex": 516,
+    "name": "Shadow Daggers | Bright Water"
+  },
+  {
+    "paintIndex": 581,
+    "defIndex": 516,
+    "name": "Shadow Daggers | Freehand"
+  },
+  {
+    "paintIndex": 617,
+    "defIndex": 516,
+    "name": "Shadow Daggers | Doppler (Black Pearl)"
+  },
+  {
+    "paintIndex": 618,
+    "defIndex": 516,
+    "name": "Shadow Daggers | Doppler (Phase 2)"
+  },
+  {
+    "paintIndex": 619,
+    "defIndex": 516,
+    "name": "Shadow Daggers | Doppler (Sapphire)"
+  },
+  {
+    "paintIndex": 1108,
+    "defIndex": 516,
+    "name": "Shadow Daggers | Lore"
+  },
+  {
+    "paintIndex": 1113,
+    "defIndex": 516,
+    "name": "Shadow Daggers | Black Laminate"
+  },
+  {
+    "paintIndex": 1118,
+    "defIndex": 516,
+    "name": "Shadow Daggers | Autotronic"
+  },
+  {
+    "paintIndex": 0,
+    "defIndex": 517,
+    "name": "Paracord Knife | Vanilla"
+  },
+  {
+    "paintIndex": 5,
+    "defIndex": 517,
+    "name": "Paracord Knife | Forest DDPAT"
+  },
+  {
+    "paintIndex": 12,
+    "defIndex": 517,
+    "name": "Paracord Knife | Crimson Web"
+  },
+  {
+    "paintIndex": 38,
+    "defIndex": 517,
+    "name": "Paracord Knife | Fade"
+  },
+  {
+    "paintIndex": 42,
+    "defIndex": 517,
+    "name": "Paracord Knife | Blue Steel"
+  },
+  {
+    "paintIndex": 43,
+    "defIndex": 517,
+    "name": "Paracord Knife | Stained"
+  },
+  {
+    "paintIndex": 44,
+    "defIndex": 517,
+    "name": "Paracord Knife | Case Hardened"
+  },
+  {
+    "paintIndex": 59,
+    "defIndex": 517,
+    "name": "Paracord Knife | Slaughter"
+  },
+  {
+    "paintIndex": 72,
+    "defIndex": 517,
+    "name": "Paracord Knife | Safari Mesh"
+  },
+  {
+    "paintIndex": 77,
+    "defIndex": 517,
+    "name": "Paracord Knife | Boreal Forest"
+  },
+  {
+    "paintIndex": 143,
+    "defIndex": 517,
+    "name": "Paracord Knife | Urban Masked"
+  },
+  {
+    "paintIndex": 175,
+    "defIndex": 517,
+    "name": "Paracord Knife | Scorched"
+  },
+  {
+    "paintIndex": 409,
+    "defIndex": 517,
+    "name": "Paracord Knife | Tiger Tooth"
+  },
+  {
+    "paintIndex": 410,
+    "defIndex": 517,
+    "name": "Paracord Knife | Damascus Steel"
+  },
+  {
+    "paintIndex": 413,
+    "defIndex": 517,
+    "name": "Paracord Knife | Marble Fade"
+  },
+  {
+    "paintIndex": 414,
+    "defIndex": 517,
+    "name": "Paracord Knife | Rust Coat"
+  },
+  {
+    "paintIndex": 415,
+    "defIndex": 517,
+    "name": "Paracord Knife | Doppler (Ruby)"
+  },
+  {
+    "paintIndex": 416,
+    "defIndex": 517,
+    "name": "Paracord Knife | Doppler (Sapphire)"
+  },
+  {
+    "paintIndex": 417,
+    "defIndex": 517,
+    "name": "Paracord Knife | Doppler (Black Pearl)"
+  },
+  {
+    "paintIndex": 418,
+    "defIndex": 517,
+    "name": "Paracord Knife | Doppler (Phase 1)"
+  },
+  {
+    "paintIndex": 419,
+    "defIndex": 517,
+    "name": "Paracord Knife | Doppler (Phase 2)"
+  },
+  {
+    "paintIndex": 420,
+    "defIndex": 517,
+    "name": "Paracord Knife | Doppler (Phase 3)"
+  },
+  {
+    "paintIndex": 421,
+    "defIndex": 517,
+    "name": "Paracord Knife | Doppler (Phase 4)"
+  },
+  {
+    "paintIndex": 621,
+    "defIndex": 517,
+    "name": "Paracord Knife | Ultraviolet"
+  },
+  {
+    "paintIndex": 735,
+    "defIndex": 517,
+    "name": "Paracord Knife | Night Stripe"
+  },
+  {
+    "paintIndex": 0,
+    "defIndex": 518,
+    "name": "Survival Knife | Vanilla"
+  },
+  {
+    "paintIndex": 5,
+    "defIndex": 518,
+    "name": "Survival Knife | Forest DDPAT"
+  },
+  {
+    "paintIndex": 12,
+    "defIndex": 518,
+    "name": "Survival Knife | Crimson Web"
+  },
+  {
+    "paintIndex": 38,
+    "defIndex": 518,
+    "name": "Survival Knife | Fade"
+  },
+  {
+    "paintIndex": 42,
+    "defIndex": 518,
+    "name": "Survival Knife | Blue Steel"
+  },
+  {
+    "paintIndex": 43,
+    "defIndex": 518,
+    "name": "Survival Knife | Stained"
+  },
+  {
+    "paintIndex": 44,
+    "defIndex": 518,
+    "name": "Survival Knife | Case Hardened"
+  },
+  {
+    "paintIndex": 59,
+    "defIndex": 518,
+    "name": "Survival Knife | Slaughter"
+  },
+  {
+    "paintIndex": 72,
+    "defIndex": 518,
+    "name": "Survival Knife | Safari Mesh"
+  },
+  {
+    "paintIndex": 77,
+    "defIndex": 518,
+    "name": "Survival Knife | Boreal Forest"
+  },
+  {
+    "paintIndex": 98,
+    "defIndex": 518,
+    "name": "Survival Knife | Ultraviolet"
+  },
+  {
+    "paintIndex": 143,
+    "defIndex": 518,
+    "name": "Survival Knife | Urban Masked"
+  },
+  {
+    "paintIndex": 175,
+    "defIndex": 518,
+    "name": "Survival Knife | Scorched"
+  },
+  {
+    "paintIndex": 409,
+    "defIndex": 518,
+    "name": "Survival Knife | Tiger Tooth"
+  },
+  {
+    "paintIndex": 410,
+    "defIndex": 518,
+    "name": "Survival Knife | Damascus Steel"
+  },
+  {
+    "paintIndex": 413,
+    "defIndex": 518,
+    "name": "Survival Knife | Marble Fade"
+  },
+  {
+    "paintIndex": 414,
+    "defIndex": 518,
+    "name": "Survival Knife | Rust Coat"
+  },
+  {
+    "paintIndex": 415,
+    "defIndex": 518,
+    "name": "Survival Knife | Doppler (Ruby)"
+  },
+  {
+    "paintIndex": 416,
+    "defIndex": 518,
+    "name": "Survival Knife | Doppler (Sapphire)"
+  },
+  {
+    "paintIndex": 417,
+    "defIndex": 518,
+    "name": "Survival Knife | Doppler (Black Pearl)"
+  },
+  {
+    "paintIndex": 418,
+    "defIndex": 518,
+    "name": "Survival Knife | Doppler (Phase 1)"
+  },
+  {
+    "paintIndex": 419,
+    "defIndex": 518,
+    "name": "Survival Knife | Doppler (Phase 2)"
+  },
+  {
+    "paintIndex": 420,
+    "defIndex": 518,
+    "name": "Survival Knife | Doppler (Phase 3)"
+  },
+  {
+    "paintIndex": 421,
+    "defIndex": 518,
+    "name": "Survival Knife | Doppler (Phase 4)"
+  },
+  {
+    "paintIndex": 735,
+    "defIndex": 518,
+    "name": "Survival Knife | Night Stripe"
+  },
+  {
+    "paintIndex": 0,
+    "defIndex": 519,
+    "name": "Ursus Knife | Vanilla"
+  },
+  {
+    "paintIndex": 5,
+    "defIndex": 519,
+    "name": "Ursus Knife | Forest DDPAT"
+  },
+  {
+    "paintIndex": 12,
+    "defIndex": 519,
+    "name": "Ursus Knife | Crimson Web"
+  },
+  {
+    "paintIndex": 38,
+    "defIndex": 519,
+    "name": "Ursus Knife | Fade"
+  },
+  {
+    "paintIndex": 42,
+    "defIndex": 519,
+    "name": "Ursus Knife | Blue Steel"
+  },
+  {
+    "paintIndex": 43,
+    "defIndex": 519,
+    "name": "Ursus Knife | Stained"
+  },
+  {
+    "paintIndex": 44,
+    "defIndex": 519,
+    "name": "Ursus Knife | Case Hardened"
+  },
+  {
+    "paintIndex": 59,
+    "defIndex": 519,
+    "name": "Ursus Knife | Slaughter"
+  },
+  {
+    "paintIndex": 72,
+    "defIndex": 519,
+    "name": "Ursus Knife | Safari Mesh"
+  },
+  {
+    "paintIndex": 77,
+    "defIndex": 519,
+    "name": "Ursus Knife | Boreal Forest"
+  },
+  {
+    "paintIndex": 98,
+    "defIndex": 519,
+    "name": "Ursus Knife | Ultraviolet"
+  },
+  {
+    "paintIndex": 143,
+    "defIndex": 519,
+    "name": "Ursus Knife | Urban Masked"
+  },
+  {
+    "paintIndex": 175,
+    "defIndex": 519,
+    "name": "Ursus Knife | Scorched"
+  },
+  {
+    "paintIndex": 409,
+    "defIndex": 519,
+    "name": "Ursus Knife | Tiger Tooth"
+  },
+  {
+    "paintIndex": 413,
+    "defIndex": 519,
+    "name": "Ursus Knife | Marble Fade"
+  },
+  {
+    "paintIndex": 414,
+    "defIndex": 519,
+    "name": "Ursus Knife | Rust Coat"
+  },
+  {
+    "paintIndex": 415,
+    "defIndex": 519,
+    "name": "Ursus Knife | Doppler (Ruby)"
+  },
+  {
+    "paintIndex": 416,
+    "defIndex": 519,
+    "name": "Ursus Knife | Doppler (Sapphire)"
+  },
+  {
+    "paintIndex": 417,
+    "defIndex": 519,
+    "name": "Ursus Knife | Doppler (Black Pearl)"
+  },
+  {
+    "paintIndex": 418,
+    "defIndex": 519,
+    "name": "Ursus Knife | Doppler (Phase 1)"
+  },
+  {
+    "paintIndex": 419,
+    "defIndex": 519,
+    "name": "Ursus Knife | Doppler (Phase 2)"
+  },
+  {
+    "paintIndex": 420,
+    "defIndex": 519,
+    "name": "Ursus Knife | Doppler (Phase 3)"
+  },
+  {
+    "paintIndex": 421,
+    "defIndex": 519,
+    "name": "Ursus Knife | Doppler (Phase 4)"
+  },
+  {
+    "paintIndex": 735,
+    "defIndex": 519,
+    "name": "Ursus Knife | Night Stripe"
+  },
+  {
+    "paintIndex": 857,
+    "defIndex": 519,
+    "name": "Ursus Knife | Damascus Steel"
+  },
+  {
+    "paintIndex": 0,
+    "defIndex": 520,
+    "name": "Navaja Knife | Vanilla"
+  },
+  {
+    "paintIndex": 5,
+    "defIndex": 520,
+    "name": "Navaja Knife | Forest DDPAT"
+  },
+  {
+    "paintIndex": 12,
+    "defIndex": 520,
+    "name": "Navaja Knife | Crimson Web"
+  },
+  {
+    "paintIndex": 38,
+    "defIndex": 520,
+    "name": "Navaja Knife | Fade"
+  },
+  {
+    "paintIndex": 42,
+    "defIndex": 520,
+    "name": "Navaja Knife | Blue Steel"
+  },
+  {
+    "paintIndex": 43,
+    "defIndex": 520,
+    "name": "Navaja Knife | Stained"
+  },
+  {
+    "paintIndex": 44,
+    "defIndex": 520,
+    "name": "Navaja Knife | Case Hardened"
+  },
+  {
+    "paintIndex": 59,
+    "defIndex": 520,
+    "name": "Navaja Knife | Slaughter"
+  },
+  {
+    "paintIndex": 72,
+    "defIndex": 520,
+    "name": "Navaja Knife | Safari Mesh"
+  },
+  {
+    "paintIndex": 77,
+    "defIndex": 520,
+    "name": "Navaja Knife | Boreal Forest"
+  },
+  {
+    "paintIndex": 98,
+    "defIndex": 520,
+    "name": "Navaja Knife | Ultraviolet"
+  },
+  {
+    "paintIndex": 143,
+    "defIndex": 520,
+    "name": "Navaja Knife | Urban Masked"
+  },
+  {
+    "paintIndex": 175,
+    "defIndex": 520,
+    "name": "Navaja Knife | Scorched"
+  },
+  {
+    "paintIndex": 409,
+    "defIndex": 520,
+    "name": "Navaja Knife | Tiger Tooth"
+  },
+  {
+    "paintIndex": 413,
+    "defIndex": 520,
+    "name": "Navaja Knife | Marble Fade"
+  },
+  {
+    "paintIndex": 414,
+    "defIndex": 520,
+    "name": "Navaja Knife | Rust Coat"
+  },
+  {
+    "paintIndex": 415,
+    "defIndex": 520,
+    "name": "Navaja Knife | Doppler (Ruby)"
+  },
+  {
+    "paintIndex": 416,
+    "defIndex": 520,
+    "name": "Navaja Knife | Doppler (Sapphire)"
+  },
+  {
+    "paintIndex": 417,
+    "defIndex": 520,
+    "name": "Navaja Knife | Doppler (Black Pearl)"
+  },
+  {
+    "paintIndex": 418,
+    "defIndex": 520,
+    "name": "Navaja Knife | Doppler (Phase 1)"
+  },
+  {
+    "paintIndex": 419,
+    "defIndex": 520,
+    "name": "Navaja Knife | Doppler (Phase 2)"
+  },
+  {
+    "paintIndex": 420,
+    "defIndex": 520,
+    "name": "Navaja Knife | Doppler (Phase 3)"
+  },
+  {
+    "paintIndex": 421,
+    "defIndex": 520,
+    "name": "Navaja Knife | Doppler (Phase 4)"
+  },
+  {
+    "paintIndex": 735,
+    "defIndex": 520,
+    "name": "Navaja Knife | Night Stripe"
+  },
+  {
+    "paintIndex": 857,
+    "defIndex": 520,
+    "name": "Navaja Knife | Damascus Steel"
+  },
+  {
+    "paintIndex": 0,
+    "defIndex": 521,
+    "name": "Nomad Knife | Vanilla"
+  },
+  {
+    "paintIndex": 5,
+    "defIndex": 521,
+    "name": "Nomad Knife | Forest DDPAT"
+  },
+  {
+    "paintIndex": 12,
+    "defIndex": 521,
+    "name": "Nomad Knife | Crimson Web"
+  },
+  {
+    "paintIndex": 38,
+    "defIndex": 521,
+    "name": "Nomad Knife | Fade"
+  },
+  {
+    "paintIndex": 42,
+    "defIndex": 521,
+    "name": "Nomad Knife | Blue Steel"
+  },
+  {
+    "paintIndex": 43,
+    "defIndex": 521,
+    "name": "Nomad Knife | Stained"
+  },
+  {
+    "paintIndex": 44,
+    "defIndex": 521,
+    "name": "Nomad Knife | Case Hardened"
+  },
+  {
+    "paintIndex": 59,
+    "defIndex": 521,
+    "name": "Nomad Knife | Slaughter"
+  },
+  {
+    "paintIndex": 72,
+    "defIndex": 521,
+    "name": "Nomad Knife | Safari Mesh"
+  },
+  {
+    "paintIndex": 77,
+    "defIndex": 521,
+    "name": "Nomad Knife | Boreal Forest"
+  },
+  {
+    "paintIndex": 98,
+    "defIndex": 521,
+    "name": "Nomad Knife | Ultraviolet"
+  },
+  {
+    "paintIndex": 143,
+    "defIndex": 521,
+    "name": "Nomad Knife | Urban Masked"
+  },
+  {
+    "paintIndex": 175,
+    "defIndex": 521,
+    "name": "Nomad Knife | Scorched"
+  },
+  {
+    "paintIndex": 409,
+    "defIndex": 521,
+    "name": "Nomad Knife | Tiger Tooth"
+  },
+  {
+    "paintIndex": 410,
+    "defIndex": 521,
+    "name": "Nomad Knife | Damascus Steel"
+  },
+  {
+    "paintIndex": 413,
+    "defIndex": 521,
+    "name": "Nomad Knife | Marble Fade"
+  },
+  {
+    "paintIndex": 414,
+    "defIndex": 521,
+    "name": "Nomad Knife | Rust Coat"
+  },
+  {
+    "paintIndex": 415,
+    "defIndex": 521,
+    "name": "Nomad Knife | Doppler (Ruby)"
+  },
+  {
+    "paintIndex": 416,
+    "defIndex": 521,
+    "name": "Nomad Knife | Doppler (Sapphire)"
+  },
+  {
+    "paintIndex": 417,
+    "defIndex": 521,
+    "name": "Nomad Knife | Doppler (Black Pearl)"
+  },
+  {
+    "paintIndex": 418,
+    "defIndex": 521,
+    "name": "Nomad Knife | Doppler (Phase 1)"
+  },
+  {
+    "paintIndex": 419,
+    "defIndex": 521,
+    "name": "Nomad Knife | Doppler (Phase 2)"
+  },
+  {
+    "paintIndex": 420,
+    "defIndex": 521,
+    "name": "Nomad Knife | Doppler (Phase 3)"
+  },
+  {
+    "paintIndex": 421,
+    "defIndex": 521,
+    "name": "Nomad Knife | Doppler (Phase 4)"
+  },
+  {
+    "paintIndex": 735,
+    "defIndex": 521,
+    "name": "Nomad Knife | Night Stripe"
+  },
+  {
+    "paintIndex": 0,
+    "defIndex": 522,
+    "name": "Stiletto Knife | Vanilla"
+  },
+  {
+    "paintIndex": 5,
+    "defIndex": 522,
+    "name": "Stiletto Knife | Forest DDPAT"
+  },
+  {
+    "paintIndex": 12,
+    "defIndex": 522,
+    "name": "Stiletto Knife | Crimson Web"
+  },
+  {
+    "paintIndex": 38,
+    "defIndex": 522,
+    "name": "Stiletto Knife | Fade"
+  },
+  {
+    "paintIndex": 42,
+    "defIndex": 522,
+    "name": "Stiletto Knife | Blue Steel"
+  },
+  {
+    "paintIndex": 43,
+    "defIndex": 522,
+    "name": "Stiletto Knife | Stained"
+  },
+  {
+    "paintIndex": 44,
+    "defIndex": 522,
+    "name": "Stiletto Knife | Case Hardened"
+  },
+  {
+    "paintIndex": 59,
+    "defIndex": 522,
+    "name": "Stiletto Knife | Slaughter"
+  },
+  {
+    "paintIndex": 72,
+    "defIndex": 522,
+    "name": "Stiletto Knife | Safari Mesh"
+  },
+  {
+    "paintIndex": 77,
+    "defIndex": 522,
+    "name": "Stiletto Knife | Boreal Forest"
+  },
+  {
+    "paintIndex": 98,
+    "defIndex": 522,
+    "name": "Stiletto Knife | Ultraviolet"
+  },
+  {
+    "paintIndex": 143,
+    "defIndex": 522,
+    "name": "Stiletto Knife | Urban Masked"
+  },
+  {
+    "paintIndex": 175,
+    "defIndex": 522,
+    "name": "Stiletto Knife | Scorched"
+  },
+  {
+    "paintIndex": 409,
+    "defIndex": 522,
+    "name": "Stiletto Knife | Tiger Tooth"
+  },
+  {
+    "paintIndex": 413,
+    "defIndex": 522,
+    "name": "Stiletto Knife | Marble Fade"
+  },
+  {
+    "paintIndex": 414,
+    "defIndex": 522,
+    "name": "Stiletto Knife | Rust Coat"
+  },
+  {
+    "paintIndex": 415,
+    "defIndex": 522,
+    "name": "Stiletto Knife | Doppler (Ruby)"
+  },
+  {
+    "paintIndex": 416,
+    "defIndex": 522,
+    "name": "Stiletto Knife | Doppler (Sapphire)"
+  },
+  {
+    "paintIndex": 417,
+    "defIndex": 522,
+    "name": "Stiletto Knife | Doppler (Black Pearl)"
+  },
+  {
+    "paintIndex": 418,
+    "defIndex": 522,
+    "name": "Stiletto Knife | Doppler (Phase 1)"
+  },
+  {
+    "paintIndex": 419,
+    "defIndex": 522,
+    "name": "Stiletto Knife | Doppler (Phase 2)"
+  },
+  {
+    "paintIndex": 420,
+    "defIndex": 522,
+    "name": "Stiletto Knife | Doppler (Phase 3)"
+  },
+  {
+    "paintIndex": 421,
+    "defIndex": 522,
+    "name": "Stiletto Knife | Doppler (Phase 4)"
+  },
+  {
+    "paintIndex": 735,
+    "defIndex": 522,
+    "name": "Stiletto Knife | Night Stripe"
+  },
+  {
+    "paintIndex": 857,
+    "defIndex": 522,
+    "name": "Stiletto Knife | Damascus Steel"
+  },
+  {
+    "paintIndex": 0,
+    "defIndex": 523,
+    "name": "Talon Knife | Vanilla"
+  },
+  {
+    "paintIndex": 5,
+    "defIndex": 523,
+    "name": "Talon Knife | Forest DDPAT"
+  },
+  {
+    "paintIndex": 12,
+    "defIndex": 523,
+    "name": "Talon Knife | Crimson Web"
+  },
+  {
+    "paintIndex": 38,
+    "defIndex": 523,
+    "name": "Talon Knife | Fade"
+  },
+  {
+    "paintIndex": 42,
+    "defIndex": 523,
+    "name": "Talon Knife | Blue Steel"
+  },
+  {
+    "paintIndex": 43,
+    "defIndex": 523,
+    "name": "Talon Knife | Stained"
+  },
+  {
+    "paintIndex": 44,
+    "defIndex": 523,
+    "name": "Talon Knife | Case Hardened"
+  },
+  {
+    "paintIndex": 59,
+    "defIndex": 523,
+    "name": "Talon Knife | Slaughter"
+  },
+  {
+    "paintIndex": 72,
+    "defIndex": 523,
+    "name": "Talon Knife | Safari Mesh"
+  },
+  {
+    "paintIndex": 77,
+    "defIndex": 523,
+    "name": "Talon Knife | Boreal Forest"
+  },
+  {
+    "paintIndex": 98,
+    "defIndex": 523,
+    "name": "Talon Knife | Ultraviolet"
+  },
+  {
+    "paintIndex": 143,
+    "defIndex": 523,
+    "name": "Talon Knife | Urban Masked"
+  },
+  {
+    "paintIndex": 175,
+    "defIndex": 523,
+    "name": "Talon Knife | Scorched"
+  },
+  {
+    "paintIndex": 409,
+    "defIndex": 523,
+    "name": "Talon Knife | Tiger Tooth"
+  },
+  {
+    "paintIndex": 414,
+    "defIndex": 523,
+    "name": "Talon Knife | Rust Coat"
+  },
+  {
+    "paintIndex": 415,
+    "defIndex": 523,
+    "name": "Talon Knife | Doppler (Ruby)"
+  },
+  {
+    "paintIndex": 416,
+    "defIndex": 523,
+    "name": "Talon Knife | Doppler (Sapphire)"
+  },
+  {
+    "paintIndex": 417,
+    "defIndex": 523,
+    "name": "Talon Knife | Doppler (Black Pearl)"
+  },
+  {
+    "paintIndex": 735,
+    "defIndex": 523,
+    "name": "Talon Knife | Night Stripe"
+  },
+  {
+    "paintIndex": 852,
+    "defIndex": 523,
+    "name": "Talon Knife | Doppler (Phase 1)"
+  },
+  {
+    "paintIndex": 853,
+    "defIndex": 523,
+    "name": "Talon Knife | Doppler (Phase 2)"
+  },
+  {
+    "paintIndex": 854,
+    "defIndex": 523,
+    "name": "Talon Knife | Doppler (Phase 3)"
+  },
+  {
+    "paintIndex": 855,
+    "defIndex": 523,
+    "name": "Talon Knife | Doppler (Phase 4)"
+  },
+  {
+    "paintIndex": 856,
+    "defIndex": 523,
+    "name": "Talon Knife | Marble Fade"
+  },
+  {
+    "paintIndex": 858,
+    "defIndex": 523,
+    "name": "Talon Knife | Damascus Steel"
+  },
+  {
+    "paintIndex": 0,
+    "defIndex": 525,
+    "name": "Skeleton Knife | Vanilla"
+  },
+  {
+    "paintIndex": 5,
+    "defIndex": 525,
+    "name": "Skeleton Knife | Forest DDPAT"
+  },
+  {
+    "paintIndex": 12,
+    "defIndex": 525,
+    "name": "Skeleton Knife | Crimson Web"
+  },
+  {
+    "paintIndex": 38,
+    "defIndex": 525,
+    "name": "Skeleton Knife | Fade"
+  },
+  {
+    "paintIndex": 42,
+    "defIndex": 525,
+    "name": "Skeleton Knife | Blue Steel"
+  },
+  {
+    "paintIndex": 43,
+    "defIndex": 525,
+    "name": "Skeleton Knife | Stained"
+  },
+  {
+    "paintIndex": 44,
+    "defIndex": 525,
+    "name": "Skeleton Knife | Case Hardened"
+  },
+  {
+    "paintIndex": 59,
+    "defIndex": 525,
+    "name": "Skeleton Knife | Slaughter"
+  },
+  {
+    "paintIndex": 72,
+    "defIndex": 525,
+    "name": "Skeleton Knife | Safari Mesh"
+  },
+  {
+    "paintIndex": 77,
+    "defIndex": 525,
+    "name": "Skeleton Knife | Boreal Forest"
+  },
+  {
+    "paintIndex": 98,
+    "defIndex": 525,
+    "name": "Skeleton Knife | Ultraviolet"
+  },
+  {
+    "paintIndex": 143,
+    "defIndex": 525,
+    "name": "Skeleton Knife | Urban Masked"
+  },
+  {
+    "paintIndex": 175,
+    "defIndex": 525,
+    "name": "Skeleton Knife | Scorched"
+  },
+  {
+    "paintIndex": 409,
+    "defIndex": 525,
+    "name": "Skeleton Knife | Tiger Tooth"
+  },
+  {
+    "paintIndex": 410,
+    "defIndex": 525,
+    "name": "Skeleton Knife | Damascus Steel"
+  },
+  {
+    "paintIndex": 413,
+    "defIndex": 525,
+    "name": "Skeleton Knife | Marble Fade"
+  },
+  {
+    "paintIndex": 414,
+    "defIndex": 525,
+    "name": "Skeleton Knife | Rust Coat"
+  },
+  {
+    "paintIndex": 415,
+    "defIndex": 525,
+    "name": "Skeleton Knife | Doppler (Ruby)"
+  },
+  {
+    "paintIndex": 416,
+    "defIndex": 525,
+    "name": "Skeleton Knife | Doppler (Sapphire)"
+  },
+  {
+    "paintIndex": 417,
+    "defIndex": 525,
+    "name": "Skeleton Knife | Doppler (Black Pearl)"
+  },
+  {
+    "paintIndex": 418,
+    "defIndex": 525,
+    "name": "Skeleton Knife | Doppler (Phase 1)"
+  },
+  {
+    "paintIndex": 419,
+    "defIndex": 525,
+    "name": "Skeleton Knife | Doppler (Phase 2)"
+  },
+  {
+    "paintIndex": 420,
+    "defIndex": 525,
+    "name": "Skeleton Knife | Doppler (Phase 3)"
+  },
+  {
+    "paintIndex": 421,
+    "defIndex": 525,
+    "name": "Skeleton Knife | Doppler (Phase 4)"
+  },
+  {
+    "paintIndex": 735,
+    "defIndex": 525,
+    "name": "Skeleton Knife | Night Stripe"
+  },
+  {
+    "paintIndex": 0,
+    "defIndex": 526,
+    "name": "Kukri Knife | Vanilla"
+  },
+  {
+    "paintIndex": 5,
+    "defIndex": 526,
+    "name": "Kukri Knife | Forest DDPAT"
+  },
+  {
+    "paintIndex": 12,
+    "defIndex": 526,
+    "name": "Kukri Knife | Crimson Web"
+  },
+  {
+    "paintIndex": 38,
+    "defIndex": 526,
+    "name": "Kukri Knife | Fade"
+  },
+  {
+    "paintIndex": 42,
+    "defIndex": 526,
+    "name": "Kukri Knife | Blue Steel"
+  },
+  {
+    "paintIndex": 43,
+    "defIndex": 526,
+    "name": "Kukri Knife | Stained"
+  },
+  {
+    "paintIndex": 44,
+    "defIndex": 526,
+    "name": "Kukri Knife | Case Hardened"
+  },
+  {
+    "paintIndex": 59,
+    "defIndex": 526,
+    "name": "Kukri Knife | Slaughter"
+  },
+  {
+    "paintIndex": 72,
+    "defIndex": 526,
+    "name": "Kukri Knife | Safari Mesh"
+  },
+  {
+    "paintIndex": 77,
+    "defIndex": 526,
+    "name": "Kukri Knife | Boreal Forest"
+  },
+  {
+    "paintIndex": 143,
+    "defIndex": 526,
+    "name": "Kukri Knife | Urban Masked"
+  },
+  {
+    "paintIndex": 175,
+    "defIndex": 526,
+    "name": "Kukri Knife | Scorched"
+  },
+  {
+    "paintIndex": 735,
+    "defIndex": 526,
+    "name": "Kukri Knife | Night Stripe"
+  },
+  {
+    "paintIndex": 10085,
+    "defIndex": 4725,
+    "name": "Broken Fang Gloves | Jade"
+  },
+  {
+    "paintIndex": 10086,
+    "defIndex": 4725,
+    "name": "Broken Fang Gloves | Yellow-banded"
+  },
+  {
+    "paintIndex": 10087,
+    "defIndex": 4725,
+    "name": "Broken Fang Gloves | Needle Point"
+  },
+  {
+    "paintIndex": 10088,
+    "defIndex": 4725,
+    "name": "Broken Fang Gloves | Unhinged"
+  },
+  {
+    "paintIndex": 10006,
+    "defIndex": 5027,
+    "name": "Bloodhound Gloves | Charred"
+  },
+  {
+    "paintIndex": 10007,
+    "defIndex": 5027,
+    "name": "Bloodhound Gloves | Snakebite"
+  },
+  {
+    "paintIndex": 10008,
+    "defIndex": 5027,
+    "name": "Bloodhound Gloves | Bronzed"
+  },
+  {
+    "paintIndex": 10039,
+    "defIndex": 5027,
+    "name": "Bloodhound Gloves | Guerrilla"
+  },
+  {
+    "paintIndex": 10018,
+    "defIndex": 5030,
+    "name": "Sport Gloves | Superconductor"
+  },
+  {
+    "paintIndex": 10019,
+    "defIndex": 5030,
+    "name": "Sport Gloves | Arid"
+  },
+  {
+    "paintIndex": 10037,
+    "defIndex": 5030,
+    "name": "Sport Gloves | Pandora's Box"
+  },
+  {
+    "paintIndex": 10038,
+    "defIndex": 5030,
+    "name": "Sport Gloves | Hedge Maze"
+  },
+  {
+    "paintIndex": 10045,
+    "defIndex": 5030,
+    "name": "Sport Gloves | Amphibious"
+  },
+  {
+    "paintIndex": 10046,
+    "defIndex": 5030,
+    "name": "Sport Gloves | Bronze Morph"
+  },
+  {
+    "paintIndex": 10047,
+    "defIndex": 5030,
+    "name": "Sport Gloves | Omega"
+  },
+  {
+    "paintIndex": 10048,
+    "defIndex": 5030,
+    "name": "Sport Gloves | Vice"
+  },
+  {
+    "paintIndex": 10073,
+    "defIndex": 5030,
+    "name": "Sport Gloves | Slingshot"
+  },
+  {
+    "paintIndex": 10074,
+    "defIndex": 5030,
+    "name": "Sport Gloves | Big Game"
+  },
+  {
+    "paintIndex": 10075,
+    "defIndex": 5030,
+    "name": "Sport Gloves | Scarlet Shamagh"
+  },
+  {
+    "paintIndex": 10076,
+    "defIndex": 5030,
+    "name": "Sport Gloves | Nocts"
+  },
+  {
+    "paintIndex": 10013,
+    "defIndex": 5031,
+    "name": "Driver Gloves | Lunar Weave"
+  },
+  {
+    "paintIndex": 10015,
+    "defIndex": 5031,
+    "name": "Driver Gloves | Convoy"
+  },
+  {
+    "paintIndex": 10016,
+    "defIndex": 5031,
+    "name": "Driver Gloves | Crimson Weave"
+  },
+  {
+    "paintIndex": 10040,
+    "defIndex": 5031,
+    "name": "Driver Gloves | Diamondback"
+  },
+  {
+    "paintIndex": 10041,
+    "defIndex": 5031,
+    "name": "Driver Gloves | King Snake"
+  },
+  {
+    "paintIndex": 10042,
+    "defIndex": 5031,
+    "name": "Driver Gloves | Imperial Plaid"
+  },
+  {
+    "paintIndex": 10043,
+    "defIndex": 5031,
+    "name": "Driver Gloves | Overtake"
+  },
+  {
+    "paintIndex": 10044,
+    "defIndex": 5031,
+    "name": "Driver Gloves | Racing Green"
+  },
+  {
+    "paintIndex": 10069,
+    "defIndex": 5031,
+    "name": "Driver Gloves | Rezan the Red"
+  },
+  {
+    "paintIndex": 10070,
+    "defIndex": 5031,
+    "name": "Driver Gloves | Snow Leopard"
+  },
+  {
+    "paintIndex": 10071,
+    "defIndex": 5031,
+    "name": "Driver Gloves | Queen Jaguar"
+  },
+  {
+    "paintIndex": 10072,
+    "defIndex": 5031,
+    "name": "Driver Gloves | Black Tie"
+  },
+  {
+    "paintIndex": 10009,
+    "defIndex": 5032,
+    "name": "Hand Wraps | Leather"
+  },
+  {
+    "paintIndex": 10010,
+    "defIndex": 5032,
+    "name": "Hand Wraps | Spruce DDPAT"
+  },
+  {
+    "paintIndex": 10021,
+    "defIndex": 5032,
+    "name": "Hand Wraps | Slaughter"
+  },
+  {
+    "paintIndex": 10036,
+    "defIndex": 5032,
+    "name": "Hand Wraps | Badlands"
+  },
+  {
+    "paintIndex": 10053,
+    "defIndex": 5032,
+    "name": "Hand Wraps | Cobalt Skulls"
+  },
+  {
+    "paintIndex": 10054,
+    "defIndex": 5032,
+    "name": "Hand Wraps | Overprint"
+  },
+  {
+    "paintIndex": 10055,
+    "defIndex": 5032,
+    "name": "Hand Wraps | Duct Tape"
+  },
+  {
+    "paintIndex": 10056,
+    "defIndex": 5032,
+    "name": "Hand Wraps | Arboreal"
+  },
+  {
+    "paintIndex": 10081,
+    "defIndex": 5032,
+    "name": "Hand Wraps | Desert Shamagh"
+  },
+  {
+    "paintIndex": 10082,
+    "defIndex": 5032,
+    "name": "Hand Wraps | Giraffe"
+  },
+  {
+    "paintIndex": 10083,
+    "defIndex": 5032,
+    "name": "Hand Wraps | Constrictor"
+  },
+  {
+    "paintIndex": 10084,
+    "defIndex": 5032,
+    "name": "Hand Wraps | CAUTION!"
+  },
+  {
+    "paintIndex": 10024,
+    "defIndex": 5033,
+    "name": "Moto Gloves | Eclipse"
+  },
+  {
+    "paintIndex": 10026,
+    "defIndex": 5033,
+    "name": "Moto Gloves | Spearmint"
+  },
+  {
+    "paintIndex": 10027,
+    "defIndex": 5033,
+    "name": "Moto Gloves | Boom!"
+  },
+  {
+    "paintIndex": 10028,
+    "defIndex": 5033,
+    "name": "Moto Gloves | Cool Mint"
+  },
+  {
+    "paintIndex": 10049,
+    "defIndex": 5033,
+    "name": "Moto Gloves | POW!"
+  },
+  {
+    "paintIndex": 10050,
+    "defIndex": 5033,
+    "name": "Moto Gloves | Turtle"
+  },
+  {
+    "paintIndex": 10051,
+    "defIndex": 5033,
+    "name": "Moto Gloves | Transport"
+  },
+  {
+    "paintIndex": 10052,
+    "defIndex": 5033,
+    "name": "Moto Gloves | Polygon"
+  },
+  {
+    "paintIndex": 10077,
+    "defIndex": 5033,
+    "name": "Moto Gloves | Finish Line"
+  },
+  {
+    "paintIndex": 10078,
+    "defIndex": 5033,
+    "name": "Moto Gloves | Smoke Out"
+  },
+  {
+    "paintIndex": 10079,
+    "defIndex": 5033,
+    "name": "Moto Gloves | Blood Pressure"
+  },
+  {
+    "paintIndex": 10080,
+    "defIndex": 5033,
+    "name": "Moto Gloves | 3rd Commando Company"
+  },
+  {
+    "paintIndex": 10030,
+    "defIndex": 5034,
+    "name": "Specialist Gloves | Forest DDPAT"
+  },
+  {
+    "paintIndex": 10033,
+    "defIndex": 5034,
+    "name": "Specialist Gloves | Crimson Kimono"
+  },
+  {
+    "paintIndex": 10034,
+    "defIndex": 5034,
+    "name": "Specialist Gloves | Emerald Web"
+  },
+  {
+    "paintIndex": 10035,
+    "defIndex": 5034,
+    "name": "Specialist Gloves | Foundation"
+  },
+  {
+    "paintIndex": 10061,
+    "defIndex": 5034,
+    "name": "Specialist Gloves | Crimson Web"
+  },
+  {
+    "paintIndex": 10062,
+    "defIndex": 5034,
+    "name": "Specialist Gloves | Buckshot"
+  },
+  {
+    "paintIndex": 10063,
+    "defIndex": 5034,
+    "name": "Specialist Gloves | Fade"
+  },
+  {
+    "paintIndex": 10064,
+    "defIndex": 5034,
+    "name": "Specialist Gloves | Mogul"
+  },
+  {
+    "paintIndex": 10065,
+    "defIndex": 5034,
+    "name": "Specialist Gloves | Marble Fade"
+  },
+  {
+    "paintIndex": 10066,
+    "defIndex": 5034,
+    "name": "Specialist Gloves | Lt. Commander"
+  },
+  {
+    "paintIndex": 10067,
+    "defIndex": 5034,
+    "name": "Specialist Gloves | Tiger Strike"
+  },
+  {
+    "paintIndex": 10068,
+    "defIndex": 5034,
+    "name": "Specialist Gloves | Field Agent"
+  },
+  {
+    "paintIndex": 10057,
+    "defIndex": 5035,
+    "name": "Hydra Gloves | Emerald"
+  },
+  {
+    "paintIndex": 10058,
+    "defIndex": 5035,
+    "name": "Hydra Gloves | Mangrove"
+  },
+  {
+    "paintIndex": 10059,
+    "defIndex": 5035,
+    "name": "Hydra Gloves | Rattler"
+  },
+  {
+    "paintIndex": 10060,
+    "defIndex": 5035,
+    "name": "Hydra Gloves | Case Hardened"
+  }
+]
